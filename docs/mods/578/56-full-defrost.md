@@ -38,7 +38,7 @@ Download the **Alinco DR-MD500 full defroster pack (2.3 Mb)** (Note: not suitabl
 2. Plug in your programming cable to the radio and your computers USB port, hold down **dial knob** & **P1** while powering on the radio, and confirm the display shows "UPDATE MODE"
 3. Start AT_Flash_Utility_v3.exe. In the Start Address (Hex) box type 2F00000 \[2F and five zeros\] and in the Length (Hex) box type E0000 \[E and four zeros\]. Then click the **Select File** button, and navigate to the directory you have unzipped the defrosting files into. Enter a file name of "myvital.bin" then select Save.
 4. Select your usual Com Port, and then click the **Read** button. You will get two error messages, this is fine, just click on OK. AT Flash Utility will then read some vital flash memory and save it to a file called myvital.bin and takes about 55 seconds to complete.
-5. After the read is complete, click on the OK button. Confirm that your myvital.bin file is in the working directory and that its size is 896kb. If not, go back to step 6 again, making absolutely sure you have given the correct Hex address and length values.
+5. After the read is complete, click on the OK button. Confirm that your myvital.bin file is in the working directory and that its size is 896kb. If not, go back to step 3 again, making absolutely sure you have given the correct Hex address and length values.
 6. Close down AT Flash Utility.
 7. Rename the file myvital.bin to myvital.CDD (i.e. change the file extension from .bin to .CDD) This step is very important, do not skip this step.
 8. Turn off your radio, and again hold down the **dial knob** & **P1** while powering on the radio, and confirm the display shows "UPDATE MODE"

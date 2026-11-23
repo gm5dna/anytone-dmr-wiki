@@ -24,7 +24,7 @@ Follow these suggestions, in this order:
 3. Go through all your Optional Setting and write them down or take screen shots of all the settings there. If you are using encryption, also record all your encryption keys. These settings and encryption keys are not saved by the Export All process.
 4. **Reset the radio** – this step is very important! If you do not do this, the old & possibly problematic data in the radio is not removed.
 5. In CPS, read from the freshly reset radio (yes, you are reading a 'blank' radio, that is OK).
-6. Import everything saved from step 1.
+6. Import everything saved from step 2.
 7. Finish off your codeplug by attending to the Optional Setting & encryption keys if applicable and confirm all is correct.
 8. Send the freshly rebuilt codeplug to the radio.
 9. If you had a custom start up picture or background pictures, send those to the radio now.

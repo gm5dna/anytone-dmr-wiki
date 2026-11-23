@@ -111,7 +111,7 @@ Once you start test mode, scroll up and down between different test adjustment p
 | 66 | RSSIVA | nil | VHF RSSI A-VFO, inject RF at desired level for 1 bar reading, rotate dial to sample and lock in value | 61 |
 | 67 | RSSIVB | nil | VHF RSSI B-VFO, inject RF at desired level for 1 bar reading, rotate dial to sample and lock in value | 68 |
 | 68 | D FSKLV | nil | Push PTT to send test FSK signal (heard as 2400 Hz on FM receiver) at low end of VHF band |  |
-| 53 | D FSKMV | nil | Push PTT to send test FSK signal (heard as 2400 Hz on FM receiver) at mid VHF band |  |
+| 69 | D FSKMV | nil | Push PTT to send test FSK signal (heard as 2400 Hz on FM receiver) at mid VHF band |  |
 | 70 | D FSKHV | nil | Push PTT to send test FSK signal (heard as 2400 Hz on FM receiver) at high end of VHF band |  |
 | 71 | D 600HzV | nil | Push PTT to send test 600Hz signal VHF band (heard on FM as 200 & 400 Hz?) |  |
 | 72 | D 300HzV | nil | Push PTT to send test 300Hz signal VHF band (heard on FM as 800 Hz?) |  |
@@ -126,7 +126,7 @@ Once you start test mode, scroll up and down between different test adjustment p
 | 81 | 108.00M | nil | Receiver test of FM broadcast band |  |
 | \- | AM BPFL | 0-255 | AM aircraft band receive tracking gain, low end of band (578PLUS only) | 65 |
 | \- | AM BPFM | 0-255 | AM aircraft band receive tracking gain, mid band (578PLUS only) | 110 |
-| \- | AM BPFH | 0-255 | AM aircraft band receive tracking gain, low end of band (578PLUS only) | 180 |
+| \- | AM BPFH | 0-255 | AM aircraft band receive tracking gain, top end of band (578PLUS only) | 180 |
 | \- | AM AGC | 0-255 | AM aircraft band receive AGC (578PLUS only) | 180 |
 | \- | AM RSIV | nil | AM aircraft band, inject RF at desired level for 1 bar reading, rotate dial to sample and lock in value (578PLUS only) | 24 |
 

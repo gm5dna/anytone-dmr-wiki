@@ -13,7 +13,7 @@ tags: [AT-D578UV]
 
 The ’baseband’ SCT3258 DMR codec IC can have its own firmware updated with .hex files. Later releases aimed to improve DMR decoding performance with weak signals, improve stability etc.
 
-Provided here is an installer that will send the hex firmware files to the SCT3258 (uninstall any earlier versions you may have, this is v1.4.0.1, earlier versions will no longer work), instructions, and four different version hex files which are the firmware images for the SCT3258. Versions included are: V2.01.05NJ, V2.01.06PN, V2.01.07B5, V2.01.07BA and the latest V2.01.07BF. These are suitable for the 578 of all types, 868, 878, Btech 6X2, Alinco DJ-MD5 & DJ-MD5X and Alinco DR-MD500/MD520 too.
+Provided here is an installer that will send the hex firmware files to the SCT3258 (uninstall any earlier versions you may have, this is v1.4.0.1, earlier versions will no longer work), instructions, and five different version hex files which are the firmware images for the SCT3258. Versions included are: V2.01.05NJ, V2.01.06PN, V2.01.07B5, V2.01.07BA and the latest V2.01.07BF. These are suitable for the 578 of all types, 868, 878, Btech 6X2, Alinco DJ-MD5 & DJ-MD5X and Alinco DR-MD500/MD520 too.
 
 To enter the SCT update mode, hold **MENU** and dial buttons down while powering on the 578, until you get "WARNING This is Boot Mode for Sct!!!" displayed – it can take several seconds of holding the buttons down for this display to appear.
 

@@ -41,13 +41,13 @@ On the radio open **Menu → Settings → Device Info** and look for the Bluetoo
 
     Some phones may have a different text at the upper right corner to start the scanning for nearby Bluetooth devices.
 
-6. The radio will be displayed on the phone as ELERT_xxxx_xxxxxx. (The BT name can be checked in the BT menu on the radio.)
+6. The radio will be displayed on the phone as ELET_xxxx_xxxxxx. (The BT name can be checked in the BT menu on the radio.)
 7. Click on the ELET_xxxx name and a new screen will open, showing initially that the phone will connect to the radio (the black ribbon text) and then wait for the next action:
 
     ![OTA tool connected to ELET_AGHF_LE870E, with a blue ribbon button and a "connecting with ELET_AGHF_LE870E" message](../assets/img/bt-fw-upgrade-for-d578uv-and-d878uv/img-05.jpeg)
 
-8. **Move the `B707_Audio_AGHF_ET12_0X-V100xx.bin` file from the Download folder to the phone's main directory, Internal Storage (My Files / Internal Storage).**
-9. Click the blue "升级 bluetooth 本地" ribbon on the display shown above to open the location where you moved the `B707_Audio_AGHF_ET12_0X-V100xx.bin` (or similar looking file name) file you loaded into the phone.
+8. **Move the `B707_Audio_AGHF_ET12_QX-V100xx.bin` file from the Download folder to the phone's main directory, Internal Storage (My Files / Internal Storage).**
+9. Click the blue "升级 bluetooth 本地" ribbon on the display shown above to open the location where you moved the `B707_Audio_AGHF_ET12_QX-V100xx.bin` (or similar looking file name) file you loaded into the phone.
 10. Click on the B707_Audio… file, which is the update file.
 
     !!! note

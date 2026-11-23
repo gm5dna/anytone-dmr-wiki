@@ -13,7 +13,7 @@ tags: [AT-D868UV, AT-D878UV]
 
 The 'baseband' SCT3258 DMR codec IC can have its own firmware updated with .hex files. Later releases aimed to improve DMR decoding performance with weak signals, improve stability etc.
 
-Provided here is an installer that will send the hex firmware files to the SCT3258 (uninstall any earlier versions you may have; this is v1.4.0.1, earlier versions will no longer work), instructions, and four different version hex files which are the firmware images for the SCT3258. Versions included are: V2.01.05NJ, V2.01.06PN, V2.01.07B5, V2.01.07BA and the latest V2.01.07BF. These are suitable for the 868, 878, 578, 6X2 and DJ-MD5 too.
+Provided here is an installer that will send the hex firmware files to the SCT3258 (uninstall any earlier versions you may have; this is v1.4.0.1, earlier versions will no longer work), instructions, and five different version hex files which are the firmware images for the SCT3258. Versions included are: V2.01.05NJ, V2.01.06PN, V2.01.07B5, V2.01.07BA and the latest V2.01.07BF. These are suitable for the 868, 878, 578, 6X2 and DJ-MD5 too.
 
 | Radio | To enter SCT update mode |
 |---|---|

@@ -1,38 +1,48 @@
 ---
-title: "Colin G4EML has created an application called AT Options, which will allow you to enable t"
+title: "AnyTone Options software download"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#ATOptions
 tags: [AT-D578UV]
 ---
 
+# AnyTone Options software download
+
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
-    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, unchanged, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#ATOptions)
+    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#ATOptions)
 
 Colin G4EML has created an application called AT Options, which will allow you to enable the full test mode, enable a programming password (more about this below) and to edit other text such as the dealer you purchased your radio from, or any maintenance notes you might like to add. For example, you can enter your name, phone number and callsign in this text area in case your radio is stolen.
+
 Download Colin G4EML **AT Options version 8 (17kb) software** from:
 
-- 
 - [Download from this webpage here](../../originals/anytonetechzone/AT_Options_v8.zip)
 - [Download via Mega](https://mega.nz/file/HxVUTbbI#zUdyTNjXF1gOdanSrRALbWiajamGf6Yey_Gcn2z-wqM)
 - [Download via Google Drive](https://drive.google.com/file/d/1zRj035TWc_1y3VavoLrgUmdsoBGGTF_A/view?usp=sharing)
 - [Download via Sabercat host](https://sabercathost.com/a1gd/AT_Options_v8.zip)
 
+!!! warning
+    As always, this software is provided without any warranties, and you use it entirely at your own risk. Using this application to write any changes to your radio is also likely to invalidate the manufacturer’s warranty.
 
-*\*As always, this software is provided without any warranties, and you use it entirely at your own risk. Using this application to write any changes to your radio is also likely invalidate the manufacturer’s warranty*
 (The application is also suitable for the AnyTone 878, 878-II & 868, Btech 6X2, Alinco DJ-MD5 & DJ-MD5X, and Alinco DR-MD500/MD520 - thanks to Jason Alexander for assistance with the Alinco models)
 
-Ensure that you do not have any power on password active. If you do, you must use the CPS software to remove it first. Use of AT Options while a power on password is active can, under certain circumstances, cause some data to be overwritten with default data.
+## Using AT Options
+
+!!! warning
+    Ensure that you do not have any power on password active. If you do, you must use the CPS software to remove it first. Use of AT Options while a power on password is active can, under certain circumstances, cause some data to be overwritten with default data.
+
 When you run the software, select your COM port and READ from the radio. Then edit any text fields you may want, and make sure Band Select and Full Test Mode check boxes are ticked. Finally, WRITE the settings back to the radio - this only takes a fraction of a second to do, and the radio will reboot. It may take a few extra seconds more than normal to boot up, this is OK as it is reconfiguring internal memory.
 
-To activate test mode, turn off the radio, hold down the P4 and dial buttons while turning on the radio until TEST MODE is displayed on the radio screen (this takes a few seconds to happen), then let the two buttons go. The radio will boot up into it’s full test / self adjustment mode.
+## Test mode
+
+To activate test mode, turn off the radio, hold down the **P4** and **dial** buttons while turning on the radio until TEST MODE is displayed on the radio screen (this takes a few seconds to happen), then let the two buttons go. The radio will boot up into it’s full test / self adjustment mode.
+
 Once you start test mode, scroll up and down between different test adjustment points using the zone up/down button. The following adjustments are available:
 
-**I strongly recommend you go through each setting and write down what they are before making any adjustments** \\
+!!! warning
+    I strongly recommend you go through each setting and write down what they are before making any adjustments.
 
-|  |  |  |  |  |
+| # | 578 Setting | Adj. range | Description | Typical value |
 |----|----|----|----|----|
-|  | 578 Setting | Adj. range | Description | Typical value |
 | 1 | UHF AL | nil | A-VFO Low UHF test frequency |  |
 | 2 | UHF AM | nil | A-VFO Mid UHF test frequency |  |
 | 3 | UHF AH | nil | A-VFO High UHF test frequency |  |
@@ -48,7 +58,6 @@ Once you start test mode, scroll up and down between different test adjustment p
 | 13 | FQCA | 0-255 | A-VFO Frequency fine tune | 41 \* |
 | 14 | TXDAU | 0-255 | Unknown UHF analogue adjustment | 150 |
 | 15 | PAHU | 0-255 | UHF RF power output turbo setting | 180 |
-|  |  |  |  |  |
 | 16 | PAMU | 0-255 | UHF RF power output high setting | 130 |
 | 17 | PALU | 0-255 | UHF RF power output medium setting | 85 |
 | 18 | PASU | 0-255 | UHF RF power output low setting | 25 |
@@ -121,9 +130,11 @@ Once you start test mode, scroll up and down between different test adjustment p
 | \- | AM AGC | 0-255 | AM aircraft band receive AGC (578PLUS only) | 180 |
 | \- | AM RSIV | nil | AM aircraft band, inject RF at desired level for 1 bar reading, rotate dial to sample and lock in value (578PLUS only) | 24 |
 
-*The typical values listed above are unique to one radio, and should not be used to create a complete alignment profile. It is highly unlikely that your radio will work properly using values from another radio, including these typical values. You need proper test & alignment equipment to be able to accurately set each value. As such, the typical values given here are only to provide context for any adjustments you may wish to make. Critical values are marked with an asterisk.*
+!!! note
+    The typical values listed above are unique to one radio, and should not be used to create a complete alignment profile. It is highly unlikely that your radio will work properly using values from another radio, including these typical values. You need proper test & alignment equipment to be able to accurately set each value. As such, the typical values given here are only to provide context for any adjustments you may wish to make. Critical values are marked with an asterisk.
 
 For the squelch threshold values, lower values results in a more sensitive squelch (to a point!) and higher values require a progressively stronger signal to open the squelch.
+
 The RSSI (received signal strength indicator - in other words the signal meter) has a fairly compressed range of 15dB. I’d have preferred to see at least 30dB range in the signal meter, but I’ve found an acceptable compromise has been to set one bar at -113dBm which equates to values of RSSIU of 36 and RSSIV of 39. The signal meter then reads:
 
 - 1 bar -113 dBm or about S-5
@@ -134,13 +145,12 @@ The RSSI (received signal strength indicator - in other words the signal meter) 
 Once finished changing your values, turn the radio off and on again to save them to memory. If you like, you can disable full test mode again by de-selecting the Full Test Mode check box in AT Options application and writing back to the radio. Or, you can de-select both Full Test Mode and Band Select check boxes, which will totally inhibit test mode completely. The values you changed or adjusted will not be erased by doing this, it simply prevents you from accessing the full test mode and inadvertently changing them again. These values will not be overwritten, changed or restored to default by resetting of the radio. Once you change them, you can not get the original value back unless you wrote it down before making adjustments.
 
 You can download a more comprehensive memory map of how each individual adjustment setting is stored in memory, and see more hidden values that are obviously used for RF alignment purposes, but are not available in this test mode.
+
 To experiment and adjust those you will need to use [Flash Utility](53-flash-utility.md) to create your own custom binary image, and [write your own custom CDI and SPI files](58-cdd.md) to enable that data to be written to the radio (Flash Utility can’t write to that area of memory directly, it is safest to write using the Icon update mode with a CDD, CDI & SPI file set).
+
 Download the more comprehensive memory map (11 kb) from here:
 
 - [Download from this webpage here](../../originals/anytonetechzone/Anytone-578-Flash-memory-map.zip)
 - [Download via Mega](https://mega.nz/file/KgNgRJib#ivILwXi1zmUypsoiGaTesJFH_m540WqeLpZ3QCLnJE8)
 - [Download via Google Drive](https://drive.google.com/file/d/1a6wDJ-PeOgufrEinIk97kTTAxD7DnxG7/view?usp=sharing)
 - [Download via Sabercat host](https://sabercathost.com/e850/Anytone-578-Flash-memory-map.zip)
-
-
-------------------------------------------------------------------------

@@ -87,10 +87,10 @@ title: AnyTone DMR UK Wiki
     I will be closing down my website in June 2027. […]
     If anyone wants to copy the Anytone page and host it, feel free to do so.
 
-Every guide is kept here as a page, with Norman's original PDF archived alongside it. External links have a small **archive** link to an Internet Archive copy in case the original disappears.
+Every guide is kept here as a page, with Norman's original PDF archived alongside it. Pages have been reformatted and lightly copy-edited (spelling, punctuation, layout) for readability; the wording and settings are the authors'. If in doubt, check the original linked at the top of each page. External links have a small **archive** link to an Internet Archive copy in case the original disappears.
 
 - **Norman Williams** wrote and collected almost everything here, and has run the [AnyTone UK User Group](https://www.facebook.com/groups/1798919343492370/) since 2018.
-- **Jason Reilly VK7ZJA** (silent key, January 2023) wrote the AT-D868/878UV and AT-D578UV [mods, hints & tips](mods/index.md) pages. They are © Jason Reilly 2018–2022, were preserved by Norman, and are reproduced unchanged in his memory.
+- **Jason Reilly VK7ZJA** (silent key, January 2023) wrote the AT-D868/878UV and AT-D578UV [mods, hints & tips](mods/index.md) pages. They are © Jason Reilly 2018–2022, were preserved by Norman, and are reproduced in his memory.
 - Several guides credit other amateurs by name and callsign. Those credits are kept on the pages concerned.
 
 Corrections, broken links and take-down requests: [open an issue on GitHub](https://github.com/gm5dna/anytone-dmr-wiki/issues).

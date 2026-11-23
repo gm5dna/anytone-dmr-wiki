@@ -11,7 +11,7 @@ tags: [AT-D878UV]
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/DF5DH__CPS_unter_Wine_-_GERMAN.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/DF5DH__CPS_unter_Wine_-_GERMAN.pdf) Hub item 2d.
 
-## A. Zugriff unter Linux auf die Schnittstelle, an der das Anytone angeschlossen ist.
+## A. Zugriff unter Linux auf die Schnittstelle, an der das Anytone angeschlossen ist
 
 Windows und Linux unterscheiden sich deutlich in der Behandlung von Schnittstellen. Unter Linux wird alles als File abgebildet und in das Filesystem eingebunden. Die Schnittstellen unter Linux finden sich im Filesystem unter /dev/ wieder. Folglich haben die Hardware Schnittstellen auch alle Eigenschaften von Files: Es gibt einen Besitzer und die Zugriffsrechte, die bei der Benutzung von Windows Programmen unter Wine zu beachten sind. Zwar werden die seriellen Schnittstellen unter Wine für Windows Programme per Link „durchgereicht“, doch nehmen sie dabei auch alle Attribute (so auch die Zugriffsrechte), die sie bei der Erstellung (z.B. durch Einstecken des USB-Kabels) bekommen haben mit. Aufgrund der Zugriffsrechte entstehen bei der Nutzung unter Windows häufig Probleme.
 
@@ -64,19 +64,15 @@ Nun muss man „nur“ noch die Informationen aus dem Datenstrom, der beim Einst
 
 Zuerst müssen wir wissen, welches Schnittstellenfile dem Gerät beim Einsteckvorgang gerade zugeordnet worden ist. Auch hier wieder zwei Möglichkeiten:
 
-Entweder
-
-bei noch nicht eingeschaltetem Gerät alle tty Devices anzeigen lassen:
+**Entweder** bei noch nicht eingeschaltetem Gerät alle tty Devices anzeigen lassen:
 
 ```bash
 ls -al /dev/tty*
 ```
 
-Danach Gerät einschalten, warten bis das Anytone komplett gebootet hat und ein zweites Mal nach den tty Devices schauen (ls -al /dev/tty*). Beide Listings unterscheiden sich durch einen Filenamen, bei mir ist das /dev/ttyACM3.
+Danach Gerät einschalten, warten bis das Anytone komplett gebootet hat und ein zweites Mal nach den tty Devices schauen (`ls -al /dev/tty*`). Beide Listings unterscheiden sich durch einen Filenamen, bei mir ist das /dev/ttyACM3.
 
-Oder
-
-bei noch ausgeschaltetem Gerät folgenden Befehl geben:
+**Oder** bei noch ausgeschaltetem Gerät folgenden Befehl geben:
 
 ```bash
 sudo dmesg -W
@@ -126,19 +122,17 @@ Nun müssen wir noch die Anweisung dahinter schreiben, die der udev-daemon ausf�
 
 Interessant für unseren Fall sind nun folgende Anweisungen; sie müssen nicht alle aufgenommen werden. Ihr überlegt euch einfach welche Anweisung(en) ihr wollt.
 
-**`MODE="0666"`** setzt die Zugriffsrechte auf rw für alle user
+- `MODE="0666"` setzt die Zugriffsrechte auf rw für alle user
+- `OWNER="egon"` ordnet die Schnittstelle dem User egon zu
+- `GROUP="hunde"` ordnet die Schnittstelle der Gruppe hunde zu
 
-**`OWNER="egon"`** ordnet die Schnittstelle dem User egon zu
+    !!! note "Anmerkung"
+        Hier muss der User und die Gruppe eingetragen werden, unter denen Wine arbeitet. Das ist normalerweise auch der User und die Gruppe, unter der sich der Benutzer angemeldet hat.
 
-**`GROUP="hunde"`** ordnet die Schnittstelle der Gruppe hunde zu
+- `SYMLINK+="ttyAnytone"` erzeugt durch Link ein Device-File mit nun eindeutigem Namen
+- `ENV{ID_MM_DEVICE_IGNORE}="1"` schaltet die Modeminitialisierung per AT-Befehle ab. War bei mir nicht nötig, da das Anytone nicht als Modem eingestuft wurde. Bei meinem DXO von microHAM dagegen schon.
 
-Anmerkung: Hier muss der User und die Gruppe eingetragen werden, unter denen Wine arbeitet. Das ist normalerweise auch der User und die Gruppe, unter der sich der Benutzer angemeldet hat.
-
-**`SYMLINK+="ttyAnytone"`** erzeugt durch Link ein Device-File mit nun eindeutigem Namen
-
-**`ENV{ID_MM_DEVICE_IGNORE}="1"`** schaltet die Modeminitialisierung per AT-Befehle ab. War bei mir nicht nötig, da das Anytone nicht als Modem eingestuft wurde. Bei meinem DXO von microHAM dagegen schon.
-
-Die gewünschten Anweisungen in die selbe Zeile hinter die Bedingungen einfügen, das Hashtag Zeichen am Zeilenbeginn nach Fertigstellung der Zeile löschen, File speichern und Anytone aus- und wieder einschalten. Von jetzt an sollte das Anytone so mit Linux verbunden sein, wie es gewünscht wird. Bitte inmal mit ls -al /dev/tty* kontrollieren.
+Die gewünschten Anweisungen in die selbe Zeile hinter die Bedingungen einfügen, das Hashtag Zeichen am Zeilenbeginn nach Fertigstellung der Zeile löschen, File speichern und Anytone aus- und wieder einschalten. Von jetzt an sollte das Anytone so mit Linux verbunden sein, wie es gewünscht wird. Bitte inmal mit `ls -al /dev/tty*` kontrollieren.
 
 Meine Zeile für das Anytone sieht wie folgt aus (Zeilenumbruch hier nur wegen der besseren Lesbarkeit):
 

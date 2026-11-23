@@ -4,26 +4,36 @@ source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.h
 tags: [AT-D578UV]
 ---
 
+# Selecting operational bands
+
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
-    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, unchanged, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#SelectingBands)
+    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#SelectingBands)
 
-**Selecting operational bands**
 There are many different choices of bands that you can select to use, which may change depending on firmware version.
 
-*Note that whenever you do change MODE, the radio will reset and you will lose your programmed data. Make sure you have a saved copy of your codeplug. Each saved codeplug will have the MODE it was created under encoded within it. If you try to reload the same codeplug after changing MODE, the CPS software will reject it, saying that it is the wrong band. To fix this, you will need to ’hex edit’ the codeplug rdt file: change byte 0x0011 to match the MODE selected. For example, if you set MODE=00002 then edit your codeplug byte 0x0011 to be hex value 02. Or if you set MODE=00010 then set codeplug byte 0x0011 to hex value 0A.*
-Note- there is a bug in the CPS programming software: Local Information will not show the correct frequency band the radio is set to, but Model \> Model Information does show the correct frequency band
+!!! warning
+    Whenever you do change MODE, the radio will reset and you will lose your programmed data. Make sure you have a saved copy of your codeplug.
 
-Begin by turning the radio off, then press and hold the P4 and dial buttons down while turning on the radio, hold those two buttons until you see ’TEST MODE’ appear on screen. After releasing the buttons the radio will start up with the text ’MODE:00000’ to the bottom of the screen
-*If you don’t see this screen, you will need to download AT Options software and enable ’Band select’ check box & write this back to the radio. See:* *[Download AT Options software](40-atoptions.md)*
-Rotate the top dial to change the mode number, which will select the following:
+    Each saved codeplug will have the MODE it was created under encoded within it. If you try to reload the same codeplug after changing MODE, the CPS software will reject it, saying that it is the wrong band. To fix this, you will need to ’hex edit’ the codeplug rdt file: change byte 0x0011 to match the MODE selected. For example, if you set MODE=00002 then edit your codeplug byte 0x0011 to be hex value 02. Or if you set MODE=00010 then set codeplug byte 0x0011 to hex value 0A.
+
+!!! note
+    There is a bug in the CPS programming software: Local Information will not show the correct frequency band the radio is set to, but **Model → Model Information** does show the correct frequency band.
+
+## Changing the MODE
+
+1. Begin by turning the radio off, then press and hold the **P4** and dial buttons down while turning on the radio. Hold those two buttons until you see ’TEST MODE’ appear on screen.
+2. After releasing the buttons the radio will start up with the text ’MODE:00000’ to the bottom of the screen.
+
+    *If you don’t see this screen, you will need to download AT Options software and enable ’Band select’ check box & write this back to the radio. See: [Download AT Options software](40-atoptions.md)*
+
+3. Rotate the top dial to change the mode number, which will select the following:
 
 Standard MODES selectable on the AnyTone 578 (all flavours) & Alinco DR-MD500 / MD520:
 
-|  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|
 | MODE | 578 v1.15 / v2.02 RX | 578 v1.15 / v2.02 TX | MD500 v1.06 RX | MD500 v1.06 TX | MD520 v1.15 RX | MD520 v1.15 TX |
+| --- | --- | --- | --- | --- | --- | --- |
 | 00000 | 400-480 & 136-174 | 400-480 & 136-174 | 400-480 & 136-174 | 400-480 & 136-174 | 400-480 & 136-174 | 400-480 & 136-174 |
 | 00001 | 400-480 & 136-174 (12.5k only) | 400-480 & 136-174 (12.5k only) | 400-480 & 136-174 (12.5k only) | 400-480 & 136-174 (12.5k only) | 400-480 & 136-174 (12.5k only) | 400-480 & 136-174 (12.5k only) |
 | 00002 | 430-440 & 136-174 | 430-440 & 136-174 | 430-440 & 136-174 | 430-440 & 136-174 | 430-440 & 136-174 | 430-440 & 136-174 |
@@ -45,11 +55,15 @@ Standard MODES selectable on the AnyTone 578 (all flavours) & Alinco DR-MD500 / 
 | 00018 | 400-480 & 220-225 & 136-174 | 420-450 & 222-225 & 144-148 | 400-480 & 220-225 & 136-174 | 420-450 & 222-225 & 144-148 | 400-480 & 220-225 & 136-174 | 420-450 & 222-225 & 144-148 |
 
 The bands that are indicated in grey above are not directly selectable via the test menu MODE selection. You can use AT Options application to select one of these hidden bands if you require.
-\* MODE 00014 is not directly selectable, you first need to enter a password to enable this band. When MODE and the band number is displayed, press any number on the keypad and the radio will ask "INPUT PASSWORD:" if you happen to know what this password is, enter it, and then you should be able to select MODE 00014. Then turn off the radio, which will save your selected mode setting, and from that point on, your radio will use the frequency limits that correspond with the mode setting you selected. You can repeat the process to change MODES at any time.
+
+\* MODE 00014 is not directly selectable, you first need to enter a password to enable this band. When MODE and the band number is displayed, press any number on the keypad and the radio will ask "INPUT PASSWORD:" if you happen to know what this password is, enter it, and then you should be able to select MODE 00014.
+
+Then turn off the radio, which will save your selected mode setting, and from that point on, your radio will use the frequency limits that correspond with the mode setting you selected. You can repeat the process to change MODES at any time.
+
 If using AT Options to set the band, this software will automatically do what is necessary to enable MODE 00014, knowledge of the password is not needed.
-Note- there is a bug in the CPS programming software: Local Information will not show the correct frequency band the radio is set to, but Model \> Model Information does show the correct frequency band
 
-***I will not be sharing the password for MODE 00014 under any circumstances, as the FCC is starting to closely scrutinise these matters and we don’t them to revoke the approval status for these wonderful radios, which would result in the AnyTone radios being withdrawn from sale, then nobody would be able to enjoy them.***
+## MODE 00014
+
+*I will not be sharing the password for MODE 00014 under any circumstances, as the FCC is starting to closely scrutinise these matters and we don’t want them to revoke the approval status for these wonderful radios, which would result in the AnyTone radios being withdrawn from sale, then nobody would be able to enjoy them.*
+
 For the vast majority of users, there is no need to use MODE 00014 anyway. The alternate firmware files available at [expanded RX frequencies with alternate firmware](31-expand-rx.md) will permit out of band reception under any MODE selection, making MODE 00014 mostly redundant. If you have a genuine requirement for MODE 00014, then please see your dealer.
-
-------------------------------------------------------------------------

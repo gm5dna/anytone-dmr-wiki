@@ -11,6 +11,8 @@ tags: []
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original document](../originals/images/Anytone/Anytone_radio_Trouble_Report_Document.doc) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/Anytone_radio_Trouble_Report_Document.doc) Hub item 45.
 
+## Your details
+
 In order to expedite your request, AnyTone will need some standard information as noted below:
 
 - Request Date:
@@ -25,9 +27,11 @@ In order to expedite your request, AnyTone will need some standard information a
 - Radio Serial number:
 - Computer Programming Software (CPS) Version:
 
-From the radio Settings -> Device Information screen in the radio please provide the following:
+## Radio information
 
-Radio – Menu – Settings – Device Info =
+From the radio Settings → Device Information screen in the radio, please provide the following:
+
+**Menu → Settings → Device Info**
 
 - Hardware Version:
 - Firmware Version:
@@ -35,19 +39,21 @@ Radio – Menu – Settings – Device Info =
 - SCT Version:
 - BT Soft Version:
 
-DMR Connector ->
+## DMR connector
 
 - Repeater Model:
 - Hotspot Model:
 
-Full Description of the issue:
+## Description
 
-(Please attach additional pages a longer description if needed)
+Full description of the issue:
+
+(Please attach additional pages for a longer description if needed.)
+
+## Additional information
 
 In addition to the above information AnyTone requests the following additional information and data:
 
-A short video showing the issue on the radio display or CPS screen to help us understand the issue. Any additional pictures are in formation to help show your issue, example picture of your hotspot board. Use <https://wetransfer.com/> to send Videos, Photos etc and add the link to the document above in the correct sections.
-
-A copy of the current code plug for the radio.
-
-If using an MMDVM Hotspot, provide a copy of your configuration backup file.
+- A short video showing the issue on the radio display or CPS screen to help us understand the issue. Any additional pictures are information to help show your issue, for example a picture of your hotspot board. Use <https://wetransfer.com/> to send Videos, Photos etc and add the link to the document above in the correct sections.
+- A copy of the current code plug for the radio.
+- If using an MMDVM Hotspot, provide a copy of your configuration backup file.

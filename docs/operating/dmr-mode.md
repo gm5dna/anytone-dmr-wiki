@@ -15,17 +15,15 @@ tags: []
 
 *DMR MODE drop-down options: Simplex (selected), Repeater, Double Slot.*
 
-1. Simplex = DMR Tier I (TX/RX on both slots at same time)
-2. Repeater = DMR Tier II (TX/RX on Slot 1 or Slot 2)
-3. Double Slot = Simplex DMR Tier II (TX/RX on Slot 1 or Slot 2)
+| No | DMR MODE | Meaning |
+|---|---|---|
+| 1 | Simplex | DMR Tier I (TX/RX on both slots at same time) |
+| 2 | Repeater | DMR Tier II (TX/RX on Slot 1 or Slot 2) |
+| 3 | Double Slot | Simplex DMR Tier II (TX/RX on Slot 1 or Slot 2) |
 
-For Ham Radio DMR Simplex Frequencies, we would use – Simplex = No1
-[UK Simplex Frequencies Link](simplex-channel-frequency.md)
+## Which to use
 
-For Ham Radio DMR Repeaters, we would use Split Frequencies – Repeater = No2
-
-For Ham Radio doing events we would use Double Slot. = No3
-This lets us have two channels on the same Frequency. Slot 1 and Slot 2
-
-Business users on Simplex Frequencies, you should use – Double Slot = No3
-This lets us have two channels on the same Frequency. Slot 1 and Slot 2
+- **Ham radio DMR simplex frequencies:** we would use Simplex = No 1. [UK Simplex Frequencies Link](simplex-channel-frequency.md)
+- **Ham radio DMR repeaters:** we would use split frequencies, Repeater = No 2.
+- **Ham radio doing events:** we would use Double Slot = No 3. This lets us have two channels on the same frequency: Slot 1 and Slot 2.
+- **Business users on simplex frequencies:** you should use Double Slot = No 3. This lets us have two channels on the same frequency: Slot 1 and Slot 2.

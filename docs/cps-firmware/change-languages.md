@@ -11,23 +11,20 @@ tags: []
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/Change_Languages.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/Change_Languages.pdf) Hub item 54.
 
-Open the folder C:\\Anytone or The folder for that CPS version
+1. Open the folder `C:\Anytone` or the folder for that CPS version.
+2. Edit the file `CountryData.ini`.
+3. Change `"Soft_English"` to one of:
+    - `"Soft_Chinese"`
+    - `"Soft_German"`
+    - `"Soft_Russian"`
+    - `"Soft_Tchinese"`
 
-Edit file - CountryData.ini
+When you open the CPS again, it should now be in your required language.
 
-Change "Soft_English" to "Soft_Chinese"
-or
-Change "Soft_English" to "Soft_German"
-or
-Change "Soft_English" to "Soft_Russian"
-or
-Change "Soft_English" to "Soft_Tchinese"
+## Languages on offer
 
-When you open the CPS again, it should now be in your required Language.
-
-Languages on offer
-Chinese
-English
-German
-Russian
-Tchinese
+- Chinese
+- English
+- German
+- Russian
+- Tchinese

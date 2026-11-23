@@ -11,9 +11,7 @@ tags: [AT-D878UV]
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/Missing__GPS_Bluetooth_APRS.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/Missing__GPS_Bluetooth_APRS.pdf) Hub item 87.
 
-**CPS → Tool → Options**
-
-And turn on
+Go to **CPS → Tool → Options** and turn on:
 
 ![Annex Function Setting dialog over the CPS window with GPS, Bluetooth and APRS ticked and 500 Hours Record unticked](../assets/img/missing-gps-bluetooth-aprs/img-01.jpeg)
 

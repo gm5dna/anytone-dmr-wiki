@@ -11,12 +11,15 @@ tags: []
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/GPS_Test.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/GPS_Test.pdf) Hub item 73.
 
-Go to **menu → GPS → Start Test** and switch in on.
-Then in **menu → GPS → GPS MODE** select GPS (only), activate the GPS.
-Go OUTSIDE, where the radio can “see“ the horizon, switch the radio off and on again.
-Now, after the boot logo has disappeared, You should see, that the radio shows a TEST GPS screen with changing numbers (coordinates from different satellites) on it.
-Only if these numbers never change, the radio really can‘t “see“ any satellite - most of the cases have hardware issues, i.e. poor connections to the internal and quite small GPS-antenna.
-If you see changing numbers there, getting a GPS FIX is only a matter of time.
-The first fix after a new initialization always takes long(er). Unlike a cell phone, which collects GPS ALMANACH info via units, lte or other, the radio has to collect this info via GPS satellites. That takes some time.
+1. Go to **Menu → GPS → Start Test** and switch it on.
+2. Then in **Menu → GPS → GPS MODE** select GPS (only) and activate the GPS.
+3. Go outside, where the radio can “see” the horizon, and switch the radio off and on again.
+4. Now, after the boot logo has disappeared, you should see that the radio shows a TEST GPS screen with changing numbers (coordinates from different satellites) on it.
 
-Info taken from a post by Markus Große-Schware on [Facebook](https://www.facebook.com/groups/1798919343492370/)
+Only if these numbers never change, the radio really can't “see” any satellite – most of these cases have hardware issues, i.e. poor connections to the internal and quite small GPS antenna.
+
+If you see changing numbers there, getting a GPS fix is only a matter of time.
+
+The first fix after a new initialization always takes long(er). Unlike a cell phone, which collects GPS almanac info via UMTS, LTE or other, the radio has to collect this info via GPS satellites. That takes some time.
+
+Info taken from a post by Markus Große-Schware on [Facebook](https://www.facebook.com/groups/1798919343492370/).

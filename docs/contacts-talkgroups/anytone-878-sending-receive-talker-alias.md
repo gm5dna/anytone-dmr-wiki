@@ -17,23 +17,24 @@ tags: [AT-D878UV]
 
 *Talk Alias Settings: Send Talker Alias = On, Alias Display Priority = Air Alias, Alias Data Format = ISO 8.*
 
-**Alias Display Priority -**
-**Air Alias -** will show up on the radio as Digital Contact List 1<sup>st</sup> and then swap to TA display.
-**Contact Alias -** will show Digital Contact List.
-**Alias Data Format -** ISO-8 should be used.
+| Setting | Meaning |
+| --- | --- |
+| Alias Display Priority – Air Alias | Will show up on the radio as Digital Contact List 1<sup>st</sup> and then swap to TA display. |
+| Alias Display Priority – Contact Alias | Will show Digital Contact List. |
+| Alias Data Format | ISO-8 should be used. |
+
+## Radio ID List
 
 ![CPS Radio ID Edit dialog](../assets/img/anytone-878-sending-receive-talker-alias/img-02.jpeg)
 
 *Radio ID Edit---1: Radio ID 00000000, Radio ID Name "M6NBP / Norman Sussex UK".*
 
-**Radio ID List -**
-**Radio ID -** DMR ID Number
-**Radio ID Name -**You can have up to 26 characters under ISO-8
+| Setting | Meaning |
+| --- | --- |
+| Radio ID | DMR ID Number |
+| Radio ID Name | You can have up to 26 characters under ISO-8 |
 
-The / is required under some country rules like the USA if you add extra text after your Callsign.
-I have not read up on the UK rules.
-As I talk to the USA a lot I have added the / as I have more text after my Callsign.
+The / is required under some country rules, like the USA, if you add extra text after your callsign. I have not read up on the UK rules. As I talk to the USA a lot, I have added the / as I have more text after my callsign.
 
-**NOTE -**
-Not all Networks and DMR Repeaters (Motorola) offer or handle Talk Alias.
-Talker Alias does work on Brandmeister and Hotspots.
+!!! note
+    Not all networks and DMR repeaters (Motorola) offer or handle Talk Alias. Talker Alias does work on Brandmeister and hotspots.

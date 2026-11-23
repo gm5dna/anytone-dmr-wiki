@@ -17,13 +17,13 @@ Quite often, when discussion about accessory antennas for Anytone 878 starts, th
 
 Technically that’s true but that’s not caused purely by the quality of the original antenna - which is very good anyway - but by the construction of SMA connector in the radio and original antenna.
 
-It’s not a popular knowledge but some of you might have already notice that Anytone original antenna SMA socket is longer than most other antennas. You might also notice that some antenna producers add o-rings that need to be added if it doesn’t sit flat in the radio.
+It’s not a popular knowledge but some of you might have already noticed that Anytone original antenna SMA socket is longer than most other antennas. You might also notice that some antenna producers add o-rings that need to be added if it doesn’t sit flat in the radio.
 
 ![Four antennas side by side showing the length of their threaded SMA connectors](../assets/img/antenna-trim-for-878/img-01.png)
 
 *Anytone 878UVII antenna on the bottom.*
 
-Measuring purely the threaded connectors from the bottom to the top, not from the lip (collar, flange) to the top, I noticed that Anytone stock SMA has exactly 6,7mm when Nagoya, Diamond or Baofeng antennas are within the range from 5 to 5,5mm. On the photograph you may notice that 878 stock antenna has longer socket threads that the others.
+Measuring purely the threaded connectors from the bottom to the top, not from the lip (collar, flange) to the top, I noticed that Anytone stock SMA has exactly 6,7mm when Nagoya, Diamond or Baofeng antennas are within the range from 5 to 5,5mm. On the photograph you may notice that 878 stock antenna has longer socket threads than the others.
 
 “So what?” you ask?
 
@@ -57,7 +57,7 @@ Please note that I’m using a Diamond antenna that I fitted perfectly as an exa
 
 ## Preparation: tighten the socket screw
 
-Radio socket has an outer ring that needs to be tightened as we use it as a reference point. You can use a flathead screwdriver or anything that is pointy and stiff to check if that’s tight. To do that, place the screwdriver against the teeth in the nut and try to tight it down clockwise using REASONABLE force.
+Radio socket has an outer ring that needs to be tightened as we use it as a reference point. You can use a flathead screwdriver or anything that is pointy and stiff to check if that’s tight. To do that, place the screwdriver against the teeth in the nut and try to tighten it down clockwise using **reasonable** force.
 
 ![Flat-head screwdriver engaged with the teeth of the radio socket nut](../assets/img/antenna-trim-for-878/img-06.png)
 
@@ -107,7 +107,7 @@ a) Use your tape to cover the antenna socket – not required but suggested, so 
 
 ![Diamond antenna with masking tape wrapped around the threaded socket](../assets/img/antenna-trim-for-878/img-15.png)
 
-b) Take the file and CAREFULY and PRECISELY remove LESS than half of a millimeter of shell lip. Try to evenly trim the lip on every side, around.
+b) Take the file and carefully and precisely remove **less than half of a millimeter** of shell lip. Try to evenly trim the lip on every side, around.
 
 ![Drawing of the antenna with arrows marked FILE pointing at the underside of the shell lip](../assets/img/antenna-trim-for-878/img-16.png)
 

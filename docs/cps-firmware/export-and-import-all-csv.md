@@ -13,43 +13,40 @@ tags: [AT-D878UV]
 
 ## Export
 
-CPS, top line – Tool – Export
-Click in centre Tab – Export All (Default File Name)
+1. **CPS (top line) → Tool → Export**
+2. Click in centre tab – **Export All (Default File Name)**.
 
-![CPS Export window with the Export All (Default CSV FileName) button](../assets/img/export-and-import-all-csv/img-01.jpeg)
+    ![CPS Export window with the Export All (Default CSV FileName) button](../assets/img/export-and-import-all-csv/img-01.jpeg)
 
-*Export window: Export All (Default CSV FileName) button.*
+    *Export window: Export All (Default CSV FileName) button.*
 
-Give the file a Name and save to a folder you can find again.
+3. Give the file a name and save to a folder you can find again.
 
-![D878UV dialog "Export &All(Default CSV FileName)" with Yes and No buttons](../assets/img/export-and-import-all-csv/img-02.jpeg)
+    ![D878UV dialog "Export &All(Default CSV FileName)" with Yes and No buttons](../assets/img/export-and-import-all-csv/img-02.jpeg)
 
-*Dialog: Export &All(Default CSV FileName), Yes / No.*
+    *Dialog: Export &All(Default CSV FileName), Yes / No.*
 
 [VIDEO](https://www.youtube.com/watch?v=5H_JOV00ZFE)
 
 ## Import
 
-CPS, top line – Tool – Import
-Click in centre Tab – Import From File List
+1. **CPS (top line) → Tool → Import**
+2. Click in centre tab – **Import From File List**.
 
-![CPS Import window with the Import From File List button](../assets/img/export-and-import-all-csv/img-03.jpeg)
+    ![CPS Import window with the Import From File List button](../assets/img/export-and-import-all-csv/img-03.jpeg)
 
-*Import window: Import From File List button.*
+    *Import window: Import From File List button.*
 
-Go to the saved file you did in the step above and import.
+3. Go to the saved file you did in the step above and import.
 
-![D878UV dialog "Import From File &List" with Yes and No buttons](../assets/img/export-and-import-all-csv/img-04.jpeg)
+    ![D878UV dialog "Import From File &List" with Yes and No buttons](../assets/img/export-and-import-all-csv/img-04.jpeg)
 
-*Dialog: Import From File &List, Yes / No.*
+    *Dialog: Import From File &List, Yes / No.*
 
-VIDEO
+[VIDEO](https://www.youtube.com/watch?v=5H_JOV00ZFE)
 
-Optional Settings -
-You will have to go back over each tab to make sure it has the setting you want.
+## After importing
 
-APRS -
-You will have to make sure all is correct
-
-Hotkeys -
-You will have to make sure all is correct
+- **Optional Settings:** you will have to go back over each tab to make sure it has the setting you want.
+- **APRS:** you will have to make sure all is correct.
+- **Hotkeys:** you will have to make sure all is correct.

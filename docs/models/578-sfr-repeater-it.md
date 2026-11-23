@@ -11,8 +11,7 @@ tags: [AT-D578UV, AT-D878UV]
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/578_SFR_Repeater_IT.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/578_SFR_Repeater_IT.pdf) Hub item 159. An English machine translation is [578 SFR Repeater EN](578-sfr-prpeater-en.md).
 
-Il 578UV può funzionare da ponte radio sfruttando la stessa frequenza di ricezione e trasmissione, utilizzerà un TimeSlot per ricevere e l'altro per trasmettere. Le radio utilizzatrici dovranno essere impostate in DMR MODE =DCDM TS Split, ovvero riceveranno sul TimeSlot selezionato, ma una volta in trasmissione trasmetteranno sull'altro TimeSlot.
-E' possibile impostare il ponte a ripetere segnali con qualsiasi ColorCode oppure ripetere segnali con il CC impostato nella Banda Main o Sub
+Il 578UV può funzionare da ponte radio sfruttando la stessa frequenza di ricezione e trasmissione, utilizzerà un TimeSlot per ricevere e l'altro per trasmettere. Le radio utilizzatrici dovranno essere impostate in DMR MODE =DCDM TS Split, ovvero riceveranno sul TimeSlot selezionato, ma una volta in trasmissione trasmetteranno sull'altro TimeSlot. E' possibile impostare il ponte a ripetere segnali con qualsiasi ColorCode oppure ripetere segnali con il CC impostato nella Banda Main o Sub
 
 ### Uso senza filtro color code
 
@@ -36,7 +35,8 @@ In questa modalità l'importante è impostare la stessa frequenza di ricezione s
 
 Solo le radio che usano il CC01 potranno usare il Ripetitore, se invece qui selezioniamo Channel B verrà usato il CC04
 
-NB: Se invece qui selezioniamo Channel B andremo ad utilizzare il CC scritto sulla banda Sub, in questo caso CC04
+!!! note
+    NB: Se invece qui selezioniamo Channel B andremo ad utilizzare il CC scritto sulla banda Sub, in questo caso CC04
 
 ![Diagram: 578UV with Rep Cc Limit set to Match Channel A Color Code; Radios 1 and 3 (CC01) pass, Radios 2 and 4 (CC03) are blocked](../assets/img/578-sfr-repeater-it/page-2.png)
 
@@ -50,7 +50,8 @@ Le radio della squadra A comunicheranno in diretta tra loro usando il TS1, ma le
 
 In questa modalità l'importante è impostare la stessa frequenza di ricezione sia su A che su B in modo Digitale, il DMR ed il TimeSlot verranno ignorati, verrà utilizzato il CC della banda A o B a secondo delle impostazioni in "Rep CC Limit"
 
-NB anche in questa configurazione verrà utilizzato il CC presente in banda Main, se si vuole usare il Ripetitore con qualsiasi CC, lasciare ad off
+!!! note
+    NB anche in questa configurazione verrà utilizzato il CC presente in banda Main, se si vuole usare il Ripetitore con qualsiasi CC, lasciare ad off
 
 - Main Band A 144.925 MHz CC01 TS1
 - Sub Band B 144.925 MHz CC04 TS2

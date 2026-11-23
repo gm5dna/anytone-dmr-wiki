@@ -13,11 +13,12 @@ tags: [AT-D868UV, AT-D878UV, AT-D578UV]
 
 Anytone 868 – 878 – 578
 
-Do a Manual Dial -
-Go to **Menu → Talk Group → Manual Dial** - enter the users 7 dig ID number *1234567*.
-Do not push any other buttons – Just the PTT and talk.
+## Method 1: Manual Dial
 
-\* Depending on the hang time set in your CPS you will stay connected as long as you both replay to each other within that time.
+1. Go to **Menu → Talk Group → Manual Dial** and enter the user's 7 digit ID number, e.g. *1234567*.
+2. Do not push any other buttons – just the **PTT** and talk.
+
+\* Depending on the hang time set in your CPS, you will stay connected as long as you both reply to each other within that time.
 
 ![CPS Digital Fun hold time settings](../assets/img/private-call-anytone/img-01.jpeg)
 
@@ -25,43 +26,41 @@ Do not push any other buttons – Just the PTT and talk.
 
 *Photo is for demonstration only.*
 
-I would recommend taking the Hold time in the CPS for **Person Call Hold Time** and **Dial Private Hold** to its maximum.
+!!! tip
+    I would recommend taking the hold time in the CPS for **Person Call Hold Time** and **Dial Private Hold** to its maximum.
 
-If you do exceeded your hold time you will have to follow the steps above again.
+If you do exceed your hold time, you will have to follow the steps above again.
 
-or
+## Method 2: Private Call channel
 
-You can add the users 7 dig ID to your Talk group list as PRIAVTE CALL.
-Then make up a channel, add to a Zone as you would for normal channels.
-Turn the radio to that channel and talk to each other.
+1. You can add the user's 7 digit ID to your talk group list as PRIVATE CALL.
+2. Then make up a channel and add it to a zone as you would for normal channels.
+3. Turn the radio to that channel and talk to each other.
 
-or
+## Method 3: Hold down the 0 key
 
-You can also do Private Call by Holding down the 0 key.
-Enter the users 7 dig ID number *1234567*.
-Do not push any other buttons – Just the PTT and talk.
-\* **Dial Private Hold** will also need to be set to HIGHT if using this method.
-If you do exceeded your hold time you will have to follow the steps above again.
+1. You can also do Private Call by holding down the **0** key.
+2. Enter the user's 7 digit ID number, e.g. *1234567*.
+3. Do not push any other buttons – just the **PTT** and talk.
 
-## How to clear a private call.
+\* **Dial Private Hold** will also need to be set high if using this method. If you do exceed your hold time, you will have to follow the steps above again.
+
+## How to clear a private call
 
 As you have set the hang times high, the fastest way to clear the private call is just turn the channel knob up or down one channel and back.
 
-You might also wish to read this document
-How does one respond to a PRIVATE CALL
+You might also wish to read this document: How does one respond to a PRIVATE CALL
 
 ## Information
 
-Private call can be done on either time slots and the other party will receive you.
-If using a Repeater use the seconder slot, as while your in private call that slot can not be used by others (UK use Slot 1 as Slot 2 is Primary).
+Private call can be done on either time slot and the other party will receive you. If using a repeater, use the second slot, as while you're in private call that slot can not be used by others (UK use Slot 1 as Slot 2 is primary).
 
-**Private call via a repeater does not mean that others can not listen in.
-Newer radios can listen in, so be aware of what you say over the air.**
+!!! warning
+    Private call via a repeater does not mean that others can not listen in. Newer radios can listen in, so be aware of what you say over the air.
 
-**This can also happen over a Hotspot if someone is close enough to your Hotspot and has your frequency and Colour Code.
-Your Hotspot information is public via Brandmeister Dashboards.**
+    This can also happen over a hotspot if someone is close enough to your hotspot and has your frequency and Colour Code. Your hotspot information is public via Brandmeister dashboards.
 
-All Amateur Radios rules apply when using Private Call.
+All amateur radio rules apply when using Private Call.
 
 ## Links in the original PDF
 

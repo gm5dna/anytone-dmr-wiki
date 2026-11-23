@@ -4,20 +4,21 @@ source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.h
 tags: [AT-D578UV]
 ---
 
+# Flash memory structure in the 578
+
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
-    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, unchanged, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#FlashMem)
+    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#FlashMem)
 
-**Flash memory structure in the 578**
 The 578 is fitted with a 2 Gbit / 256 Mbyte external flash memory, and the MCU has 3 Mbyte of internal flash memory that holds the operating firmware.
+
 Here’s what is known about the structure of memory in these radios so far:
 
-**578 Toshiba TC58CVG1S3HRAIG 2Gbit / 256 Mbyte NAND external flash memory map**
+## 578 Toshiba TC58CVG1S3HRAIG 2Gbit / 256 Mbyte NAND external flash memory map
 
-|  |  |
-|----|----|
 | Address in flash | Contents |
+|----|----|
 | 0x00000000 to 0x0014FFFF | holds alternate language fonts e.g. Chinese, Japanese, Greek, Cyrillic, Roman numerals. There is some English font there but it doesn’t appear to be used at all |
 | 0x00150000 to 0x00159FFF | default AnyTone start-up picture |
 | 0x0015A000 to 0x001FFFFF | multi colour icons bitmaps |

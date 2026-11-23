@@ -13,18 +13,18 @@ tags: [AT-D578UV, AT-D878UV]
 
 ## 578 Single frequency DMR repeater
 
-The 578UV can function as a radio link using the same reception and transmission frequency, using one TimeSlot to receive and the other to transmit. The user radios must be set to DMR MODE =DCDM TS Split, i.e. they will receive transmission on the selected TimeSlot and transmit on the other TimeSlot.
+The 578UV can function as a radio link using the same reception and transmission frequency, using one TimeSlot to receive and the other to transmit. The user radios must be set to DMR MODE = DCDM TS Split, i.e. they will receive transmission on the selected TimeSlot and transmit on the other TimeSlot.
 
-It is possible to set the bridge to repeat signals with any ColorCode or to repeat signals with the CC set in the Main or Sub Band
+It is possible to set the bridge to repeat signals with any ColorCode or to repeat signals with the CC set in the Main or Sub Band.
 
 ### Use without color code filter
 
-In this mode in the channel set the same reception frequency on both A and B in Digital mode, the DMR MODE, the ColorCode and the TimeSlot will be ignored, set automatically by the system
+In this mode in the channel set the same reception frequency on both A and B in Digital mode, the DMR MODE, the ColorCode and the TimeSlot will be ignored, set automatically by the system.
 
 - Main Band A 144.925 MHz DCDM CC00 TS1
 - Sub Band B 144.925 MHz DCDM CC04 TS2
 
-Any Color Code can obviously pass through, only radios with the same CC will be able to listen to each other
+Any Color Code can obviously pass through, only radios with the same CC will be able to listen to each other.
 
 ![Diagram: 578UV repeater settings (Repeater mode On, Rep CC Limit Off) with four DCDM TS Split radios and the user radio CPS settings](../assets/img/578-sfr-prpeater-en/page-1.png)
 
@@ -32,14 +32,15 @@ Any Color Code can obviously pass through, only radios with the same CC will be 
 
 ### Use with color code filter
 
-In this mode the important thing is to set the same reception frequency on both A and B in Digital mode, the DMR and the TimeSlots will be ignored, the A-band CC will be used or B depending on the settings in "Rep CC Limit"
+In this mode the important thing is to set the same reception frequency on both A and B in Digital mode, the DMR and the TimeSlots will be ignored, the A-band CC will be used or B depending on the settings in "Rep CC Limit".
 
 - Band A 144.925 MHz CC01 TS1
 - Band B 144.925 MHz CC04 TS2
 
-Only radios that use CC01 will be able to use the Repeater, but if here we select Channel B, CC04 will be used
+Only radios that use CC01 will be able to use the Repeater, but if here we select Channel B, CC04 will be used.
 
-NB: If instead we select Channel B here we will go to use the CC written on the Sub band in this case CC04
+!!! note "NB"
+    If instead we select Channel B here we will go to use the CC written on the Sub band, in this case CC04.
 
 ![Diagram: 578UV with Rep Cc Limit set to Match Channel A Color Code; Radios 1 and 3 (CC01) pass, Radios 2 and 4 (CC03) are blocked](../assets/img/578-sfr-prpeater-en/page-2.png)
 
@@ -47,13 +48,14 @@ NB: If instead we select Channel B here we will go to use the CC written on the 
 
 ### Use as a single frequency transponder
 
-"The use of the 578 as an SFR radio link can only be used by Anytone user radios (578/878) that have the DCDM/TS Split function. However, it is also possible to use it from radios that have the DCDM function (Hytera/Motorola/TYT etc.) with some limitations, in fact this configuration can be convenient for connecting two teams that already communicate live with each other but are isolated from obstacles, for example mountains hills etc etc."
+> "The use of the 578 as an SFR radio link can only be used by Anytone user radios (578/878) that have the DCDM/TS Split function. However, it is also possible to use it from radios that have the DCDM function (Hytera/Motorola/TYT etc.) with some limitations, in fact this configuration can be convenient for connecting two teams that already communicate live with each other but are isolated from obstacles, for example mountains hills etc etc."
 
-Team A's radios will communicate live with each other using TS1, but Team B's radios will listen to them through the 578 which will rebroadcast them on TS2. Team B radios will communicate live with each other on TS2 but will be heard by team B radios via the 578 which will rebroadcast them on TS1. User radios must be set to DMR MODE=DCDM, those of team A on TS1, those of team B on TS2
+Team A's radios will communicate live with each other using TS1, but Team B's radios will listen to them through the 578 which will rebroadcast them on TS2. Team B radios will communicate live with each other on TS2 but will be heard by team B radios via the 578 which will rebroadcast them on TS1. User radios must be set to DMR MODE=DCDM, those of team A on TS1, those of team B on TS2.
 
-In this mode the important thing is to set the same reception frequency on both A and B in Digital mode, the DMR and the TimeSlots will be ignored, the CC of band A or B will be used depending on the settings in "Rep CC Limit"
+In this mode the important thing is to set the same reception frequency on both A and B in Digital mode, the DMR and the TimeSlots will be ignored, the CC of band A or B will be used depending on the settings in "Rep CC Limit".
 
-NB also in this configuration the CC present in the Main band will be used, if you want to use the Repeater with any CC, leave it off
+!!! note "NB"
+    Also in this configuration the CC present in the Main band will be used; if you want to use the Repeater with any CC, leave it off.
 
 - Main Band A 144.925 MHz CC01 TS1
 - Sub Band B 144.925 MHz CC04 TS2

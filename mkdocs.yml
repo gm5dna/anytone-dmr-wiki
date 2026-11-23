@@ -22,4 +22,13 @@ exclude_docs: |
   originals/**/*.html
 extra_javascript: [javascripts/archive-links.js]
 extra_css: [javascripts/archive-links.css]
-markdown_extensions: [admonition, attr_list, md_in_html, tables, toc, sane_lists, nl2br]
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc
+  - sane_lists
+  - nl2br
+  - pymdownx.highlight
+  - pymdownx.superfences

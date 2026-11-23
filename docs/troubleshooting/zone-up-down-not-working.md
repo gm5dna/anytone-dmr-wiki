@@ -11,14 +11,15 @@ tags: [AT-D878UV]
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/Zone_UP_DOWN_not_working.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/Zone_UP_DOWN_not_working.pdf) Hub item 40.
 
-I have the 878UV and i can not scroll through the zones using the centre control (up and down arrows).  I saw a post about this issue but can not find it. Can anyone assist as to why this is happening?
+> I have the 878UV and I can not scroll through the zones using the centre control (up and down arrows). I saw a post about this issue but can not find it. Can anyone assist as to why this is happening?
 
-**CPS → Tool → Zone hide Operation:**
+## Fix
 
-![CPS Zone Hide Operation dialog with All UNChecked selected](../assets/img/zone-up-down-not-working/img-01.jpeg)
+1. Go to **CPS → Tool → Zone hide Operation**.
 
-*Zone Hide Operation: All UNChecked selected.*
+    ![CPS Zone Hide Operation dialog with All UNChecked selected](../assets/img/zone-up-down-not-working/img-01.jpeg)
 
-**CLICK ON** = All UNchecked
+    *Zone Hide Operation: All UNChecked selected.*
 
-**YOU MUST CLICK** = OK
+2. Click on **All UNchecked**.
+3. You **must** click **OK**.

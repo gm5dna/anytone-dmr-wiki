@@ -11,7 +11,8 @@ tags: [AT-D878UV, AT-D578UV]
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/Anytone_power_levels_on_Analogue.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/Anytone_power_levels_on_Analogue.pdf) Hub item 119.
 
-This is my test only and not official
+!!! note
+    This is my test only and not official.
 
 ## 878 UHF
 
@@ -31,10 +32,7 @@ This is my test only and not official
 | High | 4.9w+ = 5w+ without test equipment |
 | Turbo | 5.2w+ = 6w+ without test equipment |
 
-All tests will have + power when you take out the loss of the equipment.
-Low power used to be 1w. But was made lower for Hotspot users.
-
----
+All tests will have + power when you take out the loss of the equipment. Low power used to be 1w. But was made lower for Hotspot users.
 
 ## 578 UHF
 

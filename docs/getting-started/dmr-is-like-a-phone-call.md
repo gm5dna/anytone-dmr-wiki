@@ -11,47 +11,49 @@ tags: []
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/DMR_is_like_a_Phone_Call.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/DMR_is_like_a_Phone_Call.pdf) Hub item 103.
 
-DMR is very much like using a Mobile Phone. *([Also see this link](dmr-is-like-making-a-phone-call-2.md))*
-Radio is the Phone you make calls from.
+DMR is very much like using a mobile phone. *([Also see this link](dmr-is-like-making-a-phone-call-2.md))*
 
-Hotspots and DMR Repeaters is the exchange that routes the Phone Number / Talk Group to a Group Chat (Conference Call) that anyone can join.
-That is why it is called Group Call. (Conference Call)
+**Radio** is the phone you make calls from.
 
-Frequencies is your RF phone line your traffic is passed on.
-So the Freq never changes. Just the phone number (Talk Group)
-Hotspots use Frequencies 434.000 and/or 438.800
-Repeaters have there own Frequencies.
+**Hotspots and DMR repeaters** are the exchange that routes the phone number / talk group to a group chat (conference call) that anyone can join. That is why it is called Group Call (conference call).
 
-Look at it this way.
-Talk Group is a phone number you wish to call. (91, 3100, 2350, etc)
-Then a 4000 group call is the hang up request. (Disconnect/Unlink)
+**Frequencies** are your RF phone line that your traffic is passed on. So the freq never changes, just the phone number (talk group). Hotspots use frequencies 434.000 and/or 438.800. Repeaters have their own frequencies.
 
-So Channel/Talk Groups is pre-set phone numbers.
-This is the list of phone numbers (Talk Groups)
-FreeDMR = <http://www.freedmr.uk/index.php/talkgroups/>
-Brandmeister = <https://brandmeister.network/?page=talkgroups>
-Phoenix UK = <https://dvsph.net/>
+Look at it this way:
 
-Zone is like an address book for your favourite phone numbers. (Talk Groups)
-So we make a zone “Hotspot” that has the Channels/Phone Numbers you wish to use.
+- **Talk group** is a phone number you wish to call (91, 3100, 2350, etc).
+- Then a **4000** group call is the hang-up request (disconnect/unlink).
 
-How to make a channel.
-1st Add Talk Group number (Phone Number) to - Talk Groups/Contacts.
-2nd Make channels on the Frequencies you need to use.
-Point that channel to the Talk Group (Phone Number)
-3rd Add to the Zone you want it in . (Address Book)
+So **channels/talk groups** are pre-set phone numbers. This is the list of phone numbers (talk groups):
 
-Slots is like a shared phone line that can have two using at the same time.
-One can be on Slot1 while another can be on Slot 2
-*Simplex Hotspots do not use Slots. Set all channels to Slot 2*
-*Duplex Hotspots and Repeaters use Slots and you need to look up how they want them used.*
+- FreeDMR: <http://www.freedmr.uk/index.php/talkgroups/>
+- Brandmeister: <https://brandmeister.network/?page=talkgroups>
+- Phoenix UK: <https://dvsph.net/>
+
+**Zone** is like an address book for your favourite phone numbers (talk groups). So we make a zone "Hotspot" that has the channels/phone numbers you wish to use.
+
+## How to make a channel
+
+1. Add the talk group number (phone number) to **Talk Groups/Contacts**.
+2. Make channels on the frequencies you need to use. Point that channel to the talk group (phone number).
+3. Add it to the zone you want it in (address book).
+
+## Slots
+
+**Slots** are like a shared phone line that can have two using it at the same time. One can be on Slot 1 while another can be on Slot 2.
+
+- *Simplex hotspots do not use slots. Set all channels to Slot 2.*
+- *Duplex hotspots and repeaters use slots and you need to look up how they want them used.*
+
+## Private calls
 
 You can do a [Private Call](../operating/private-call-anytone.md) between you and one other.
-So you take the others party Ham Radio 7 Dig ID number (Phone Number)
-Add to Talk Groups/Contacts as a **Private Call**
-Make channel up the same as above and add to zone
-(Downside is the other party must be on the same network and have the radio turned on)
-***Side Note.***
-Private Call is no longer Private.
-The Anytone will decode Private Calls if Digi Moni is turned on.
-Even on Hotspots if someone is on the same Freq and within range of your hotspot.
+
+1. Take the other party's ham radio 7-digit ID number (phone number).
+2. Add it to **Talk Groups/Contacts** as a **Private Call**.
+3. Make the channel up the same as above and add it to a zone.
+
+(Downside is the other party must be on the same network and have the radio turned on.)
+
+!!! note "Side note"
+    Private Call is no longer private. The Anytone will decode private calls if Digi Moni is turned on. Even on hotspots, if someone is on the same freq and within range of your hotspot.

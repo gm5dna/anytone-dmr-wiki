@@ -11,18 +11,17 @@ tags: []
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/4000_Disconnect.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/4000_Disconnect.pdf) Hub item 101.
 
-Brandmeister  91 is a pig to get out off.
+Brandmeister 91 is a pig to get out of.
 
-You need to do a **4000 Group Call.**
-When you get a GAP in overs.
-PTT for up to 5 seconds.
-That will let the system see you want to leave.
+You need to do a **4000 Group Call**:
 
-You should always do a 4000 when moving to a new talk group.
+1. When you get a gap in overs, PTT for up to 5 seconds.
+2. That will let the system see you want to leave.
 
-If not the last talk group can still be live for up to 10mins.
+You should always do a 4000 when moving to a new talk group. If not, the last talk group can still be live for up to 10mins.
 
-4000 Does Not work on Static Talk Groups.
+!!! note
+    4000 does not work on Static Talk Groups.
 
 ## Videos
 

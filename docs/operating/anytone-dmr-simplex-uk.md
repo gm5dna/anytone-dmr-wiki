@@ -11,7 +11,7 @@ tags: []
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/Anytone_DMR_Simplex_UK.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/Anytone_DMR_Simplex_UK.pdf) Hub item 51.
 
-Anytone Radio settings for each channel
+## Anytone radio settings for each channel
 
 ![Channel DMR MODE drop-down](../assets/img/anytone-dmr-simplex-uk/img-01.jpeg)
 
@@ -19,16 +19,15 @@ Anytone Radio settings for each channel
 
 *Channel: DMR MODE = Double Slot; Simplex TDMA ticked.*
 
-Time Slot 1
-Color Code 1
-Talk Group 9 (USA, Canada, EU etc use Talk Group 99)
+| Setting | Value |
+|---|---|
+| Time Slot | 1 |
+| Color Code | 1 |
+| Talk Group | 9 (USA, Canada, EU etc use Talk Group 99) |
 
----
+## UHF / VHF DV simplex
 
-## UHF / VHF DV SIMPLEX
-
-DMR Time Slot 1, Colour Code 1, Talk Group 9
-The time slot, color code and talk group are based on what’s in the majority of code plugs
+DMR Time Slot 1, Colour Code 1, Talk Group 9. The time slot, color code and talk group are based on what's in the majority of code plugs.
 
 | UHF | VHF |
 |---|---|

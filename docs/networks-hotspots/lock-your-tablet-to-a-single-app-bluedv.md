@@ -12,11 +12,10 @@ tags: []
 
 This will keep your BlueDv app on top and prevent it being closed down.
 
-## Setup Screen Pinning Mode On Android Tablet 5.0 or latter
+## Setup Screen Pinning Mode On Android Tablet 5.0 or later
 
-1. Open the Settings on your Android tablet
-2. Next, tap on Security
-    (This appears as Lock Screen and Security on Samsung Devices)
+1. Open the Settings on your Android tablet.
+2. Next, tap on Security (this appears as Lock Screen and Security on Samsung devices).
 
     ![Android Settings list with Lock screen and security highlighted](../assets/img/lock-your-tablet-to-a-single-app-bluedv/img-01.png)
 
@@ -36,9 +35,9 @@ This will keep your BlueDv app on top and prevent it being closed down.
 
 ## Lock Android Tablet to BlueDv App
 
-Once you have finished setting up the screen pinning.
+Once you have finished setting up the screen pinning:
 
-1. Open the BlueDv App
+1. Open the BlueDv app.
 2. Next, tap on the Recent Apps button located at the bottom of your device.
 
     ![Android navigation bar with the Recent Apps button circled in red](../assets/img/lock-your-tablet-to-a-single-app-bluedv/img-05.jpeg)
@@ -47,11 +46,11 @@ Once you have finished setting up the screen pinning.
 
     ![BlueDV in the recent apps view with the pin icon at the bottom right](../assets/img/lock-your-tablet-to-a-single-app-bluedv/img-06.jpeg)
 
-4. You will see an Enable Pin Windows popup, prompting you to either Start or Cancel Pin Mode. Tap on Start to start screen pinning mode on your device.
+4. You will see an Enable Pin Windows popup, prompting you to either Start or Cancel Pin Mode. Tap on **Start** to start screen pinning mode on your device.
 
 ## To Unpin the app or take a Phone Call etc
 
-1. Hold down the Back and Overview buttons at the same time for a second or two, until your phone tells you that it has unpinned the screen.
+1. Hold down the **Back** and **Overview** buttons at the same time for a second or two, until your phone tells you that it has unpinned the screen.
 
     ![Android navigation bar with the Back and Overview buttons circled in red](../assets/img/lock-your-tablet-to-a-single-app-bluedv/img-07.jpeg)
 

@@ -1,38 +1,50 @@
 ---
-title: "Colin G4EML has created an application called AT Options, which will allow you to enable t"
+title: "AnyTone Options software download"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#ATOptions
 tags: [AT-D868UV, AT-D878UV]
 ---
 
+# AnyTone Options software download
+
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
-    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, unchanged, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#ATOptions)
+    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#ATOptions)
 
 Colin G4EML has created an application called AT Options, which will allow you to enable the full test mode, enable a programming password (more about this below) and to edit other text such as the dealer you purchased your radio from, or any maintenance notes you might like to add. For example, you can enter your name, phone number and callsign in this text area in case you ever misplace your radio.
+
 Download Colin G4EML **AT Options version 8 (17kb) software** from:
 
-- 
 - [Download from this webpage here](../../originals/anytonetechzone/AT_Options_v8.zip)
 - [Download via Mega](https://mega.nz/file/HxVUTbbI#zUdyTNjXF1gOdanSrRALbWiajamGf6Yey_Gcn2z-wqM)
 - [Download via Google Drive](https://drive.google.com/file/d/1zRj035TWc_1y3VavoLrgUmdsoBGGTF_A/view?usp=sharing)
 - [Download via Sabercat host](https://sabercathost.com/a1gd/AT_Options_v8.zip)
 
+!!! warning
+    As always, this software is provided without any warranties, and you use it entirely at your own risk. Using this application to write any changes to your radio is also likely to invalidate the manufacturer's warranty.
 
-*\*As always, this software is provided without any warranties, and you use it entirely at your own risk. Using this application to write any changes to your radio is also likely invalidate the manufacturer's warranty*
-The application is suitable for the AnyTone 878, 878-II, 868, AnyTone 578 of all flavours, Btech 6X2, Alinco DJ-MD5 & DJ-MD5X, Alinco DR-MD500 & DR-MD520 of all flavours, but NOT the Radioddity GD-AT10G at this stage.
+The application is suitable for the AnyTone 878, 878-II, 868, AnyTone 578 of all flavours, Btech 6X2, Alinco DJ-MD5 & DJ-MD5X, Alinco DR-MD500 & DR-MD520 of all flavours, but **not** the Radioddity GD-AT10G at this stage.
 
-Ensure that you do not have any power on password active. If you do, you must use the CPS software to remove it first. Use of AT Options while a power on password is active can, under certain circumstances, cause some data to be overwritten with default data.
-When you run the software, select your Com port and READ from the radio. Then edit any text fields you may want, and make sure Band Select and Full Test Mode check boxes are ticked. Finally, WRITE the settings back to the radio - this only takes a fraction of a second to do, and the radio will reboot. It may take a few extra seconds more than normal to boot up, this is OK as it is reconfiguring internal memory.
+## Using AT Options
 
-To activate test mode, turn off the radio, hold down the PTT + keypad 1 buttons until TEST MODE is displayed on the radio screen, then let the two buttons go. The radio will boot up into it's full test / self adjustment mode.
+!!! warning
+    Ensure that you do not have any power on password active. If you do, you must use the CPS software to remove it first. Use of AT Options while a power on password is active can, under certain circumstances, cause some data to be overwritten with default data.
+
+1. When you run the software, select your Com port and **Read** from the radio.
+2. Then edit any text fields you may want, and make sure the Band Select and Full Test Mode check boxes are ticked.
+3. Finally, **Write** the settings back to the radio – this only takes a fraction of a second to do, and the radio will reboot. It may take a few extra seconds more than normal to boot up; this is OK as it is reconfiguring internal memory.
+
+## Test mode
+
+To activate test mode, turn off the radio, hold down the **PTT** + keypad **1** buttons until TEST MODE is displayed on the radio screen, then let the two buttons go. The radio will boot up into its full test / self adjustment mode.
+
 Once you start test mode, scroll up and down between different test adjustment points using the zone up/down button. The following adjustments are available:
 
-**I strongly recommend you go through each setting and write down what they are before making any adjustments**
+!!! warning
+    I strongly recommend you go through each setting and write down what they are before making any adjustments.
 
-|  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|
-| CH | **868** Setting | Adj. range | **868** Description | **878 / 6X2** Setting | Adj. range | **878 / 6X2** Description |
+| CH | 868 Setting | Adj. range | 868 Description | 878 / 6X2 Setting | Adj. range | 878 / 6X2 Description |
+|---|---|---|---|---|---|---|
 | 1 | nil | nil | Low UHF test frequency | nil | nil | Low UHF test frequency |
 | 2 | nil | nil | Mid UHF test frequency | nil | nil | Mid UHF test frequency |
 | 3 | nil | nil | High UHF test frequency | nil | nil | High UHF test frequency |
@@ -105,15 +117,19 @@ Once you start test mode, scroll up and down between different test adjustment p
 | 70 |  |  |  | 108.00M | nil | Receiver test of FM broadcast band |
 
 For the squelch threshold values, a higher value gives a more sensitive squelch. Typically little to no improvement in squelch sensitivity is obtained with values higher than about 115, but some users have reported improvement with higher values. Lower values require progressively stronger signals to open the squelch.
-The RSSI (received signal strength indicator - in other words the signal meter) has a fairly compressed range of 15dB. I'd have preferred to see at least 30dB range in the signal meter, but I've found an acceptable compromise has been to set one bar at -113dBm which equates to values of RSSIU of 36 and RSSIV of 39. The signal meter then reads:
 
-- 1 bar -113 dBm or about S-5
-- 2 bars -108 dBm or about S-6
-- 3 bars -103 dBm or about S-7
-- 4 bars -98 dBm or about S-9
+The RSSI (received signal strength indicator – in other words the signal meter) has a fairly compressed range of 15dB. I'd have preferred to see at least 30dB range in the signal meter, but I've found an acceptable compromise has been to set one bar at -113dBm, which equates to values of RSSIU of 36 and RSSIV of 39. The signal meter then reads:
 
-Once finished changing your values, turn the radio off and on again to save them to memory. If you like, you can disable full test mode again by de-selecting the Full Test Mode check box in AT Options application and writing back to the radio. Or, you can de-select both Full Test Mode and Band Select check boxes, which will totally inhibit test mode completely. The values you changed or adjusted will not be erased by doing this, it simply prevents you from accessing the full test mode and inadvertently changing them again. These values will not be overwritten, changed or restored to default by resetting of the radio. Once you change them, you can not get the original value back unless you wrote it down before making adjustments.
+| Bars | Level |
+|---|---|
+| 1 bar | -113 dBm or about S-5 |
+| 2 bars | -108 dBm or about S-6 |
+| 3 bars | -103 dBm or about S-7 |
+| 4 bars | -98 dBm or about S-9 |
 
-Finally, as you go through the adjustment values, it becomes apparent that the 878 (only) has adjustments for the 222 MHz band. Do not attempt to use these radios on that band for TX as the hardware is not designed for it.
+## When you have finished
 
-------------------------------------------------------------------------
+Once finished changing your values, turn the radio off and on again to save them to memory. If you like, you can disable full test mode again by de-selecting the Full Test Mode check box in the AT Options application and writing back to the radio. Or, you can de-select both Full Test Mode and Band Select check boxes, which will totally inhibit test mode completely. The values you changed or adjusted will not be erased by doing this; it simply prevents you from accessing the full test mode and inadvertently changing them again. These values will not be overwritten, changed or restored to default by resetting of the radio. Once you change them, you can not get the original value back unless you wrote it down before making adjustments.
+
+!!! warning
+    Finally, as you go through the adjustment values, it becomes apparent that the 878 (only) has adjustments for the 222 MHz band. Do not attempt to use these radios on that band for TX as the hardware is not designed for it.

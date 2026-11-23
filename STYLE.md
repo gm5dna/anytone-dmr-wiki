@@ -60,3 +60,29 @@ says 868/878/578 generally, tag all three. Do not guess beyond the evidence.
    into `<https://...>` autolinks.
 9. Do not add advice, commentary or information that is not in the source. Our own words appear only in alt text/captions.
 10. Valid Markdown for Python-Markdown: blank line before lists and tables; tables need a header row.
+
+## Readability pass (applies to all pages; supersedes "verbatim" in rule 3 and the QA line-per-line rule)
+
+The aim is pages that are easy to follow on a phone. Keep every fact, setting, value, step and credit.
+
+**Wording: light copy-edit only.** Fix obvious spelling mistakes and typos ("meathead" → "method", "to loud" → "too loud"),
+broken punctuation, random capitals and SHOUTING (keep acronyms like CPS, APRS, TG, BT, MCU). Don't paraphrase,
+summarise, re-order the argument or add advice. Keep the author's voice and their spelling choices (analog/analogue, etc.).
+Never change: numbers, frequencies, IDs, talk group numbers, menu/field names as shown in the CPS or radio, callsigns,
+URLs, file names, code/commands. Non-English pages (e.g. Italian): formatting only.
+
+**Patterns to apply where they fit:**
+1. **Paragraphs and headings.** Join PDF line fragments into proper sentences and paragraphs (nl2br is on, so one line equals one rendered line;
+   a paragraph must be ONE line). Use `##`/`###` headings where the source has implied sections. There is exactly one `# H1`, and it matches the frontmatter title.
+2. **Numbered steps.** Turn instructions into `1.` lists. Indent a step's screenshot, caption or sub-points by 4 spaces under it so
+   the numbering continues. If the author numbered steps, keep their numbers (sane_lists is on).
+3. **Settings tables.** Show runs of `Setting = value` / `Setting – value` as a `| Setting | Value |` table, with a blank line before it.
+4. **Call-out boxes.** Use Material admonitions with the body indented 4 spaces: `!!! note`, `!!! warning` (risk to the radio or codeplug,
+   "never do X"), `!!! tip`. Use them sparingly, for the author's own NOTE, IMPORTANT, WARNING and TIP lines.
+5. **Menu paths** are written as `**CPS → Optional Setting → Volume/Audio**`. **Keys and buttons** are bold (**PTT**, **P1**).
+6. **Emphasis:** at most a few bold phrases per page. Remove bold that only came from PDF styling.
+7. Remove empty lines of punctuation, stray `\`, decorative dividers and duplicated headings.
+
+**Must preserve exactly:** frontmatter (apart from fixing a typo in `title`, which must then match the H1), every link target and image path (you
+may move them, but each one must still be there), the `!!! info "Source"` / `!!! note "Author…"` box and the `[← All … mods]` line at the top, and
+the `## Links in the original PDF` section at the end. Image alt text and captions may be improved.

@@ -4,22 +4,24 @@ source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.h
 tags: [AT-D868UV, AT-D878UV]
 ---
 
+# Flash memory structure in the 868 / 6X2 / 878
+
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
-    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, unchanged, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#FlashMem)
+    © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#FlashMem)
 
-**Flash memory structure in the 868 / 6X2 / 878**
 The 868 / 878 / 6X2 is fitted with a 1 Gbit / 128 Mbyte external flash memory, and depending on what version of hardware, and type of MCU is fitted, the MCU has either 512 kbyte or 1 Mbyte of internal flash memory that holds the operating firmware.
+
 Here's what is known about the structure of memory in these radios so far:
-0x00000000 to 0x07FFFFFF is mapped to external flash memory chip; and
-0x08000000 to 0x080FFFFF is mapped to MCU internal flash memory.
 
-**868 / 6X2 / 878 Toshiba TC58CVG0S3HRAIG 1Gbit / 128Mbyte NAND external flash memory map**
+- 0x00000000 to 0x07FFFFFF is mapped to external flash memory chip; and
+- 0x08000000 to 0x080FFFFF is mapped to MCU internal flash memory.
 
-|  |  |
-|----|----|
+## 868 / 6X2 / 878 Toshiba TC58CVG0S3HRAIG 1Gbit / 128Mbyte NAND external flash memory map
+
 | Address in flash | Contents |
+|---|---|
 | 0x00000000 to 0x0014FFFF | holds alternate language fonts e.g. Chinese, Japanese, Greek, Cyrillic, Roman numerals. There is some English font there but it doesn't appear to be used at all |
 | 0x00150000 to 0x00159FFF | default AnyTone start-up picture |
 | 0x0015A000 to 0x001FFFFF | multi colour icons bitmaps |
@@ -33,6 +35,7 @@ Here's what is known about the structure of memory in these radios so far:
 | 0x04500000 to (likely) 0x06BFFFFF | DMR ID database, with other support data being written around 0x04000000 |
 | 0x06D00000 to (likely) 0x07FFFFFF | DMR audio recordings |
 
+## MCU internal flash memory
 
 0x08000000 to 0x080FFFFF is mapped to GD32F303VE or GD32F303VG MCU internal flash memory:
 

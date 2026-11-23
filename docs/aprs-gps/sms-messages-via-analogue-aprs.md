@@ -13,22 +13,20 @@ tags: []
 
 ## To send SMS
 
-Menu – APRS – Ana – APRS SMS
+1. **Menu → APRS → Ana → APRS SMS**
+2. **New SMS** → enter text → **Confirm**
+3. **Input ID** – this is the Callsign and SSID they use – M6xxx-7
 
-New SMS – enter text – Confirm
+    !!! note
+        You will need to know what SSID the other user has set.
 
-Input ID – This is the Callsign and SSID they use – M6xxx-7
-*You will need to know what SSID the other user has set*
-
-Click Confirm to send SMS
+4. Click **Confirm** to send the SMS.
 
 ## To RX SMS
 
-Menu – APRS – Ana – APRS SMS – Inbox – Inbox List
+**Menu → APRS → Ana → APRS SMS → Inbox → Inbox List**
 
-You must be within range of a Igate
-or
-via radio to radio with one of the 7 extra Channels/Frequencies you can setup.
+You must be within range of an Igate, or via radio to radio with one of the 7 extra Channels/Frequencies you can set up.
 
 ![Analog APRS Report Freq field set to 2](../assets/img/sms-messages-via-analogue-aprs/img-01.jpeg)
 
@@ -38,9 +36,10 @@ via radio to radio with one of the 7 extra Channels/Frequencies you can setup.
 
 *Transmission Frequency1 = 144.80000 MHz; Transmission Frequency2 = 433.40000 MHz; others 0.00000.*
 
-Also read
-Analogue APRS
-Analogue APRS RX if your radio offers it.
+## Also read
+
+- [Analogue APRS](analog-aprs-anytone-878-878plus.md)
+- [Analogue APRS RX](analogue-aprs-rx.md), if your radio offers it.
 
 ## Links in the original PDF
 

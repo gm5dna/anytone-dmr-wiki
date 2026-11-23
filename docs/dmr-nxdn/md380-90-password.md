@@ -9,16 +9,17 @@ tags: []
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Source](https://hamradiosouthernrepeaters.co.uk/dmr-info/2-uncategorised/59-md380-90-password.html)
 
-**1.** Go to folder the CPS is in *(C:\TYT)*  
-**2.** look for file - **setting.ini**  
-**3.** Right click and edit  
-**4.** password=0 ***change to*** password=password  
-**5.** Save  
+1. Go to the folder the CPS is in (`C:\TYT`).
+2. Look for the file **setting.ini**.
+3. Right-click and edit.
+4. Change `password=0` to `password=password`.
+5. Save.
 
-**Connect radio to PC and turn on in normal mode.**  
-**a.** Read Code plug from radio.  
-**b.** General Settings remove all 3 passwords  
-**c.** Save Code plug  
-**d.** Write back to radio  
+Connect the radio to the PC and turn it on in normal mode.
 
-Now all should be good
+1. Read the codeplug from the radio.
+2. In General Settings, remove all 3 passwords.
+3. Save the codeplug.
+4. Write back to the radio.
+
+Now all should be good.

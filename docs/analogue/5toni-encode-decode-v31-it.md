@@ -11,8 +11,7 @@ tags: [AT-D878UV, AT-D578UV]
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/5Toni_Encode_Decode_V31_IT.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/5Toni_Encode_Decode_V31_IT.pdf) Hub item 166.
 
-Valido per 878 a partire dalle versioni FW V3.02
-e per 578 a partire dalle versioni FW V2.04
+Valido per 878 a partire dalle versioni FW V3.02 e per 578 a partire dalle versioni FW V2.04
 
 ## Decode selettive 5 Toni
 
@@ -33,16 +32,18 @@ Nella sezione **5 Toni setting** seguire le prossime inpostazioni
 - Qui decidiamo se alla ricezione della selettiva la radio dovrà far suonare un beep, e se dovrà rispondere inviando la propria selettiva Self ID (28061)
 - Le sette caselle 5TONE Dec Units indicano quali cifre della selettiva Self ID dovranno essere riconosciute, ad esempio spuntando solo le prime due caselle di sinistra, qualunque selettiva che inizia con 28 sarà riconosciuta, quindi inviando una sequenza tipo 28123D12345 oppure 28678D12345 leggeremo sempre: PRIVATE CALL 12345
 
-### Chiamate private:
+### Chiamate private
 
 Inviando una selettiva al SelfID 28061D12345 la radio visualizza PRIVATE CALL 12345 (D è un tono di separazione, ma accetta anche una qualunque tono da 0123456789ABCD)
-### Chiamata di Gruppo:
+
+### Chiamata di Gruppo
 
 E' possibile inviare una chiamata di Gruppo sostituendo alcuni numeri del Self ID con delle A quindi esempio: inviando la sequenza 28AAAD12345, oppure AA061D12345 la radio visualizza Group Call 12345
 
-NB: se nel SelfID è impostato BeepTone suonerà anche in questa condizione
+!!! note "NB"
+    Se nel SelfID è impostato BeepTone suonerà anche in questa condizione
 
-### User Id:
+### User Id
 
 (se il flag Disp AnyID e abilitato ![Casella Disp AnyID spuntata](../assets/img/5toni-encode-decode-v31-it/img-03.png) )
 
@@ -50,12 +51,13 @@ Inviando una qualsiasi sequenza di toni, ad esempio 12345 la radio visualizzerà
 
 Se il flag invece è disabilitato ![Casella Disp AnyID non spuntata](../assets/img/5toni-encode-decode-v31-it/img-04.png), riconoscerà solo sequenze speciali che iniziano con E6, quindi inviando una sequenza E612345 la radio visualizzerà User Id:12345
 
-NB: è possibile inviare fino a 16 toni, ma il display ne può visualizzare al massimo 14,
+!!! note "NB"
+    È possibile inviare fino a 16 toni, ma il display ne può visualizzare al massimo 14:
 
-- E tono ripetizione
-- F tono di stop #
+    - **E** tono ripetizione
+    - **F** tono di stop #
 
-Se in Analog Addresse Book abbiamo associato un nome alla selettiva 12345, ad esempio il nome TEST, verranno visualizzato
+Se in Analog Addresse Book abbiamo associato un nome alla selettiva 12345, ad esempio il nome TEST, verranno visualizzato:
 
 ![Analog Address Book con il numero 12345 e il nome TEST](../assets/img/5toni-encode-decode-v31-it/img-05.jpeg)
 
@@ -65,22 +67,29 @@ Se in Analog Addresse Book abbiamo associato un nome alla selettiva 12345, ad es
 - GROUP CALL TEST
 - User Id TEST
 
-[Information ID NO.]
+### Information ID NO.
+
 In questa sezione possiamo impostare fino ad un massimo di 16 selettive diverse che una volta riconosciute avranno uno dei seguenti risultati: ( i numeri scelti sono solo di esempio )
 
-**Call All;** Inviando la sequenza 11111 la radio visualizza Call All ed è possibile anche far suonare un Beep
+#### Call All
+
+Inviando la sequenza 11111 la radio visualizza Call All ed è possibile anche far suonare un Beep
 
 ![Information ID NO. 2 impostato su Call All](../assets/img/5toni-encode-decode-v31-it/img-06.jpeg)
 
 *Information ID NO. = 2, Function Option = Call All, Decoding Response = Beep Tone, Information ID = 11111.*
 
-**Emergency Alarm**; Inviando la sequenza 99999 la radio emette un suono di Allarme e visualizza Alarm
+#### Emergency Alarm
+
+Inviando la sequenza 99999 la radio emette un suono di Allarme e visualizza Alarm
 
 ![Information ID NO. 3 impostato su Emergency Alarm](../assets/img/5toni-encode-decode-v31-it/img-07.jpeg)
 
 *Information ID NO. = 3, Function Option = Emergency Alarm, Decoding Response = None (disattivato), Information ID = 99999.*
 
-**Squelch Off**; Inviando la sequenza 66666 aprirà lo squelch della radio se nel canale è stato impostato lo **Squelch Mode** come **Optional Signal**
+#### Squelch Off
+
+Inviando la sequenza 66666 aprirà lo squelch della radio se nel canale è stato impostato lo **Squelch Mode** come **Optional Signal**
 
 ![Impostazioni Analog del canale con Squelch Mode Optional Signal](../assets/img/5toni-encode-decode-v31-it/img-08.jpeg)
 
@@ -90,19 +99,25 @@ In questa sezione possiamo impostare fino ad un massimo di 16 selettive diverse 
 
 *Information ID NO. = 6, Function Option = Squelch Off, Decoding Response = Beep Tone & Respond, Information ID = 66666.*
 
-inoltre si puo far emettere un beep e far rispondere con il proprio Self ID
+Inoltre si puo far emettere un beep e far rispondere con il proprio Self ID
 
-**Msg Group;** Inviando la sequenza 88888 la radio visualizza
+#### Msg Group
 
+Inviando la sequenza 88888 la radio visualizza:
+
+```text
 Msg Group
-
 88888
+```
 
-NB: se nel SelfID è impostato BeepTone suonerà anche in questa condizione
+!!! note "NB"
+    Se nel SelfID è impostato BeepTone suonerà anche in questa condizione
 
 ![Information ID NO. 7 impostato su Msg Group](../assets/img/5toni-encode-decode-v31-it/img-10.png)
 
 *Information ID NO. = 7, Function Option = Msg Group, Decoding Response = None (disattivato), Information ID = 88888.*
+
+#### Remotely Kill / Wake Up / Stun
 
 Oltre a queste funzioni è possibile associare una selettiva per spegnere a distanza la radio (Remotely Kill), per riaccenderla (Remotely Wake Up) o bloccarla (Remotely Stun) ma fate attenzione quando usate questi comandi
 
@@ -149,15 +164,17 @@ Nel canale impostare Optional Signal 5Tone, e in 5Tone ID scegliere un numero tr
 
 In PTT ID è possibile decidere se inviare una selettiva alla pressione del PTT, al rilascio o ad entrambi
 
-in R5Tone Bot e Eot si puo' scegliere quale sequenza PTT ID BOT o EOT andrà inviata tra le 100 disponibile oppure selezionando customize si useranno quelle impostate nelle due finestre specifiche nella sezione 5ToneEncode
+In R5Tone Bot e Eot si puo' scegliere quale sequenza PTT ID BOT o EOT andrà inviata tra le 100 disponibile oppure selezionando customize si useranno quelle impostate nelle due finestre specifiche nella sezione 5ToneEncode
 
 *IK8JHL*
+
+### Special Call
 
 Il tasto special Call ci permette di generare due tipi di sequenze
 
 ![Pulsante Special Call nel CPS](../assets/img/5toni-encode-decode-v31-it/img-16.png)
 
-### Send Message
+#### Send Message
 
 Inerire l'ID del destinatario piu' il messaggio da inviare, premendo OK verrà generata una selettiva, E1+ID+E+messaggio di testo in hex
 
@@ -171,7 +188,7 @@ La radio ricevente visualizzerà Message TEST
 
 ![Riga 99 dell'elenco: Send Message, 67890 Information:TEST, ZVEI1, 70](../assets/img/5toni-encode-decode-v31-it/img-18.png)
 
-### ANI
+#### ANI
 
 Inserire l'ID del destinatario più il carattere di separazione D per generare una chiamata privata
 
@@ -186,7 +203,7 @@ Inserire l'ID del destinatario più il carattere di separazione D per generare u
 
 *IK8JHL*
 
-### PTT ID
+#### PTT ID
 
 Genera una selettiva composta dal E6+Self Id E628061 quindi quando trasmessa, la radio ricevente visualizzerà: User Id 28061
 
@@ -194,13 +211,16 @@ Genera una selettiva composta dal E6+Self Id E628061 quindi quando trasmessa, la
 
 *Choose Encoding Group NO. = 97, Choose Calling Type = PTTID.*
 
+### Analog Address Book
+
 La lista Analog Address Book puo' essere usata anche per inviare delle chiamate private
 
-Sulla radio selezionare il menu' Book→Book List→ selezionare un contatto e premere il PTT
+Sulla radio selezionare il menu' **Book → Book List →** selezionare un contatto e premere il PTT
 
 esempio: richiamando in Book la memoria TEST e premendo il PTT invieremo la sequenza 28061D12345 (SelfID + TEST) che seguendo l'esempio riportato sopra nelle impostazioni di Decode, farà suonare la radio ricevente e visualizzerà Private Call 12345 (oppure TEST)
 
-**Purtroppo al momento non è possibile inserire lettere per poter chiamare un Gruppo**
+!!! note
+    Purtroppo al momento non è possibile inserire lettere per poter chiamare un Gruppo.
 
 ![CPS 578UV, Analog Address Book con i contatti TEST e Annuncio](../assets/img/5toni-encode-decode-v31-it/img-22.jpeg)
 

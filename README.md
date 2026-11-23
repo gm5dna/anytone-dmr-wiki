@@ -18,7 +18,7 @@ Run the steps in order (`uv` provides the dependencies):
 
 ```sh
 uv run --with pymupdf python -I scripts/harvest.py --refresh   # re-download; reports NEW / CHANGED / GONE
-python3 -I scripts/split_mods.py          # add --force to regenerate mods notes (overwrites them)
+python3 -I scripts/split_mods.py          # new sections only. NEVER --force: it would wipe the edited mods notes
 python3 -I scripts/finalise.py            # restores PDF links, points on-site links at local copies, writes hub-index.md
 python3 -I scripts/manuals.py             # archives manuals listed in build/vendor.json, writes manuals.md
 python3 -I scripts/wayback.py             # makes sure linked URLs have Internet Archive snapshots (slow, resumable)

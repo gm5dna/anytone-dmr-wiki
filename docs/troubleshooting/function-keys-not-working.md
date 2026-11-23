@@ -11,16 +11,15 @@ tags: []
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/Function_Keys_not_Working.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/Function_Keys_not_Working.pdf) Hub item 136.
 
-Open the CPS and go to **Optional Settings → Other** or **Work Mode**
+1. Open the CPS and go to **Optional Settings → Other** or **Work Mode**.
+2. Change to **Amateur Mode**.
 
-Change to **Amateur Mode**
+    ![CPS "choose working mode" field set to amateur mode](../assets/img/function-keys-not-working/img-01.jpeg)
 
-![CPS "choose working mode" field set to amateur mode](../assets/img/function-keys-not-working/img-01.jpeg)
+    *choose working mode = amateur mode.*
 
-*choose working mode = amateur mode.*
+    or
 
-or
+    ![CPS Operation mode field set to Amateur mode](../assets/img/function-keys-not-working/img-02.jpeg)
 
-![CPS Operation mode field set to Amateur mode](../assets/img/function-keys-not-working/img-02.jpeg)
-
-*Operation mode = Amateur mode.*
+    *Operation mode = Amateur mode.*

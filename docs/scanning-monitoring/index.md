@@ -13,7 +13,7 @@ Scan lists, CDT scan, Digi Moni.
 - [DataACK Disable](dataack-disable.md)
 - [Digi Moni](digi-moni.md)
 - [Digi Moni is missing in radio](digi-moni-is-missing-in-radio.md)
-- [How to scan between two sets of frequencies.](how-to-scan-between-two-sets-of-frequencies.md)
+- [How to scan between two sets of frequencies](how-to-scan-between-two-sets-of-frequencies.md)
 - [Remote Moni](remote-moni.md)
 - [Scanning](scanning.md)
 - [Scanning DMR VFO Frequencies](scanning-dmr-vfo-frequencies.md)

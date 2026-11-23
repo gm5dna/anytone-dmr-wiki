@@ -13,7 +13,7 @@ tags: []
 
 **CPS → Optional Settings → Volume/Audio**
 
-**Set to INDOORS**
+Set to **Indoors**.
 
 ![Optional Setting Volume/Audio tab](../assets/img/volume-to-loud/img-01.jpeg)
 

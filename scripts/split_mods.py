@@ -15,7 +15,7 @@ PAGES = {  # page slug -> (out folder, site dir of the page, source url, models)
 SKIP_IDS = {"back-top", "top"}
 JASON = ('!!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"\n'
          '    © Jason Reilly 2018–2022. Jason\'s pages were preserved by Norman Williams on '
-         'hamradiosouthernrepeaters.co.uk and are reproduced here, unchanged, so that his work stays available. '
+         'hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. '
          'They will be removed on request from his family. [Original page]({url})\n\n')
 NORMAN = '!!! info "Source"\n    Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original page]({url})\n\n'
 

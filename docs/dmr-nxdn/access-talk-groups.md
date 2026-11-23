@@ -9,26 +9,23 @@ tags: []
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Source](https://hamradiosouthernrepeaters.co.uk/dmr-info/2-uncategorised/61-access-talk-groups.html)
 
-TOT (Radio Timeout Timer) Must be set to 180s  
-Admit Criteria/TX Permit Etc = should be Channel Free or Same Color Code - "Never set to Always"
+| Setting | Value |
+|---|---|
+| TOT (Radio Timeout Timer) | Must be set to 180s |
+| Admit Criteria/TX Permit etc. | Should be Channel Free or Same Color Code – never set to Always |
 
-**1st you need to add the Talk Group to contacts as a GROUP CALL**  
-(2350 - Group Call)  
-(2351  - Group Call)  
-(91 - Group Call)  
+1. First you need to add the Talk Group to contacts as a **Group Call**:
 
-2nd Make up a channel for each Talk Group you wish to use.  
+    - 2350 – Group Call
+    - 2351 – Group Call
+    - 91 – Group Call
 
-3rd Add each channel to a Zone List.  
+2. Make up a channel for each Talk Group you wish to use.
+3. Add each channel to a Zone List.
+4. Save the codeplug.
+5. Send the codeplug to the radio.
 
-4th Save Codeplug  
+Turn the radio to the required zone and channel. TX to open that Talk Group. Now you can TX and RX in that Talk Group.
 
-5th Send Codeplug to radio  
-
-Turn radio to required ZONE and channel.  
-TX to open that Talk Group.  
-Now you can TX and RX in that Talk Group.  
-
-[Anytone Radios](../contacts-talkgroups/add-talk-groups.md)
-
-[Anytone Radios 2](../contacts-talkgroups/access-talk-groups.md)
+- [Anytone Radios](../contacts-talkgroups/add-talk-groups.md)
+- [Anytone Radios 2](../contacts-talkgroups/access-talk-groups.md)

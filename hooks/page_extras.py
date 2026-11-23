@@ -15,7 +15,8 @@ def on_post_page(output, page, config):
         return output
     output = re.sub(r"<title>(.*?) - ", lambda m: f"<title>{m.group(1)} · {label} - ", output, count=1)
     for prop in ('og:title', 'twitter:title'):
-        output = re.sub(rf'(<meta (?:property|name)="{prop}" content=")([^"]*)"', lambda m: f'{m.group(1)}{m.group(2)} · {label}"', output, count=1)
+        output = re.sub(rf'(<meta (?:property|name)="{prop}" content=")(.*?)( - [^"]*)?"',
+                        lambda m: f'{m.group(1)}{m.group(2)} · {label}{m.group(3) or ""}"', output, count=1)
     return output
 
 

@@ -1,0 +1,15 @@
+Jason Reilly VK7ZJA's tools, originally at http://anytonetechzone.byethost7.com/ (offline by 22/11/2026).
+These copies came from the DB1IG mirror (https://www.db1ig.de/media/JO_Pic/578/) on 22/11/2026.
+Not recoverable: 868-, 878-, 6X2-, DJ-MD5-, DJ-MD5X-Fast-defrost.zip
+
+sha256  file
+53f40e1cff84348561690b5ed0b5a8af14065f62a2036d92a2f1358082f161ca  AT_Options_v8.zip
+9a2247b302c127b004e5e3b5103a96160da67158eff0972f7bd676bf159feb95  AT_Flash_Utility_v3.zip
+152cb1a6c41aa72dd9a6bfef8ba39b73944aad316a90475a25999c0cad6a4374  RDT_Band_Conversion.zip
+32f1b32aad1379cf0f6712250e549b5c08827ded2cb7f44ffb8d43582412d1b3  578-Fast-defrost.zip
+0ec6a6bb0ac339b3cc40695fba2b98836150e2ce3bde37e036c75dcdd0ecfca0  Anytone-578-Flash-memory-map.zip
+ad85c453d227704f0380c92d2f0f075aa0b7ba5de9727a475a559a082dc7db5a  ImageTest.zip
+303a14b0777b98dd41d1c637087f8ebe6c180dc0d1491bfbd6dd4ed1d08fb92f  myvital-support.zip
+c16d9c68b5213f0b65ed0eabb684c9d24fb3af962c15c1a367984557a1a3ac5c  DR-MD500-Fast-defrost.zip
+c4f4de544b6de4351d0da6f0e96a7b5b03709f24f1c8671cd0e7c63a2e4065d4  DR-MD520-Fast-defrost.zip
+This mirror copy cannot be checked against Jason's originals. Scan the .exe files before running them.

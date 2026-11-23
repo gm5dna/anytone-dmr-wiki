@@ -1,0 +1,23 @@
+nav:
+  - index.md
+  - Original index (items 1–190): hub-index.md
+  - Getting started: getting-started
+  - CPS, firmware & codeplugs: cps-firmware
+  - Contacts & talk groups: contacts-talkgroups
+  - Networks & hotspots: networks-hotspots
+  - APRS & GPS: aprs-gps
+  - Bluetooth: bluetooth
+  - Scanning & monitoring: scanning-monitoring
+  - Operating: operating
+  - Encryption: encryption
+  - Analogue features: analogue
+  - Hardware & antennas: hardware
+  - Troubleshooting: troubleshooting
+  - Model-specific: models
+  - Mods, hints & tips: mods
+  - DMR & NXDN info: dmr-nxdn
+  - Videos: videos.md
+  - UK DMR networks: uk-networks.md
+  - External resources: external-resources.md
+  - Manuals & downloads: manuals.md
+  - Radio models (tags): tags.md

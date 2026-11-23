@@ -1,0 +1,34 @@
+Content
+-------
+The guides, PDFs and images under docs/ (other than those noted below) are © Norman Williams,
+hamradiosouthernrepeaters.co.uk, and are reproduced with his permission (AnyTone UK User Group
+post, 22/11/2026: "If anyone wants to copy the Anytone page and host it, feel free to do so.").
+
+The AT-D868/878UV and AT-D578UV "mods, hints & tips" pages (docs/mods/868-878, docs/mods/578)
+are © Jason Reilly VK7ZJA 2018–2022 (silent key, January 2023). They are reproduced unchanged from
+Norman Williams' preserved copy. They will be removed on request from his family.
+
+Third-party manuals under docs/archive/third-party/ remain the property of their publishers. They are
+archived for reference only, and each one's source and retrieval date are listed on the Manuals page.
+They will be removed on request.
+
+Site scaffolding
+----------------
+mkdocs.yml, scripts/, docs/javascripts/ and the .github/ workflow are released under the MIT licence:
+
+Copyright (c) 2026 Stuart (GM5DNA)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

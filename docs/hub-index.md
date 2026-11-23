@@ -1,0 +1,209 @@
+---
+title: Original index (items 1–190)
+---
+
+# Original index
+Norman's numbered list from the original page, in his order. Each link goes to the copy on this site, or to the external site where the item points elsewhere. See also [Videos](videos.md) and [UK DMR networks](uk-networks.md).
+
+- **1.** [Questions & Answers Link](getting-started/questions-answers.md)
+- **1a.** [How to start with your new Anytone radio.](getting-started/how-to-start-with-your-new-anytone-radio.md)
+- **1b.** [Why buy a Anytone DMR Radio.](getting-started/why-buy-a-anytone-dmr-radio.md)
+- **1c.** [Why you need a Windows PC](getting-started/why-you-need-a-windows-pc.md).
+- **1d.** [Programming an AnyTone on Linux.](https://feeding.cloud.geek.nz/posts/programming-anytone-d878uv-on-linux-using-windows10-and-virtualbox/) [DF5DH CPS under Wine - ENGLISH](cps-firmware/df5dh-cps-under-wine-english.md)
+- **2.** Digital Contact List Tools
+- **2a.** [kf5iw.com/contactdb](https://kf5iw.com/contactdb.php)
+- **2b.** [kf5iw updating your radio's digital contact list](contacts-talkgroups/update-your-digital-contacts.md)
+- **2c.** [DMR and NXDN Digital Contact tools](https://aes.app/tools/digital_contact_download)
+- **2d.** [Digital Contact list doesn't show up on the radio](contacts-talkgroups/digital-contact-list-doesnt-show-up-on-the-radio.md) [DF5DH CPS unter Wine - GERMAN](cps-firmware/df5dh-cps-unter-wine-german.md)
+- **3.** [DMR APRS](aprs-gps/digital-aprs-settings-d868-anytone.md) APRS = No 3, 4, 11, 59, 72, 74, 85, 87, 90, 114, 116, 145, 148, 156 GPS = No 47, 49, 59, 71, 73, 87, 157
+- **4.** [Analog APRS](aprs-gps/analog-aprs-anytone-878-878plus.md)
+- **5.** [Sending / Receive Talker Alias](contacts-talkgroups/anytone-878-sending-receive-talker-alias.md)
+- **6.** [DMR ID Lookup](https://www.radioid.net/database/search#!) and NXDN.
+- **7.** Site 1 Firmware & CPS [168](https://www.wouxun.us/category.php?category_id=108) - [868](https://www.wouxun.us/category.php?category_id=100) - [878](https://www.wouxun.us/category.php?category_id=93) - [578](https://www.wouxun.us/category.php?category_id=94) - [890](https://www.wouxun.us/category.php?category_id=112) 8a Site 3 Firmware & CPS [878 - 578](https://www.anytone.de/)
+- **8.** Site 2 Firmware & CPS [868](https://www.connectsystems.com/university/anytone.html) & 868 8b Site 4 Firmware & CPS [878 -578](https://premier01.com/inf/?C=M;O=D) · [868](https://support.bridgecomsystems.com/anytone-868-handheld-cps-firmware-and-driver-downloads)
+- **9.** Site 5 Firmware & CPS [New D168](https://www.wouxun.us/category.php?category_id=108)
+- **10.** Drivers if needed. [64Bit](https://www.connectsystems.com/products/top/radios/DS868UV_SOFTWARE/GD_64_VirtualComDriver.exe) - [32Bit](https://www.connectsystems.com/products/top/radios/DS868UV_SOFTWARE/GD_32_VirtualComDriver.exe) Not for [Windows 10/11](getting-started/questions-answers.md)
+- **11.** [APRS Symbol Chart](aprs-gps/aprs-symbol-chart.md)
+- **12.** [Mods - 868, 878](mods/868-878/index.md) and [Mods 578](mods/578/index.md)
+- **12a.** [Mods - 868, 878](mods/868-878/index.md) and [Mods 578](mods/578/index.md)
+- **12b.** [Expanding RX frequencies](mods/expanding-rx-frequencies.md)
+- **12c.** Mods - [168](mods/168/index.md)
+- **13.** [MCU Reset – 868 & 878](cps-firmware/mcu-reset-868-878.md) - [D168](cps-firmware/at-d168uv-firmware-update-and-mcu-reset.md)
+- **14.** [Firmware & MCU Reset - 578](cps-firmware/d578uv-fw-and-mcu-reset.md)
+- **15.** [2E0UKH Videos](https://www.youtube.com/user/ukgadget2/search?query=868+878+578+Anytone)
+- **16.** [Facebook Group](https://www.facebook.com/groups/1798919343492370/)
+- **17.** [How to update CPS and Firmware](cps-firmware/how-to-update-cps-and-firmware.md)
+- **17a.** [AES256/ARC4 encryption CSV Export/Import](encryption/aes256-arc4-encryption-csv-export-import.md)
+- **18.** [TOT Radio Timeout Timer 180s](hardware/radio-timeout-timer-180s.md)
+- **19.** [How to use Radio](getting-started/how-to-use-radio.md)
+- **20.** [578 - Repeater (Cross Band)](analogue/578-cross-band.md) No 159
+- **21.** [S](cps-firmware/codeplug-update-to-new-version-of-cps.md)[trange or odd things happening with radio](troubleshooting/strange-or-odd-things-happening.md)
+- **22.** [Edit CSV with OpenOffice](cps-firmware/anytone-d868uv-edit-csv-with-openoffice.md)
+- **23.** [Scanning](scanning-monitoring/scanning.md) No 43, 68, 108
+- **24.** [Customized Opening Screen Made Easy](cps-firmware/customized-opening-screen-made-easy.md)
+- **25.** [How to import Codeplug from another radio](cps-firmware/how-to-import-codeplug-from-another-radio.md)
+- **26.** [Open Codeplug in a Different CPS Version](cps-firmware/how-to-import-codeplug-from-another-radio.md)
+- **27.** [Ham Radio use of DMR](getting-started/ham-radio-use-of-dmr.md)
+- **28.** [Register for DMR ID](https://www.radioid.net/register#!)
+- **29.** [AT-D878UV and AT-D868UV Battery Latch](https://www.csi-radios.com/at-d878uv-and-at-d868uv-battery-latch/)
+- **30.** [Download Startup/Background Screens](https://www.facebook.com/media/set/?set=oa.2792992987418329&type=3) Also post
+- **31.** [KB2MXV Videos](https://www.youtube.com/user/fdnyfish/search?query=868+878+578)
+- **32.** [Add Talk Groups](contacts-talkgroups/add-talk-groups.md) No 109
+- **33.** [Access Reflectors](networks-hotspots/link-to-reflectors.md)
+- **34.** [Private Call](operating/private-call-anytone.md)
+- **35.** [D878UV BT Module Install Video](https://www.youtube.com/watch?v=6ZPMJs6bwbQ)
+- **36.** [Icons](originals/images/Anytone/Icons.jpg) and Icons No 48, 86 · [Icons](originals/images/Anytone/Anytone_Screen_Icons_large.jpg)
+- **36a.** [168 Icon](originals/images/168Mods/168_Icons.jpg)
+- **37.** [Change Band/Mode 168-868–878–578](cps-firmware/change-mode-868878578.md) No 78, 79
+- **38.** [578 Backup Batteries](https://moonrakeronline.com/anytone-replacement-battery-for-at-d578uv-sm3r3703t01u)
+- **39.** [DMR is like making a phone call](getting-started/dmr-is-like-making-a-phone-call-2.md) No 103
+- **40.** [Zone UP DOWN not working](troubleshooting/zone-up-down-not-working.md)
+- **41.** [Correct Antenna for Anytone 868/878](hardware/correct-antenna-for-anytone-868-878-878plus.md)
+- **41a.** [Antenna trim for 868/878](hardware/antenna-trim-for-878.md) No 130 to 132
+- **42.** [TX Permit](operating/tx-permit.md)
+- **43.** [Scanning DMR VFO Frequencies](scanning-monitoring/scanning-dmr-vfo-frequencies.md) No 23, 68, 108, 151
+- **44.** [Export and Import All CSV](cps-firmware/export-and-import-all-csv.md) Video v13
+- **45.** [Bugs, Report, Request Form](troubleshooting/anytone-radio-trouble-report-document.md)
+- **46.** [Digi Moni](scanning-monitoring/digi-moni.md)
+- **47.** [Ranging / Measure Period](operating/ranging.md)
+- **48.** [578 Missing Icons](hardware/578-missing-icons.md) No 36, 86
+- **49.** [Roaming](operating/roaming.md) No 157
+- **50.** [Settings I Use](getting-started/settings-i-use.md) · [link](https://www.paypal.com/paypalme/M6NBP)
+- **51.** [Anytone DMR Simplex UK](operating/anytone-dmr-simplex-uk.md)
+- **52.** [BT Firmware V10033](originals/images/Anytone/BT_Firmware_All_V10033.zip)
+- **53.** [BT FW upgrade for D578UV and D878UV](bluetooth/bt-fw-upgrade-for-d578uv-and-d878uv.md)
+- **54.** [Change Languages](cps-firmware/change-languages.md)
+- **55.** [Online Text Message](https://www.findu.com/cgi-bin/entermsg.cgi?fromcall=)
+- **56.** [Expanded RX Frequencies 868 878](mods/expanding-rx-frequencies.md)
+- **57.** [STE - Squelch Tail Eliminate](analogue/ste-squelch-tail-eliminate.md)
+- **58.** [Expanded RX Frequencies 578](mods/expanding-rx-frequencies.md)
+- **59.** [GPS, APRS and Bluetooth Missing](aprs-gps/gps-aprs-and-bluetooth-missing.md)
+- **60.** [PMR 446](operating/pmr-446.md)
+- **61.** [Selecting operational bands 578](mods/578/30-selecting-bands.md) and [This link](cps-firmware/change-mode-868878578.md)
+- **62.** [External speaker socket 578](mods/578/19-sockets.md)
+- **63.** [Green Irregular Blinking Led](troubleshooting/green-irregular-blinking-led.md)
+- **64.** [How to stop BT PTT drop out](bluetooth/how-to-stop-bt-ptt-drop-out.md)
+- **65.** [How to scan between two sets of frequencies](scanning-monitoring/how-to-scan-between-two-sets-of-frequencies.md)
+- **66.** [How does one respond to a PRIVATE CALL](operating/how-does-one-respond-to-a-private-call.md)
+- **67.** [Anytone Update Instructions by Allan VK3SLR](cps-firmware/anytone-update-instructions-by-allan-vk3slr.md)
+- **68.** [Using the address book to dial EchoLink nodes](mods/868-878/34-echolink.md)
+- **69.** [Virus detected! Is the CPS really safe to use?](mods/868-878/11-cpsvirus.md)
+- **70.** [Last Call Reply](operating/last-call-reply.md)
+- **71.** [Faster GPS Lock](aprs-gps/faster-gps-lock.md)
+- **72.** [OpenSpot sending APRS and Talker Alias](networks-hotspots/openspot-sending-aprs-and-talker-alias.md)
+- **73.** [GPS Test](aprs-gps/gps-test.md)
+- **74.** [Pi-Star sending APRS and Talker Alias](networks-hotspots/pi-star-sending-aprs-and-talker-alias.md)
+- **75.** [BT PTT Settings 878 - 578](bluetooth/bt-ptt-settings-878-578.md)
+- **76.** [Engraved Self Adhesive Call Sign](https://sites.google.com/view/kc8gl/anytone-call-sign-sticker)
+- **77.** [Change Band/Mode with Existing Codeplug](cps-firmware/change-band-mode-with-existing-codeplug.md)
+- **78.** 868/878 [Band Error and four ways you can fix it](mods/868-878/02-band-error.md)
+- **79.** 578 [Band Error and four ways you can fix it](mods/578/02-band-error.md)
+- **80.** [Preventing your radio from freezing or locking up](mods/868-878/81-prevent.md)
+- **81.** [External speaker sockets on the AT-D578UV](mods/578/19-sockets.md)
+- **82.** [Missed Call Window](operating/missed-call-window.md)
+- **83.** [Fix frozen during boot up 578](mods/578/55-frozen.md)
+- **84.** [Fix frozen during boot up 868 / 878 / 6X2](mods/868-878/79-frozen.md)
+- **85.** [Digi APRS RX](aprs-gps/digi-aprs-rx.md)
+- **86.** [878 icons explained](mods/868-878/30-icons.md) No 36, 48
+- **87.** [Missing – GPS, Bluetooth, APRS](aprs-gps/missing-gps-bluetooth-aprs.md)
+- **88.** [Windows 10 or 11 Drivers](getting-started/questions-answers.md)
+- **90.** [Analog APRS will not work](aprs-gps/analog-aprs-will-not-work.md)
+- **91.** [868/878 Make your radio sound like a Motorola](mods/868-878/33-tptchirp.md)
+- **92.** [578 Make your radio sound like a Motorola](mods/578/27-tptchirp.md)
+- **93.** [USB Not Working in Windows 10](https://windowsreport.com/usb-not-working-windows-10/)
+- **94.** [Remove Spaces](contacts-talkgroups/remove-spaces.md)
+- **95.** [Pi-Star FAQ](https://forum.pistar.uk/viewforum.php?f=45) & [Playing with Pi-Star](https://amateurradionotes.com/pi-star.htm) & [Facebook](https://www.facebook.com/groups/pistarusergroup/)
+- **96.** [DMR MODE](operating/dmr-mode.md)
+- **97.** [578VU Pro can not see the BT module (In menu)](bluetooth/578vu-pro-can-not-see-the-bt-module-in-menu.md)
+- **98.** By Bud W0RMT - [BrandMeister Messaging](https://coloradodigital.net/2020/05/10/brandmeister-messaging/) Make sure you do the CONFIG SHORT
+- **99.** [Anytone GJ-0485 Base station power supply](https://www.facebook.com/groups/1798919343492370/permalink/3212729695444654/)
+- **100.** [CPS Programming password lock](cps-firmware/cps-programming-password-lock.md) · [link](https://www.paypal.com/paypalme/M6NBP)
+- **101.** [4000 Disconnect](networks-hotspots/4000-disconnect.md)
+- **102.** [Difference in radios](getting-started/questions-answers.md)
+- **103.** [DMR is like a Phone Call](getting-started/dmr-is-like-a-phone-call.md) No 39
+- **104.** [Digi Moni is missing in radio](scanning-monitoring/digi-moni-is-missing-in-radio.md)
+- **105.** [Backing up vital alignment 868/878/6x2](mods/868-878/77-backup.md)
+- **106.** [Run Time error 13](troubleshooting/run-time-error-13.md)
+- **107.** [Backing up vital alignment 578](mods/578/54-backup.md)
+- **108.** [DataACK Disable](scanning-monitoring/dataack-disable.md) No 23, 43
+- **109.** [Access Talk Groups](contacts-talkgroups/access-talk-groups.md)
+- **110.** [N0GSG DMR Contact Manager](https://n0gsg.com/contact-manager/) Video v21, v31
+- **111.** [Anytone Q8 Bluetooth Earpiece User Guide](bluetooth/anytone-q8-bluetooth-earpiece-user-guide.md)
+- **112.** [Working a Repeater via Manual Dial](operating/working-a-repeater-via-manual-dial.md)
+- **113.** [3 Beeps](troubleshooting/3-beeps.md)
+- **114.** [APRS via ISS](https://issfanclub.eu/2019/04/29/aprs-via-iss-tips-for-successful-operation/) and [This Link](https://dk3ml.de/2019/07/22/how-to-work-the-aprs-digipeater-on-the-international-space-station-iss/)
+- **115.** [Amateur Radio Stations heard via ISS](https://ariss.net/)
+- **116.** [Work the ISS using APRS](https://amsat-uk.org/beginners/how-to-work-the-iss-on-aprs-packet-radio/)
+- **117.** [Download 7zip](https://www.7-zip.org/download.html). Videos [v25 to v28](external-resources.md) on how to UN-Zip a file
+- **118.** [AnyTone AT-D878UVII-REPLACEMENT ANTENNA](https://hamradio.co.uk/anytone-at-d878uvii-replacement-antenna-pd-14766)
+- **119.** [Anytone power levels on Analogue](analogue/anytone-power-levels-on-analogue.md)
+- **120.** [Remote Moni](scanning-monitoring/remote-moni.md)
+- **121.** [Linking to Gateway Dynamic Talk Groups](networks-hotspots/linking-to-gateway-dynamic-talk-groups.md)
+- **122.** [KlickFast](https://www.niton999.co.uk/mates-rates-2-pack-of-niton-tactical-lite-dock.html) - [Photo 1](originals/images/Anytone/KlickFast_1.jpg) - [Photo 2](originals/images/Anytone/KlickFast_2.jpg)
+- **123.** [DMR Text Message on BrandMeister](operating/dmr-text-message-on-brandmeister.md) 123a [DMR Text Message FreeDMR Network](https://www.freedmr.uk/index.php/sms-messages/)
+- **124.** [Motorola RAS and CAP+](encryption/motorola-ras-and-cap.md).
+- **125.** [Satellite, refer to videos v42, v43, v44](external-resources.md)
+- **126.** [868/878 Resetting your power on password](mods/868-878/66-lost-password.md)
+- **127.** [578 Resetting your power on password](mods/578/41-lost-password.md)
+- **128.** [Anytone encryption to Motorola / Hytera](encryption/anytone-encryption-to-motorola-hytera.md)
+- **129.** [Compatibility of Encryption](mods/868-878/21-encryption.md)
+- **130.** [Handheld Antennas Which is the Best](https://www.miklor.com/COM/UV_Antennas.php) No 41
+- **131.** [How to determine a 'fake' Nagoya antenna.](https://www.nagoya.com.tw/en/news-31478/%E3%80%8Elatest-updated%E3%80%8FHow-to-identify-the-genuine-and-fake-antenna.html)
+- **132.** [All Antennas are Not Created Equal](https://www.miklor.com/COM/Compare-NA701-Fake.php) No 41
+- **133.** [Speaker Microphone Pin Out](https://www.miklor.com/COM/UV_Technical.php) No 144
+- **134.** [Edit DMR ID info (Free to Edit)](https://www.amateurradio.digital/)
+- **135.** [P1, P2 and PF3 keys issue.](https://www.facebook.com/groups/1798919343492370/permalink/24865399929750985/)
+- **136.** [Function Keys not Working](troubleshooting/function-keys-not-working.md)
+- **137.** [Volume to Loud](troubleshooting/volume-to-loud.md)
+- **138.** [CDT - CTCSS/DCS Tone Scan](scanning-monitoring/anytone-578-878-tone-decoding-v2.md) No 143
+- **139.** [3D Print 868/878 Knobs](https://www.thingiverse.com/search?q=Anytone+knobs)
+- **140.** [3D Print 868](https://www.thingiverse.com/search?q=anytone+868&type=things&sort=relevant)
+- **141.** [3D Print 878](https://www.thingiverse.com/search?q=anytone+878&type=things&sort=relevant)
+- **142.** [3D Print 578](https://www.thingiverse.com/search?q=anytone+578&type=things&sort=relevant)
+- **143.** [CDT Scan](scanning-monitoring/cdt-scan.md) No 138
+- **144.** [Mic RF interference Mods](https://owenduffy.net/blog/?s=RFI+mod) No 133
+- **145.** [Analogue APRS RX](aprs-gps/analogue-aprs-rx.md) No 148
+- **146.** [868/878 CPS to New 878II CPS](cps-firmware/868-878-cps-to-new-878ii-cps.md)
+- **147.** [Anytone on FreeDMR Network](networks-hotspots/anytone-freedmr.md) 149.
+- **148.** [Analogue APRS RX by Alex](https://do1alx.de/2021/getting-analog-aprs-to-work-on-an-anytone-at-878uv-and-at-878uvii/) No145
+- **150.** [Brodit Holders](https://www.brodit.co.uk/brodit/holders/AnyTone/AT-D878UV.htm) · [link](https://www.paypal.com/paypalme/M6NBP)
+- **151.** [Can the 168/868/878 be used as a scanner?](mods/868-878/54-scanner.md)
+- **152.** [Can the 578 be used as a scanner?](mods/578/34-scanner.md)
+- **153.** [Selecting operational bands 868/878](mods/868-878/37-selecting-bands.md)
+- **154.** [Selecting operational bands 578](mods/578/30-selecting-bands.md)
+- **155.** [SMA connector](originals/images/Anytone/SMA.jpg)
+- **156.** [SMS/Messages via Analogue APRS](aprs-gps/sms-messages-via-analogue-aprs.md)
+- **157.** [GPS Roaming](aprs-gps/gps-roaming.md) No 49
+- **158.** [Anytone IGate](aprs-gps/anytone-igate.md)
+- **159.** [578 SFR Repeater IT.pdf](models/578-sfr-repeater-it.md) No 20 159a [578 SFR Prpeater EN.pdf](models/578-sfr-prpeater-en.md)
+- **160.** [XH414HG IV01E rechargeable lithium batteries](https://www.aliexpress.com/w/wholesale-XH414HG-IV01E.html)
+- **161.** [XH414HG IV01E Via Moonraker](https://www.facebook.com/groups/1798919343492370/permalink/9818281118222779/)
+- **162.** [SignaLink USB for AnyTone D578](hardware/signalink-usb-with-at-d578uv.md)
+- **163.** [Codeplugs for fun](https://m7smu.org.uk/post/codeplugs-for-fun-and-profit/)
+- **164.** [868/878 Replacement Radio Front](https://www.wouxun.us/item.php?item_id=447&category_id=91)
+- **165.** [868/878 Original replacement body](https://www.k-po.com/product/anytone-at-d878uv-original-front-body/)
+- **166.** [Decode 5 Tone by Francesco IK8JHL](analogue/5toni-encode-decode-v31-eng.md) English
+- **166.** [Decode 5 Tone by Francesco IK8JHL](analogue/5toni-encode-decode-v31-it.md) Italian
+- **167.** [SMA Male Nut Flange Panel Mount](https://www.aliexpress.com/item/33030163822.html)
+- **168.** [Catalog_Anytone_2023_ENG.pdf](originals/images/Anytone/Catalog_Anytone_2023_ENG.pdf)
+- **169.** [Anytone QB-44HL (Type C) 3100mAh Battery](https://moonrakeronline.com/anytone-type-c-3100mah-battery)
+- **170.** [578 Custom Cable for the DigiRig mobile](https://forum.digirig.net/t/cable-for-anytone-at-d578uv-iii-pro-plus/548)
+- **171.** [AT-D168UV brochure.pdf](originals/images/Anytone/AT-D168UV_brochure_240827.pdf)
+- **172.** [AT-D168UV manual.pdf](originals/images/Anytone/AT-D168UV_manual_240827.pdf)
+- **173.** [How to use Satellite CSV](operating/how-to-use-satellite-csv.md)
+- **174.** [D890UV user manual.pdf](originals/images/Anytone/D890UV_user_manual.pdf)
+- **175.** [AT D890UV Programming Guide 251206.pdf](originals/images/Anytone/AT_D890UV_Programming_Guide_251206.pdf)
+- **176.** [Anytone D890UV Option tool V3](originals/images/Anytone_D890UV_Option_v3.zip)
+- **177.** [AT-D890UV NXDN settings](models/at-d890uv-nxdn.md)
+- **178.** Ham Radio [NXDN Reflectors](https://dvref.com/nxdn/) via Repeater or Hotspot
+- **179.** [Apply for Ham Radio NXDN ID](https://radioid.net/)
+- **180.** [AT-D890UV NXDN Digi Moni](scanning-monitoring/at-d890uv-nxdn-digi-moni.md)
+- **181.** [NXDN Roaming](models/nxdn-roaming.md)
+- **182.** [878 to 890 Channel CSV Converter](https://aes.app/tools/878to890converter)
+- **183.** [Bluetooth KISS TNC with APRSdroid](aprs-gps/anytone-at-d890uv-as-a-bluetooth-kiss-tnc-with-aprsdroid.md)
+- **184.** [Desktop app to do BT upgrade](https://github.com/Aes-App/firmware-updater/releases/latest) and more
+- **185.** [WebCPS Program your radio, right in the browser.](https://cps.aes.app/)
+- **186.** [WebCPS AT Options](https://cps.aes.app/tools/anytone-options)
+- **187.** [WebCPS Screen Pictures](https://cps.aes.app/tools/screen-pictures)
+- **188.** [WebCPS by RadioID. Add repeater channels and zones](https://radioid.net/) 190. UK DMR
+- **189.** [WebCPS converts CP to another radio model](https://cps.aes.app) [Back to Top](external-resources.md) Networks

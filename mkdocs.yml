@@ -1,0 +1,25 @@
+site_name: AnyTone DMR UK Wiki
+site_description: Norman Williams' AnyTone AT-D168/868/878/890UV & AT-D578UV guide, preserved
+site_url: https://gm5dna.github.io/anytone-dmr-wiki/
+repo_url: https://github.com/gm5dna/anytone-dmr-wiki
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  language: en
+  features: [navigation.indexes, navigation.top, navigation.footer, search.highlight, search.suggest, content.action.edit]
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle: {icon: material/brightness-7, name: Dark mode}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle: {icon: material/brightness-4, name: Light mode}
+plugins:
+  - search
+  - tags
+  - awesome-nav
+exclude_docs: |
+  originals/**/*.html
+extra_javascript: [javascripts/archive-links.js]
+extra_css: [javascripts/archive-links.css]
+markdown_extensions: [admonition, attr_list, md_in_html, tables, toc, sane_lists, nl2br]

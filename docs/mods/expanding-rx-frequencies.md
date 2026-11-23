@@ -78,5 +78,5 @@ You’ll notice that this mod will permit coverage of some of the VHF air band. 
 
 ## See also
 
-- [Expanding RX frequencies](868-878/49-expand-rx.md)
-- [Expanding RX frequencies](578/31-expand-rx.md)
+- [Expanding RX frequencies (AT-D868UV/878UV mods)](868-878/49-expand-rx.md)
+- [Expanding RX frequencies (AT-D578UV mods)](578/31-expand-rx.md)

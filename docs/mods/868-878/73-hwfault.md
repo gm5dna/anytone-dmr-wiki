@@ -16,7 +16,7 @@ The 868 / 878 / 6X2 are generally very reliable radios, but sometimes faults wil
 - **Charger constantly flashing red-green-red, even without a battery inserted:** charger base has failed.
 - **Radio displays "Checking Flash" or "Bad Block":** faulty or corrupt flash memory; can sometimes be fixed with a reset of the radio.
 - **Radio LCD display goes fuzzy or strange during transmit:** faulty display or loose connecting ribbon cables. If you are confident enough, try re-seating the ribbon cables and firmly lock their header retainer into place to fix.
-- **Radio freezes on power up:** this is sometimes due to the SCT3258 baseband IC going bad, but sometimes can be fixed by the 'defrost' solutions below.
+- **Radio freezes on power up:** this is sometimes due to the SCT3258 baseband IC going bad, but sometimes can be fixed by the 'defrost' solutions ([Quick defroster](79-frozen.md) and [Full defroster](80-full-defrost.md)).
 
 These are generally *hardware* issues, which mean the radio needs to go back to your dealer for attention.
 

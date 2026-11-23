@@ -1,7 +1,7 @@
 ---
 title: "French text help file for 878"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#OtherHelpLanguages
-tags: [AT-D868UV, AT-D878UV]
+tags: [AT-D878UV]
 ---
 
 # French text help file for 878

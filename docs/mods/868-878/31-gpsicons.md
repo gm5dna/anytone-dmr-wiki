@@ -1,7 +1,7 @@
 ---
 title: "Alternate GPS icons to download (878 only)"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#GPSIcons
-tags: [AT-D868UV, AT-D878UV]
+tags: [AT-D878UV]
 ---
 
 # Alternate GPS icons to download (878 only)

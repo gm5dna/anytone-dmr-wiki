@@ -31,7 +31,7 @@ Newer firmware will have more options.
 
 *Transmission Frequency1 [MHz] = 144.80000; Frequencies 2 to 8 = 0.00000.*
 
-Newer firmware will have this for frequencies:
+Newer firmware will have this for frequencies.
 
 | Setting | Value |
 |---|---|

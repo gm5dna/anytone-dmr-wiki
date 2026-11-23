@@ -44,7 +44,7 @@ To carry out this modification do the following:
 2. Make sure you have downloaded the correct package for your model of radio, and unzip the contents.
 3. Make sure you have saved your codeplug (rdt) configuration file.
 4. Using the regular firmware updating software & process, send this frequency expanded firmware to the radio.
-5. If necessary, update your codeplug / rdt configuration file to be compatible with the version of firmware you have downloaded. If you want to reuse your saved codeplug rdt configuration file, you may need to modify one byte with a hex editor as detailed below.
+5. If necessary, update your codeplug / rdt configuration file to be compatible with the version of firmware you have downloaded. If you want to reuse your saved codeplug rdt configuration file, you may need to modify one byte with a hex editor as detailed in [Selecting operational bands](30-selecting-bands.md).
 6. Enjoy ***actual*** extra receive frequency coverage of around 110-281 MHz, and 339-527 MHz (varies from individual radio to radio). On the 578 Plus model only, you will also be able to use the AM Air band up to 144 MHz to cater for those countries that have special air band frequencies above 136 MHz (with thanks to Francesco IK8JHL).
 
 Your mileage may vary of course, due to individual radio & component manufacturing tolerances. You can use the VFO and add memory channels to use these new expanded receive frequency ranges.
@@ -63,9 +63,10 @@ To enter out of band frequencies in the CPS programming software, you will need 
 
 *Transmit remains standard according to each MODE.* Note that out of band receive frequencies can be very low in sensitivity due to the excellent front end filtering of these radios.
 
-Refer to the sensitivity plots below:
+Refer to the sensitivity plots in [Receiver sensitivity & transmit output power measurements](32-measurements.md).
 
 ## See also
 
-- [Expanding RX frequencies](../expanding-rx-frequencies.md)
-- [Expanding RX frequencies](../868-878/49-expand-rx.md)
+- [Expanding RX frequencies (general mods)](../expanding-rx-frequencies.md)
+- [Expanding RX frequencies (AT-D868UV/878UV mods)](../868-878/49-expand-rx.md)
+- [Receiver sensitivity & transmit output power measurements](32-measurements.md)

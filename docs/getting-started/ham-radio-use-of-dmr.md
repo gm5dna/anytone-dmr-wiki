@@ -33,4 +33,8 @@ DMR is nothing like Analog or HF. It is closer to D-Star/Fusion and moving to a 
 
 ## Links in the original PDF
 
+- [DMR ID number](https://register.ham-digital.org/)
 - [You will need Brandmeister](https://brandmeister.network/?page=talkgroups)
+- [Brandmeister UK](http://brandmeister-uk.cloudaccess.host/)
+- [Phoenix](http://www.dmr-uk.net/)
+- [Phoenix layout](http://www.dmr-uk.net/index.php/layout/)

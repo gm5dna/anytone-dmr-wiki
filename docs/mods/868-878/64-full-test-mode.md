@@ -24,3 +24,5 @@ Begin by connecting your radio to the CPS software and take a screenshot of, or 
 
 !!! note
     There is a bug in the CPS programming software: Local Information will not show the correct frequency band the radio is set to, but **Model → Model Information** does show the correct frequency band.
+
+Continued: [AnyTone Options software download](65-atoptions.md)

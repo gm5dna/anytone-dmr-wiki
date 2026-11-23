@@ -13,7 +13,7 @@ tags: [AT-D868UV, AT-D878UV]
 
 ## Band Error
 
-![Radio display showing Band Error](../../originals/images/878Mods/banderror.jpg)
+![CPS "Write data into radio" window at 0% with a "Band Error!" message box](../../originals/images/878Mods/banderror.jpg)
 
 [Band Error has its own section, click here](02-band-error.md) to see five different methods on how to fix this problem.
 
@@ -56,7 +56,7 @@ This error is a little more serious. A similar error message is 'Bad Block.' Try
 1. First confirm you have loaded the correct firmware, this error can appear if you've accidentally loaded a V1 firmware file on to a V2 hardware 868 or vice versa.
 2. Reset the radio and then reload the codeplug.
 3. If that did not work, reset the radio, reload a fresh copy of firmware and icons, perform another reset, and then reload your codeplug.
-4. If you happen to have a backup image of your flash memory, especially of the critical area at addresses 02F00000 and 02FDFFFF, then use the instructions below on writing your own CDD file to restore this image to your radio flash memory. Alternatively, you can use the defroster packs toward the bottom of this page to refresh your flash memory, though you will still need to have a backup of your critical area data first.
+4. If you happen to have a backup image of your flash memory, especially of the critical area at addresses 02F00000 and 02FDFFFF, then use the instructions on [writing your own CDD file](78-cdd.md) to restore this image to your radio flash memory. Alternatively, you can use the defroster packs ([Quick defroster](79-frozen.md) and [Full defroster](80-full-defrost.md)) to refresh your flash memory, though you will still need to have a backup of your critical area data first.
 5. In the very worst case, this could indicate hardware failure of the flash memory, a fatal problem that can not be recovered from.
 
 ## Power on password in Chinese
@@ -79,7 +79,7 @@ The RTC backup battery can be replaced by getting access to the bottom side of t
 
 ![Radio display showing a white block where the icon should be, above "Call End"](../../originals/images/878Mods/whiteicon.jpg)
 
-Not really an error message as such, if you are seeing white blocks being displayed instead of an icon after you have made a firmware update, this means you also need to do an icon update to the radio. For the 868, the Icon V1.20 update is the most recent and you can download it below. For the 878, the latest Icon V1.21 update can also be downloaded below (Thanks Francesco). For all you DMR-6X2 owners, your latest icon (pic) v1.1b update was included with the v2.01 firmware & CPS package.
+Not really an error message as such, if you are seeing white blocks being displayed instead of an icon after you have made a firmware update, this means you also need to do an icon update to the radio. For the 868, the Icon V1.20 update is the most recent and you can download it. For the 878, the latest Icon V1.21 update can also be downloaded (Thanks Francesco). For all you DMR-6X2 owners, your latest icon (pic) v1.1b update was included with the v2.01 firmware & CPS package.
 
 Once you have downloaded the appropriate package and located the Icon Update folder within, you send the icon / pic .spi file to the radio by using the CPS menu selections **CPS → Tool → Firmware and Icon Update**.
 

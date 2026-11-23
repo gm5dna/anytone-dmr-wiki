@@ -11,7 +11,7 @@ tags: [AT-D878UV, AT-D578UV]
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/Anytone/Anytone_encryption_to_Motorola_Hytera.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/Anytone/Anytone_encryption_to_Motorola_Hytera.pdf) Hub item 128.
 
-Read this first: [https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Encryption](../mods/868-878/21-encryption.md)
+Read this first: [Compatibility of encryption (Jason VK7ZJA's mods page)](../mods/868-878/21-encryption.md)
 
 If you want a Motorola and an Anytone to work together on an encrypted channel, you have to set both radios to AES256 (open standard) and of course let them use the same key. The Anytones all support that with their actual firmware, but not every Motorola does.
 

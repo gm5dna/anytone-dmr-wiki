@@ -31,12 +31,11 @@ tags: []
 
 It is nothing to worry about in general. Depending on your set-up it is very handy to let you know RF is being detected.
 
-![Radio manual extract, Status Indications table: Flashes Red = Low battery voltage; Constant Red = Transmitting; Constant Green = Analog Receiving; Constant Cyan = Digital Receiving; Flashes Green = Scan](../assets/img/green-irregular-blinking-led/img-01.jpeg)
-
 ## From the radio manual
 
-**4. Radio Overview – 4.1 Status Indications**
+![Radio manual extract, Status Indications table: Flashes Red = Low battery voltage; Constant Red = Transmitting; Constant Green = Analog Receiving; Constant Cyan = Digital Receiving; Flashes Green = Scan](../assets/img/green-irregular-blinking-led/img-01.jpeg)
 
+**4. Radio Overview – 4.1 Status Indications**
 
 The top LED will help you to identify the current radio status.
 

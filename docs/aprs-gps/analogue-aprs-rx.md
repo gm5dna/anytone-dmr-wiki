@@ -53,7 +53,7 @@ Keep in mind 144.8000 is for data only and not for voice traffic in the UK, so I
 
 ![Channel Information Edit window for the APRS RX/TX channel](../assets/img/analogue-aprs-rx/img-05.png)
 
-*Channel Name = APRS RX/TX; Receive and Transmit Frequency = 144.80000; Channel Type = A-Analog; Band Width = 12.5K; PTT Prohibit and APRS RX ticked.*
+*Channel Name = APRS RX/TX; Receive and Transmit Frequency = 144.80000; Channel Type = A-Analog; Band Width = 12.5K; APRS RX ticked; PTT Prohibit not ticked in this screenshot.*
 
 !!! note
     Even though the UK should be narrow on the APRS RX/TX frequency:

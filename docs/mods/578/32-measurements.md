@@ -1,10 +1,10 @@
 ---
-title: "578 receiver sensitivity"
+title: "Receiver sensitivity & transmit output power measurements"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#Measurements
 tags: [AT-D578UV]
 ---
 
-# 578 receiver sensitivity
+# Receiver sensitivity & transmit output power measurements
 
 [← All 578 mods](index.md)
 

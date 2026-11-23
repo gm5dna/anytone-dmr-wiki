@@ -13,23 +13,23 @@ tags: [AT-D578UV]
 
 The AnyTone 578 can be used as a scanner for FM & DMR in some circumstances. Here’s a quick run-down of what you will need to know for using the AnyTones for scanning DMR:
 
-### Simplex / direct mode DMR
+## Simplex / direct mode DMR
 
 This is easy, just program in the frequency, set the channel as DMR MODE=Simplex, set digital monitor mode to on and you’ll hear everything.
 
-### Simplex Dual Capacity Direct Mode (DCDM) DMR
+## Simplex Dual Capacity Direct Mode (DCDM) DMR
 
 This is easy, just program in the frequency, set the channel as DMR MODE=Double Slot, set digital monitor mode to on and you’ll hear everything.
 
-### Standard Tier2 repeater
+## Standard Tier2 repeater
 
 This is also easy, program in the repeater output TX frequency, set the channel as DMR MODE=Repeater and tick the DataACK Disable box, set digital monitor mode on and you’ll hear everything. Sometimes the top LED will light but no voice will come out, this is fine, that is just the repeater sending idle or beacon packets to let the radios know the repeater is still alive.
 
-### Motorola IP Site Connect DMR repeater scanning
+## Motorola IP Site Connect DMR repeater scanning
 
 This is the same as a standard Tier2 repeater, just with multiple repeaters linked by an internet connection. Same setup applies: program in the repeater output TX frequency, set the channel as DMR MODE=Repeater and tick the DataACK Disable box, set digital monitor mode on and you’ll hear everything. Sometimes the top LED will light but no voice will come out, this is fine, that is just the repeater sending idle or beacon packets to let the radios know the repeater is still alive.
 
-### Motorola Capacity Plus (previously known as Linked Capacity Plus)
+## Motorola Capacity Plus (previously known as Linked Capacity Plus)
 
 This is a Motorola unique pseudo trunking system that uses no control channel. Rather, radios listen on a ’rest channel’ and when a call is made, the ’rest channel’ becomes a voice channel for the call. All other radios not involved in that call then listen out on the next defined ’rest channel’ until the original call clears.
 
@@ -37,13 +37,13 @@ Since Capacity Plus uses the same CAI (Common Air Interface) as regular DMR for 
 
 Program in all the repeater output TX frequencies, setting each channel as DMR MODE=Repeater and tick the DataACK Disable box, set digital monitor mode on and you’ll hear everything. Sometimes the top LED will light but no voice will come out, this is fine, that is just the repeater sending idle or beacon packets to let the radios know the repeater is still alive.
 
-### Motorola Connect Plus
+## Motorola Connect Plus
 
 This is a Motorola unique full trunking system that has a dedicated control channel. Since Connect Plus uses the same CAI (Common Air Interface) as regular DMR for voice calls, the AnyTone DMR radios can listen only to such a system by entering each frequency of the system and scanning those frequencies while using digital monitor. Following a voice call as it progresses & jumps frequencies due to trunking nature of the system results in discontinuity of listening at times.
 
 Program in all the repeater output TX frequencies except the control channel frequency, setting each channel as DMR MODE=Repeater and tick the DataACK Disable box, set digital monitor mode on and you’ll hear much of what is available. Sometimes the top LED will light but no voice will come out, this is fine, that is just the repeater sending idle or beacon packets to let the radios know the repeater is still alive.
 
-### Motorola Capacity Max
+## Motorola Capacity Max
 
 This is a Motorola unique full trunking system that has a dedicated control channel and is typically used in very large, wide area networked systems. Since Capacity Max uses the same CAI (Common Air Interface) as regular DMR for voice calls, the AnyTone DMR radios can listen only to such a system by entering each frequency of the system and scanning those frequencies while using digital monitor. Following a voice call as it progresses & jumps frequencies due to trunking nature of the system results in discontinuity of listening at times.
 

@@ -26,14 +26,14 @@ Hub items whose links go off-site (not hamradiosouthernrepeaters.co.uk, YouTube 
 - **8.** Site 2 Firmware & CPS 868 & 868: [868](https://www.connectsystems.com/university/anytone.html) · [868](https://support.bridgecomsystems.com/anytone-868-handheld-cps-firmware-and-driver-downloads)
 - **8b.** [Site 4 Firmware & CPS 878 - 578](https://premier01.com/inf/?C=M;O=D)
 - **9.** [Site 5 Firmware & CPS New D168](https://www.wouxun.us/category.php?category_id=108)
-- **10.** Drivers if needed. 64Bit - 32Bit Not for Windows 10/11: [64Bit](https://www.connectsystems.com/products/top/radios/DS868UV_SOFTWARE/GD_64_VirtualComDriver.exe) · [32Bit](https://www.connectsystems.com/products/top/radios/DS868UV_SOFTWARE/GD_32_VirtualComDriver.exe)
+- **10.** Drivers if needed. 64Bit - 32Bit Not for [Windows 10/11](getting-started/questions-answers.md): [64Bit](https://www.connectsystems.com/products/top/radios/DS868UV_SOFTWARE/GD_64_VirtualComDriver.exe) · [32Bit](https://www.connectsystems.com/products/top/radios/DS868UV_SOFTWARE/GD_32_VirtualComDriver.exe)
 - **184.** [Desktop app to do BT upgrade and more](https://github.com/Aes-App/firmware-updater/releases/latest)
 
 ## Contact list and CSV tools
 
 - **2a.** [kf5iw.com/contactdb](https://kf5iw.com/contactdb.php)
 - **2c.** [DMR and NXDN Digital Contact tools](https://aes.app/tools/digital_contact_download)
-- **110.** [N0GSG DMR Contact Manager Video v21, v31](https://n0gsg.com/contact-manager/)
+- **110.** [N0GSG DMR Contact Manager](https://n0gsg.com/contact-manager/) Video v21, v31
 - **182.** [878 to 890 Channel CSV Converter](https://aes.app/tools/878to890converter)
 
 ## DMR and NXDN IDs and reflectors
@@ -48,12 +48,12 @@ Hub items whose links go off-site (not hamradiosouthernrepeaters.co.uk, YouTube 
 
 - **1d.** [Programming an AnyTone on Linux.](https://feeding.cloud.geek.nz/posts/programming-anytone-d878uv-on-linux-using-windows10-and-virtualbox/)
 - **93.** [USB Not Working in Windows 10](https://windowsreport.com/usb-not-working-windows-10/)
-- **117.** [Download 7zip. Videos v25 to v28 on how to UN-Zip a file](https://www.7-zip.org/download.html)
+- **117.** [Download 7zip](https://www.7-zip.org/download.html). Videos [v25 to v28](videos.md) on how to UN-Zip a file
 
 ## Hotspots, Pi-Star and messaging
 
 - **95.** Pi-Star FAQ & Playing with Pi-Star & Facebook: [Pi-Star FAQ](https://forum.pistar.uk/viewforum.php?f=45) · [Playing with Pi-Star](https://amateurradionotes.com/pi-star.htm) · [Facebook](https://www.facebook.com/groups/pistarusergroup/)
-- **98.** [By Bud W0RMT - BrandMeister Messaging Make sure you do the CONFIG SHORT](https://coloradodigital.net/2020/05/10/brandmeister-messaging/)
+- **98.** By Bud W0RMT - [BrandMeister Messaging](https://coloradodigital.net/2020/05/10/brandmeister-messaging/) Make sure you do the CONFIG SHORT
 - **123a.** [DMR Text Message FreeDMR Network](https://www.freedmr.uk/index.php/sms-messages/)
 
 ## APRS and satellite
@@ -67,7 +67,7 @@ Hub items whose links go off-site (not hamradiosouthernrepeaters.co.uk, YouTube 
 ## AnyTone Tech Zone mods pages (Jason Reilly)
 
 - **12.** Mods - 868, 878 and Mods 578: [Mods - 868, 878](mods/868-878/index.md) · [Mods 578](mods/578/index.md)
-- **61.** [Selecting operational bands 578 and This link](mods/578/30-selecting-bands.md)
+- **61.** [Selecting operational bands 578](mods/578/30-selecting-bands.md) and [This link](cps-firmware/change-mode-868878578.md)
 - **62.** [External speaker socket 578](mods/578/19-sockets.md)
 - **69.** [Virus detected! Is the CPS really safe to use?](mods/868-878/11-cpsvirus.md)
 - **80.** [Preventing your radio from freezing or locking up](mods/868-878/81-prevent.md)
@@ -99,7 +99,7 @@ Hub items whose links go off-site (not hamradiosouthernrepeaters.co.uk, YouTube 
 - **38.** [578 Backup Batteries](https://moonrakeronline.com/anytone-replacement-battery-for-at-d578uv-sm3r3703t01u)
 - **76.** [Engraved Self Adhesive Call Sign](https://sites.google.com/view/kc8gl/anytone-call-sign-sticker)
 - **118.** [AnyTone AT-D878UVII-REPLACEMENT ANTENNA](https://hamradio.co.uk/anytone-at-d878uvii-replacement-antenna-pd-14766)
-- **122.** [KlickFast - Photo 1 - Photo 2](https://www.niton999.co.uk/mates-rates-2-pack-of-niton-tactical-lite-dock.html)
+- **122.** [KlickFast](https://www.niton999.co.uk/mates-rates-2-pack-of-niton-tactical-lite-dock.html) - [Photo 1](originals/images/Anytone/KlickFast_1.jpg) - [Photo 2](originals/images/Anytone/KlickFast_2.jpg)
 - **139.** [3D Print 868/878 Knobs](https://www.thingiverse.com/search?q=Anytone+knobs)
 - **140.** [3D Print 868](https://www.thingiverse.com/search?q=anytone+868&type=things&sort=relevant)
 - **141.** [3D Print 878](https://www.thingiverse.com/search?q=anytone+878&type=things&sort=relevant)
@@ -115,7 +115,7 @@ Hub items whose links go off-site (not hamradiosouthernrepeaters.co.uk, YouTube 
 ## Facebook group and community
 
 - **16.** [Facebook Group](https://www.facebook.com/groups/1798919343492370/)
-- **30.** [Download Startup/Background Screens Also post](https://www.facebook.com/media/set/?set=oa.2792992987418329&type=3)
+- **30.** [Download Startup/Background Screens](https://www.facebook.com/media/set/?set=oa.2792992987418329&type=3) Also post
 - **99.** [Anytone GJ-0485 Base station power supply](https://www.facebook.com/groups/1798919343492370/permalink/3212729695444654/)
 - **135.** [P1, P2 and PF3 keys issue.](https://www.facebook.com/groups/1798919343492370/permalink/24865399929750985/)
 - **161.** [XH414HG IV01E Via Moonraker](https://www.facebook.com/groups/1798919343492370/permalink/9818281118222779/)

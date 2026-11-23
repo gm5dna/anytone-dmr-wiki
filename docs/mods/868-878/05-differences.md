@@ -35,7 +35,7 @@ Internally, looking at the hardware differences between the 868 and 878 there ar
 
 1. **Early version 868:** uses GD32F303V**E** MCU which has 512k of internal flash memory and 64k of SRAM. This uses the 'V1' 868 firmware. You can see an example of this at Carlos' Twitter: <https://twitter.com/eb4fbz/status/880697136819691520?lang=en>
 2. **First 'V2' revision 868:** uses a GD32F303V**E** MCU with 512k of internal flash memory and 64k of SRAM. There were also some other hardware changes to the PCB making minor improvements all round. This uses the 'V2' 868 firmware. You can see an example of this variant on the FCC Part 90 approval web portal at <https://fccid.io/T4KD868UV/Internal-Photos/int-photos-3496060>
-3. **Second 'V2' revision 868, and 878:** identical to the first 'V2' hardware except is now fitted with a GD32F303V**G** MCU with 1024k of internal flash memory and 96k of SRAM. This revision uses the 'V2' 868 firmware, or of course 878 firmware in an AT-D878UV. You can see examples of this PCB right here at this page below.
+3. **Second 'V2' revision 868, and 878:** identical to the first 'V2' hardware except is now fitted with a GD32F303V**G** MCU with 1024k of internal flash memory and 96k of SRAM. This revision uses the 'V2' 868 firmware, or of course 878 firmware in an AT-D878UV. You can see examples of this PCB in [A look inside the 878](70-inside.md).
 
 Despite these variations, you could likely apply many of these hints, tips & modifications across all three hardware revisions and 868 or 878 models.
 

@@ -10,7 +10,7 @@ tags: [AT-D868UV, AT-D878UV]
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Source](https://hamradiosouthernrepeaters.co.uk/64-anytone-igate.html) Hub item 158.
 
-Direwolf or [APRSIS32](anytone-igate.md)
+Direwolf or [APRSIS32](#aprsis32-installed-on-windows)
 
 This page is copied and adapted from the links below for the Direwolf set up. Credit to them and a great job.
 
@@ -18,8 +18,8 @@ This page is copied and adapted from the links below for the Direwolf set up. Cr
 - [https://packet-radio.net/direwolf-1-6-official-release/](https://packet-radio.net/direwolf-1-6-official-release/)
 - [https://godseyonline.net/raspberry-pi-direwolf-digipeater-igate-soundcard-version/](https://godseyonline.net/raspberry-pi-direwolf-digipeater-igate-soundcard-version/)
 - [https://ww8tf.club/building-an-aprs-igate/](https://ww8tf.club/building-an-aprs-igate/)
-- [https://www.rozenek.com/how-to-set-up-an-i-gate-aprs-receiver-on-raspberry-pi-zero-and-usb-sound-card-using-old-fm-handheld-radio/](https://godseyonline.net/raspberry-pi-direwolf-digipeater-igate-soundcard-version/)
-- [https://k5eok.org/2021/01/19/aprs-digipeater-igate-with-direwolf-entry-level/](https://k5eok.org/2021/01/19/aprs-digipeater-igate-with-direwolf-entry-level/)[](https://godseyonline.net/raspberry-pi-direwolf-digipeater-igate-soundcard-version/)
+- [https://www.rozenek.com/how-to-set-up-an-i-gate-aprs-receiver-on-raspberry-pi-zero-and-usb-sound-card-using-old-fm-handheld-radio/](https://www.rozenek.com/how-to-set-up-an-i-gate-aprs-receiver-on-raspberry-pi-zero-and-usb-sound-card-using-old-fm-handheld-radio/)
+- [https://k5eok.org/2021/01/19/aprs-digipeater-igate-with-direwolf-entry-level/](https://k5eok.org/2021/01/19/aprs-digipeater-igate-with-direwolf-entry-level/)
 
 !!! note
     For all things regarding Ham Radio, homework is required. The information below should help in getting you up and running as a RX only or RX/TX IGate.

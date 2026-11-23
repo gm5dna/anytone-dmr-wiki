@@ -98,4 +98,4 @@ Also have a look at the documents for [Scanning DMR VFO Frequencies](scanning-dm
 
 ## Links in the original PDF
 
-- [Also hav Disable](dataack-disable.md)
+- [DataACK Disable](dataack-disable.md)

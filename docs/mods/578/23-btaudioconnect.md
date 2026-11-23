@@ -15,7 +15,7 @@ tags: [AT-D578UV]
 
 *With thanks to a ham who wished to remain anonymous.*
 
-As an alternative to the above modification of the microphone for connection to a SignaLink, you can use some Bluetooth modules to get audio in and out of the 578, so you can then use digital modes etc. But apparently, many cheap USB Bluetooth adapters are not very good for this purpose. After much experimentation, one ham hit upon a nice little \$12 Bluetooth module that works a treat.
+As an alternative to the [modification of the microphone for connection to a SignaLink](22-signalink.md), you can use some Bluetooth modules to get audio in and out of the 578, so you can then use digital modes etc. But apparently, many cheap USB Bluetooth adapters are not very good for this purpose. After much experimentation, one ham hit upon a nice little \$12 Bluetooth module that works a treat.
 
 The TinySine Bluetooth adapter converts the Bluetooth connection to a standard pair of 3.5mm audio sockets, one for microphone in, the other for line out. Those are then connected to your PC with standard 3.5mm audio patch cables. It’s powered by a micro USB socket, but this doesn’t form the link to your PC, it is only used to power the TinySine. Easy!
 
@@ -30,7 +30,7 @@ There are a couple of settings on the radio which you may want to change as well
 
 ## Transmitting
 
-To send the radio into transmit, you must use AnyTone’s little Bluetooth PTT button. Another option is to set the HandOpMode to Level Detection (see above information on [microphones](20-microphone.md)) and use whatever digital mode you are using to control PTT, but you will then lose the ability to use the microphone as it must be unplugged for this option to work.
+To send the radio into transmit, you must use AnyTone’s little Bluetooth PTT button. Another option is to set the HandOpMode to Level Detection (see information on [microphones](20-microphone.md)) and use whatever digital mode you are using to control PTT, but you will then lose the ability to use the microphone as it must be unplugged for this option to work.
 
 See more information about the TinySine here: <https://www.tinyosshop.com/index.php?route=product/product&path=158_168&product_id=973>
 

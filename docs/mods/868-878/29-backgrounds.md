@@ -1,7 +1,7 @@
 ---
 title: "Custom background display files for your AT-D878UV"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Backgrounds
-tags: [AT-D868UV, AT-D878UV]
+tags: [AT-D878UV]
 ---
 
 # Custom background display files for your AT-D878UV

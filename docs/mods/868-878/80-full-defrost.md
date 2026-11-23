@@ -11,7 +11,7 @@ tags: [AT-D868UV, AT-D878UV]
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#FullDefrost)
 
-If the above quick defroster didn't work, then you can try using this more comprehensive process to un-freeze your radio. Follow the steps carefully and exactly.
+If the quick defroster (see [Fix a frozen or stuck during boot up 868 / 878 / 6X2 / DJ-MD5X](79-frozen.md)) didn't work, then you can try using this more comprehensive process to un-freeze your radio. Follow the steps carefully and exactly.
 
 !!! warning
     This process will completely erase & over-write your radio flash memory, and you proceed at your own risk. While it has helped un-freeze a couple of 878s, it can not be absolutely guaranteed to work for you. This will also wipe your codeplug, so make sure you have a saved copy somewhere.

@@ -16,7 +16,7 @@ Depending on your needs and codeplug you might only need to do Step 2.
 1. Open Existing codeplug and [Export All CSV](export-and-import-all-csv.md) and take note of the \*Optional Settings.
 2. Change Band/Mode in Radio. [Page 1 and Page 2 on this link](change-mode-868878578.md) or Page 2 below on this document if your radio lets you do it via the radio. (UK we want to change to Band 0.)
 3. Read radio back to CPS. Now you will have a blank codeplug in the correct Band/Mode.
-4. Import All CSV to rebuild your codeplug.
+4. [Import All CSV](export-and-import-all-csv.md) to rebuild your codeplug.
 5. Go back over your Optional Settings as in Step 1 and set as required.
 6. Send Codeplug to radio.
 7. Save this as your new working default codeplug.

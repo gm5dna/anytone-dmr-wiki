@@ -32,7 +32,7 @@ Now you can edit the CSV if you want.
 Always best to close the CPS and open again.
 
 1. Click on **Load CSV** and open the saved CSV.
-2. Select your **Satellite Http Url** (should be the same as No 1).
+2. Select your **Satellite Http Url** (should be the same as step 1 of the first procedure).
 3. Click on **Http CSV Update**.
 4. Click on **Write Data to Radio**.
 

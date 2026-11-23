@@ -1,8 +1,8 @@
 ---
-title: Radio models
+title: All tags
 ---
 
-# Radio models
+# All tags
 
 Every note is tagged with the radios it applies to.
 

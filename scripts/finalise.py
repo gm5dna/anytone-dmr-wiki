@@ -190,7 +190,8 @@ def hub_index(by_url):
            "See also [Videos](videos.md) and [UK DMR networks](uk-networks.md).\n"]
     for it in items:
         text, extra = re.sub(r"\s*\|\s*", " ", it["text"]).strip(" |"), []
-        for l in it["links"]:
+        text = re.sub(r"\s*Back to Top\s*", " ", text).strip()
+        for l in (l for l in it["links"] if l["text"] != "Back to Top"):
             t = resolve(l["href"], by_url) if any(h in l["href"] for h in ("hamradiosouthernrepeaters", "hamradio.joomla", "byethost")) else None
             md = f"[{l['text'] or 'link'}]({t or l['href']})"
             if l["text"] and l["text"] in text and f"[{l['text']}]" not in text:

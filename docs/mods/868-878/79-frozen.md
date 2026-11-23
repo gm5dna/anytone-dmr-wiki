@@ -46,7 +46,7 @@ Once you have managed to regain control of the radio, the first thing to do is r
 
 ## Defrosters
 
-If these steps have not worked, there are two procedures that may help un-freeze your radio and get you going again. Note that these defrosters will only work if the freezing is caused by memory corruption. If the problem is a hardware failure, then these will not work.
+If these steps have not worked, there are two procedures (the Quick defroster below and the [Full defroster](80-full-defrost.md)) that may help un-freeze your radio and get you going again. Note that these defrosters will only work if the freezing is caused by memory corruption. If the problem is a hardware failure, then these will not work.
 
 ### Quick defroster
 

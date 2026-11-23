@@ -35,4 +35,4 @@ The test mode (**PTT** + **1**) has three levels of access:
 2. With 'band select' test mode, you will only be able to select MODE to change operational frequency bands of the radio.
 3. In full unlocked test mode, some degree of calibration / alignment is possible from the front panel of the radio for deviation levels, power output levels, received signal strength indication (RSSI) levels, squelch levels, frequency fine setting and more.
 
-See the section below [Enabling full test / self adjustment mode (click here)](64-full-test-mode.md) for more detail.
+See [Enabling full test / self adjustment mode](64-full-test-mode.md) for more detail.

@@ -13,4 +13,4 @@ tags: [AT-D868UV, AT-D878UV]
 
 From a technical viewpoint of the hardware, yes they are the very same. The only difference is the firmware loaded to give the DMR-6X2 extra features and some minor differences in the contents of flash memory.
 
-It has even been demonstrated that the Btech DMR-6X2 firmware can be loaded into the AnyTone AT-D878UV. More on this below.
+It has even been demonstrated that the Btech DMR-6X2 firmware can be loaded into the AnyTone AT-D878UV. More on this in [Swapping Btech DMR-6X2 firmware into an AnyTone AT-D878UV](61-swap-fw.md).

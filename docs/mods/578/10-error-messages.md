@@ -61,7 +61,7 @@ This error is a little more serious. A similar error message is ’Bad Block.’
 
 1. Reset the radio and then reload the codeplug.
 2. If that did not work, reset the radio, reload a fresh copy of firmware and icons, perform another reset, and then reload your codeplug.
-3. If you happen to have a backup image of your flash memory, especially of the critical area at addresses 02F00000 and 02FDFFFF, then use the instructions below on writing your own CDD file to restore this image to your radio flash memory. Alternatively, you can use the defroster packs toward the bottom of this page to refresh your flash memory, though you will still need to have a backup of your critical area data first.
+3. If you happen to have a backup image of your flash memory, especially of the critical area at addresses 02F00000 and 02FDFFFF, then use the instructions on [writing your own CDD file](58-cdd.md) to restore this image to your radio flash memory. Alternatively, you can use the defroster packs ([Quick defroster](55-frozen.md) and [Full defroster](56-full-defrost.md)) to refresh your flash memory, though you will still need to have a backup of your critical area data first.
 4. In the very worst case, this could indicate hardware failure of the flash memory, a fatal problem that can not be recovered from.
 
 ## Power-on password in Chinese
@@ -86,7 +86,7 @@ The RTC backup battery can be replaced by getting access to the bottom side of t
 
 ![White blocks displayed instead of icons](../../originals/images/578Mods/whiteicon.jpg)
 
-Not really an error message as such, if you are seeing white blocks being displayed instead of an icon after you have made a firmware update, this means you need to also do an icon update to the radio. So far, the 578 has not had an icon update issued, but if you still find white squares appearing on the 578, you can use the latest 878 Icon file (it’s the same as what is used in the 578): find Icon V1.21 update download below.
+Not really an error message as such, if you are seeing white blocks being displayed instead of an icon after you have made a firmware update, this means you need to also do an icon update to the radio. So far, the 578 has not had an icon update issued, but if you still find white squares appearing on the 578, you can use the latest 878 Icon file (it’s the same as what is used in the 578): find Icon V1.21 update download.
 
 You send the icon .spi file to the radio by powering up the 578 in the icon update mode by holding down the **DIAL** and **P1** buttons until UPDATE MODE is displayed. Then use the CPS menu selections **Tool → Firmware Upgrade** (while this selection doesn’t specifically mention ’Icon’ this IS definitely the correct process to use) and select the icon .spi file.
 

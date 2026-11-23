@@ -19,16 +19,14 @@ This is a back up of Jason's work (VK7ZJA), who passed away in January 2023. The
 
 **Version 7.4 — 20 October 2022**
 
-Updates made since the previous version are shown in this purple colour.
-
 !!! warning
     This information is primarily intended for amateur ’ham’ radio operators who wish to maintain and adjust their AT-D578UV. Any regulatory authority approval (e.g. FCC certification) may become invalid by the use of this information. Users should always ensure that they and their radios are operating in accordance with their licence conditions. Many of these mods may also invalidate any manufacturer warranty you may have. In any case, the user alone accepts all responsibility and risk from the use of this information and tools provided here.
 
 ## General warnings to all users
 
-Codeplug version, CPS programming software version and firmware version present in the radio must all match in version number. If not, very strange things happen. **You must [Preventing your 578 or MD500 / MD520 from freezing or locking up and how to cure many problems](57-prevent.md) your codeplug every time a new CPS or firmware version is installed.** This keeps the underlying data sent to the radio consistent in version.
+Codeplug version, CPS programming software version and firmware version present in the radio must all match in version number. If not, very strange things happen. **You must [rebuild](57-prevent.md) your codeplug every time a new CPS or firmware version is installed.** This keeps the underlying data sent to the radio consistent in version.
 
-For the same reason above, I would caution anyone from sharing and using other people’s codeplugs. While it might be convenient, you can’t be guaranteed what version the shared codeplug was built under, and therefore whether it would work properly under the firmware version installed in your radio. You just can’t tell, the CPS won’t tell you unless it is a very early version codeplug. Save yourself a lot of headaches and [Preventing your 578 or MD500 / MD520 from freezing or locking up and how to cure many problems](57-prevent.md) the codeplug before writing it to your radio.
+For the same reason above, I would caution anyone from sharing and using other people’s codeplugs. While it might be convenient, you can’t be guaranteed what version the shared codeplug was built under, and therefore whether it would work properly under the firmware version installed in your radio. You just can’t tell, the CPS won’t tell you unless it is a very early version codeplug. Save yourself a lot of headaches and [rebuild](57-prevent.md) the codeplug before writing it to your radio.
 
 Use caution if writing non standard data to the radio in some of the advanced modifications listed below. It is possible to cause the radio to cease functioning correctly if instructions are not carried out with care.
 
@@ -65,7 +63,7 @@ Use caution if writing non standard data to the radio in some of the advanced mo
 - [Known button held during power up sequences](29-power-up-sequences.md)
 - [Selecting operational bands](30-selecting-bands.md)
 - [Expanding RX frequencies](31-expand-rx.md)
-- [578 receiver sensitivity](32-measurements.md)
+- [Receiver sensitivity & transmit output power measurements](32-measurements.md)
 - [What about fortuitous air band (118-136 MHz) reception for non PLUS models?](33-air-band.md)
 - [Can the 578 be used as a scanner?](34-scanner.md)
 - [My receive keeps cutting in and out on FM, can that be fixed?](35-popping.md)

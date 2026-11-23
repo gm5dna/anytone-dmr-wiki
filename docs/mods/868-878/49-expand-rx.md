@@ -33,7 +33,7 @@ To carry out this modification do the following:
 2. Unzip the package, and look for your model radio in the folders.
 3. Make sure you have saved your codeplug (rdt) configuration file.
 4. Using the regular firmware updating software & process, send this frequency expanded firmware to the radio.
-5. If necessary, update your codeplug / rdt configuration file to be compatible with the version of firmware you have downloaded. If you want to reuse your saved codeplug rdt configuration file, you may need to modify one byte with a hex editor as detailed below in italics.
+5. If necessary, update your codeplug / rdt configuration file to be compatible with the version of firmware you have downloaded. If you want to reuse your saved codeplug rdt configuration file, you may need to modify one byte with a hex editor as detailed in [Selecting operational bands](37-selecting-bands.md).
 6. Enjoy *actual* extra receive frequency coverage of around **130-178 MHz, 195-290 MHz (with a gap between 200-210 MHz on the 868 & 6X2) and 390-527 MHz (varies from individual radio to radio)**.
 
 Your mileage may vary of course, due to individual radio & component manufacturing tolerances. You can use the VFO and add memory channels to use these new expanded receive frequency ranges. Sometimes, you can't enter frequencies via keypad direct entry that start with a 2, 3 or 5 (e.g. any frequency in the 200, 300 or 500 MHz range); the only way to get to them is via lots of knob twisting in VFO mode or use the up/down buttons to tune in 1 MHz steps.
@@ -63,5 +63,5 @@ Also included with the frequency expanded firmware package is an alternate font 
 
 ## See also
 
-- [Expanding RX frequencies](../expanding-rx-frequencies.md)
-- [Expanding RX frequencies](../578/31-expand-rx.md)
+- [Expanding RX frequencies (general mods)](../expanding-rx-frequencies.md)
+- [Expanding RX frequencies (AT-D578UV mods)](../578/31-expand-rx.md)

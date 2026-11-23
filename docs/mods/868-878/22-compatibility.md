@@ -17,4 +17,4 @@ It has been found that some accessories for other radios are also compatible wit
 - **Programming cable:** TYT MD-380 & TYT UV380 / Retevis RT3 & RT-3S and GD-77 programming cables also work for the 868 / 878 / 6X2, but note **any of the other, regular Baofeng programming cables are most definitely not compatible**.
 - **Antenna:** any decent quality single band or dual band antenna with a female SMA connection will work on the 878.
 - **Speaker microphone:** any of the regular two pin speaker microphones suitable for the usual Baofeng radios etc. will work with the 878. Just ensure the plug is firmly pushed in and seated into the speaker mic sockets.
-- **Charger base:** the Radioddity GD-77, TYT MD-390 and Retevis RT3 charger base can be used to recharge the 878 battery with a very minor modification which is detailed further below.
+- **Charger base:** the Radioddity GD-77, TYT MD-390 and Retevis RT3 charger base can be used to recharge the 878 battery with a very minor modification which is detailed in [Modifying the Radioddity GD-77 or TYT MD-390 or Retevis RT3 charger for the 878](46-use-other-charger.md).

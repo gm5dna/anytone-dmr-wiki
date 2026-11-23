@@ -1,10 +1,10 @@
 ---
-title: "Access Talk Groups"
+title: "Access Talk Groups (DMR info)"
 source_url: https://hamradiosouthernrepeaters.co.uk/dmr-info/2-uncategorised/61-access-talk-groups.html
 tags: []
 ---
 
-# Access Talk Groups
+# Access Talk Groups (DMR info)
 
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Source](https://hamradiosouthernrepeaters.co.uk/dmr-info/2-uncategorised/61-access-talk-groups.html)

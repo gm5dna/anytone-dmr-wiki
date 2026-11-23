@@ -11,7 +11,7 @@ tags: []
 
 To use pistar-mmdvmcal to calculate TXoffset:
 
-**A. Preliminaries:** Set DMR rig to desired hotspot [\*frequency](hotspot-offset-calibration.md), CC1 Slot1 TG9. Call it Fd (in Hz). In Pi-Star set TXoffset and RXoffset to zero, otherwise they'll screw up the calculation.
+**A. Preliminaries:** Set DMR rig to desired hotspot [\*frequency](#uk-hotspot-frequencies), CC1 Slot1 TG9. Call it Fd (in Hz). In Pi-Star set TXoffset and RXoffset to zero, otherwise they'll screw up the calculation.
 
 **B.** Connect to your Pi-Star setup with SSH.
 

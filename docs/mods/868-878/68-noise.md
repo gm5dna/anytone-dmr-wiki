@@ -23,7 +23,7 @@ It appears as if any display updates or GPS data that is multiplexed on the data
 
 ## Noise from display
 
-The majority of noise appears to come from the LCD itself, and in later revisions of the radio, AnyTone reduced this noise by earthing the metal frame that surrounds the display. You can see this indicated by two small grey arrows in the picture of the display / GPS PCB a little bit further down.
+The majority of noise appears to come from the LCD itself, and in later revisions of the radio, AnyTone reduced this noise by earthing the metal frame that surrounds the display. You can see this indicated by two small grey arrows in the picture of the display / GPS PCB in [A look inside the 878](70-inside.md).
 
 If your display doesn't have this, then thoroughly scrape the paint from the two metal tabs poking through the bottom of the display PCB and solder them to the ground plane as pictured. Use a 60-100 watt soldering iron to rapidly heat the components and solder quickly. Use of a smaller iron will take longer to heat components up, which allows time for the heat to spread further, and that isn't ideal.
 
@@ -81,7 +81,7 @@ This nickel coating will give an extra 10dB worth of shielding to the back side 
 
 Shielding the small flat flexible ribbon cable with some adhesive copper tape helps a little bit, according to Colin G4EML, especially if you have the older white style flat flexible ribbon cable. It is also essential that you insulate the copper shielding to prevent any short circuits; clear plastic sticky tape is fine.
 
-If you have a brown cable with no tracks visible on the back side, as indicated by the single grey arrow in the picture of the display / GPS PCB a little bit further down, your cable is already upgraded and won't benefit much from adding any extra shielding to the cable.
+If you have a brown cable with no tracks visible on the back side, as indicated by the single grey arrow in the picture of the display / GPS PCB in [A look inside the 878](70-inside.md), your cable is already upgraded and won't benefit much from adding any extra shielding to the cable.
 
 ![Inside of the radio front shell with ribbon cables wrapped in copper tape and purple markers showing RF gasket positions](../../originals/images/878Mods/Shiny868.jpg)
 

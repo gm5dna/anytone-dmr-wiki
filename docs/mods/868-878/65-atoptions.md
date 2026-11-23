@@ -11,7 +11,7 @@ tags: [AT-D868UV, AT-D878UV]
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#ATOptions)
 
-Colin G4EML has created an application called AT Options, which will allow you to enable the full test mode, enable a programming password (more about this below) and to edit other text such as the dealer you purchased your radio from, or any maintenance notes you might like to add. For example, you can enter your name, phone number and callsign in this text area in case you ever misplace your radio.
+Colin G4EML has created an application called AT Options, which will allow you to enable the full test mode, enable a programming password (more about this in [Programming password lock](67-password.md)) and to edit other text such as the dealer you purchased your radio from, or any maintenance notes you might like to add. For example, you can enter your name, phone number and callsign in this text area in case you ever misplace your radio.
 
 Download Colin G4EML **AT Options version 8 (17kb) software** from:
 

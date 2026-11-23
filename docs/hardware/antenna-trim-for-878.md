@@ -3,7 +3,7 @@ title: Antenna Trim for 878
 item: "41a"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/Anytone/Antenna_trim_for_878.pdf
 original: ../originals/images/Anytone/Antenna_trim_for_878.pdf
-tags: [AT-D868UV, AT-D878UV]
+tags: [AT-D878UV]
 ---
 
 # Antenna Trim for 878

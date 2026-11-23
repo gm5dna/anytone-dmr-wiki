@@ -51,7 +51,7 @@ def main():
                         if e.code != 429:
                             break
                         time.sleep(120)
-                time.sleep(8)  # ponytail: anonymous SPN pacing; use S3 keys if this is too slow
+                time.sleep(15)  # ponytail: anonymous SPN pacing (8s triggered a temporary block); use S3 keys if too slow
         except Exception as e:
             state[u] = f"error {e}"
         STATE.write_text(json.dumps(state, indent=1))

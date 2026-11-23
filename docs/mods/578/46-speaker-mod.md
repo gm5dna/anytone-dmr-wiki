@@ -1,15 +1,17 @@
 ---
-title: "Modifying the internal speaker for extra volume Advanced (extensive disassembly)"
+title: "Modifying the internal speaker for extra volume"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#SpeakerMod
 tags: [AT-D578UV]
 ---
 
-# Modifying the internal speaker for extra volume Advanced (extensive disassembly)
+# Modifying the internal speaker for extra volume
 
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#SpeakerMod)
+
+*Difficulty: Advanced (extensive disassembly)*
 
 The internal speaker of the 578 can be made to be slightly louder. Testing shows a 2dB improvement in output volume, which isn’t a lot, but might make the difference if you’re in a noisy environment.
 

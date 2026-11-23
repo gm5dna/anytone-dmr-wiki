@@ -1,15 +1,17 @@
 ---
-title: "Using a Bluetooth module for external audio input and output for digital modes etc. Easy"
+title: "Using a Bluetooth module for external audio input and output for digital modes etc"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#BTaudioconnect
 tags: [AT-D578UV]
 ---
 
-# Using a Bluetooth module for external audio input and output for digital modes etc. Easy
+# Using a Bluetooth module for external audio input and output for digital modes etc
 
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#BTaudioconnect)
+
+*Difficulty: Easy*
 
 *With thanks to a ham who wished to remain anonymous.*
 

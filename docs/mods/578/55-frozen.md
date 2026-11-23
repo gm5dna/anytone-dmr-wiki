@@ -1,15 +1,17 @@
 ---
-title: "Fix a frozen during boot up AnyTone 578 or Alinco DR-MD500 / DR-MD520 Easy"
+title: "Fix a frozen during boot up AnyTone 578 or Alinco DR-MD500 / DR-MD520"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#Frozen
 tags: [AT-D578UV]
 ---
 
-# Fix a frozen during boot up AnyTone 578 or Alinco DR-MD500 / DR-MD520 Easy
+# Fix a frozen during boot up AnyTone 578 or Alinco DR-MD500 / DR-MD520
 
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#Frozen)
+
+*Difficulty: Easy*
 
 Some people have found that their radios have frozen on boot, that the radio displays the startup message "Booting... Please Wait!" or displays the startup picture and does nothing else. Try the following steps, in this order, to clear the problem:
 

@@ -1,15 +1,17 @@
 ---
-title: "New knobs for the 878. Easy"
+title: "New knobs for the 878"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#NewKnobs
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# New knobs for the 878. Easy
+# New knobs for the 878
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#NewKnobs)
+
+*Difficulty: Easy*
 
 The knobs as fitted by the AnyTone factory are, in my opinion, awful design. They are difficult and slippery to grip and look a little odd. Some people add a little bit of heat shrink around the existing knobs for a bit of extra grip. You can also replace the knobs with knobs from other radios. The original knobs just pull off, no special tools required.
 

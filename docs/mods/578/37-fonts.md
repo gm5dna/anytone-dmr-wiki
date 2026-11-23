@@ -1,17 +1,19 @@
 ---
-title: "Changing the display font / modifying some of the icons Advanced"
+title: "Changing the display font / modifying some of the icons"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#Fonts
 tags: [AT-D578UV]
 ---
 
-# Changing the display font / modifying some of the icons Advanced
+# Changing the display font / modifying some of the icons
 
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#Fonts)
 
-Difficulty: Advanced. (Credit to Colin G4EML & Ronan EI4KN - the ’font master’ hihi.)
+*Difficulty: Advanced*
+
+(Credit to Colin G4EML & Ronan EI4KN - the ’font master’ hihi.)
 
 Would you like to change the display font on your 578, and don’t mind getting your hands dirty with a hex editor and a few other tools?
 

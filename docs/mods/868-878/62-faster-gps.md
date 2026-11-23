@@ -1,15 +1,17 @@
 ---
-title: "Obtaining faster GPS lock for 868 Moderate"
+title: "Obtaining faster GPS lock for 868"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#FasterGPS
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Obtaining faster GPS lock for 868 Moderate
+# Obtaining faster GPS lock for 868
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#FasterGPS)
+
+*Difficulty: Moderate*
 
 *(Credit to github user tkerby)*
 

@@ -1,15 +1,17 @@
 ---
-title: "Resetting your power on password Easy"
+title: "Resetting your power on password"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#LostPassword
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Resetting your power on password Easy
+# Resetting your power on password
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#LostPassword)
+
+*Difficulty: Easy*
 
 *Only tested on 868 & 878*
 

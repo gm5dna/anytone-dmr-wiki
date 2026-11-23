@@ -1,15 +1,17 @@
 ---
-title: "Resetting your power on password Easy"
+title: "Resetting your power on password"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#LostPassword
 tags: [AT-D578UV]
 ---
 
-# Resetting your power on password Easy
+# Resetting your power on password
 
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#LostPassword)
+
+*Difficulty: Easy*
 
 If you’ve forgotten your power on password, where the radio displays PLEASE INPUT THE PASSWORD! and will not let you go any further until you do, this will help you recover it and remove the password. Resetting the radio will not bypass this password check.
 

@@ -1,15 +1,17 @@
 ---
-title: "Swapping Btech DMR-6X2 firmware into an AnyTone AT-D878UV Moderate"
+title: "Swapping Btech DMR-6X2 firmware into an AnyTone AT-D878UV"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#SwapFW
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Swapping Btech DMR-6X2 firmware into an AnyTone AT-D878UV Moderate
+# Swapping Btech DMR-6X2 firmware into an AnyTone AT-D878UV
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#SwapFW)
+
+*Difficulty: Moderate*
 
 (Credit to Ronan EI4KN)
 

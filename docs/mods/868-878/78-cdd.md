@@ -1,15 +1,17 @@
 ---
-title: "Writing your own .CDD files Advanced"
+title: "Writing your own .CDD files"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#CDD
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Writing your own .CDD files Advanced
+# Writing your own .CDD files
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#CDD)
+
+*Difficulty: Advanced*
 
 Reading data out of the radio flash memory is easy using Colin's AT Flash Utility software, but if you want to write data, especially to 'critical' areas of flash memory such as anywhere between 0x02F00000 and 0x02FDFFFF, you will need to use a special technique to do this. This involves creating a CDD file and supporting SPI and CDI files, and sending this to the radio in the 'icon update' mode (holding **PTT** & **PF2** buttons on power up). This ensures the radio CPU is halted from normal execution while data is being written, and places the radio in a safe mode to permit data to be written. The CDD file is simply a binary image of the data you wish to write - nothing out of the ordinary there.
 

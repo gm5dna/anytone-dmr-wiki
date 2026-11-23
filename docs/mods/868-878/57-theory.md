@@ -1,15 +1,17 @@
 ---
-title: "Theory behind the frequency expansion mod. Advanced"
+title: "Theory behind the frequency expansion mod"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Theory
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Theory behind the frequency expansion mod. Advanced
+# Theory behind the frequency expansion mod
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Theory)
+
+*Difficulty: Advanced*
 
 The age of hardware expansion modification is over, 99% of the time these days software is the route to achieving results. When looking to make frequency expansion modifications by software, the first step is to see if the programming software can accept, or be tricked to accept out of band frequencies; if you can't send those frequencies to the radio, then modification becomes a lot more difficult. Thankfully, a lot of programming software only checks for valid frequency entry when entering details by hand inside the software. If you edit a saved configuration file, or import frequencies / channels, often this doesn't go through the software sanity test. The 878 programming software is no exception to this; while out of band frequencies can't be entered by hand, they can be imported just fine.
 

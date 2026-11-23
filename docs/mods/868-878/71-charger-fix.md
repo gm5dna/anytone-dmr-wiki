@@ -1,15 +1,17 @@
 ---
-title: "Repairing a faulty charger base: Moderate"
+title: "Repairing a faulty charger base"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#ChargerFix
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Repairing a faulty charger base: Moderate
+# Repairing a faulty charger base
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#ChargerFix)
+
+*Difficulty: Moderate*
 
 In normal use the AnyTone charger base, model QBC-45L, has been subject to a higher than desirable failure rate. Sometimes the failure has been spectacular with audible pops and melting of the plastic casing, or sometimes as simple as the LED alternately flashing red-green and not charging the battery.
 

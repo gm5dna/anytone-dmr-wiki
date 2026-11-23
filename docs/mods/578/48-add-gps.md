@@ -1,15 +1,17 @@
 ---
-title: "Adding an internal GPS antenna to the 578 Moderate"
+title: "Adding an internal GPS antenna to the 578"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#addGPS
 tags: [AT-D578UV]
 ---
 
-# Adding an internal GPS antenna to the 578 Moderate
+# Adding an internal GPS antenna to the 578
 
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#addGPS)
+
+*Difficulty: Moderate*
 
 If you have a GPS equipped 578, you will have received an external GPS ’mouse’ style antenna that connects to the rear panel SMA socket. This is all very good, but what happens if you don’t want to use an external GPS antenna? The 578 was originally designed to have an internal GPS antenna too, but in the end the factory decided to rely solely on an external GPS antenna. It isn’t hard to understand why, either. With many 578s destined to be installed in vehicles, an external GPS antenna offers the very best performance in picking up the incredibly weak signals from orbiting GPS satellites as you drive under trees, into deep valleys or just in and around the city with lots of obstructing buildings.
 

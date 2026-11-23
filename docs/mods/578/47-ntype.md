@@ -1,15 +1,17 @@
 ---
-title: "Replacing the SO-239 socket with an N-type socket Moderate"
+title: "Replacing the SO-239 socket with an N-type socket"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#Ntype
 tags: [AT-D578UV]
 ---
 
-# Replacing the SO-239 socket with an N-type socket Moderate
+# Replacing the SO-239 socket with an N-type socket
 
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#Ntype)
+
+*Difficulty: Moderate*
 
 I get why a SO-239 socket has been fitted to the 578. Many hams use them, mainly because that is what a lot of other radios use too. There is a lot to be said for maintaining the status quo. But the SO-239 is a 90 year old design, they don’t maintain a constant 50 ohm impedance, and are usually only good to use up to 100 MHz.
 

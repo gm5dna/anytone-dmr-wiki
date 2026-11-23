@@ -1,15 +1,17 @@
 ---
-title: "Expanding FM band frequencies 76 to 120 MHz Easy"
+title: "Expanding FM band frequencies 76 to 120 MHz"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#FMBand
 tags: [AT-D578UV]
 ---
 
-# Expanding FM band frequencies 76 to 120 MHz Easy
+# Expanding FM band frequencies 76 to 120 MHz
 
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#FMBand)
+
+*Difficulty: Easy*
 
 The present firmware version only permits FM band VFO tuning from 87.5 to 108 MHz. The software however, permits entry of frequencies from 76.0 to 108.0 MHz for memories in the FM band. This is the easiest way to get the 578 to tune down to 76 MHz – put those frequencies into a FM band memory channel.
 

@@ -1,17 +1,17 @@
 ---
-title: "Expanding RX frequencies Easy"
+title: "Expanding RX frequencies"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#ExpandRX
 tags: [AT-D578UV]
 ---
 
-# Expanding RX frequencies Easy
+# Expanding RX frequencies
 
 [← All 578 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/578Mods/578techmods.html#ExpandRX)
 
-Difficulty: Easy.
+*Difficulty: Easy*
 
 As delivered by the factory, the radio receiver covers 136-174 MHz, 400-480 MHz and 220-225 MHz. There are countries around the world that make use of the radio spectrum above 480 MHz for two way radio, and this modification will allow you to hear those transmissions. TX is intentionally inhibited in these expanded areas.
 

@@ -1,15 +1,17 @@
 ---
-title: "Enabling full test / self adjustment mode Advanced"
+title: "Enabling full test / self adjustment mode"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#FullTestMode
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Enabling full test / self adjustment mode Advanced
+# Enabling full test / self adjustment mode
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#FullTestMode)
+
+*Difficulty: Advanced*
 
 *(Credit to Colin G4EML and Jason VK7ZJA)*
 

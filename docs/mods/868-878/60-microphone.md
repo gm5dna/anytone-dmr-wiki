@@ -1,15 +1,17 @@
 ---
-title: "Modify a speaker microphone to keep out DMR pulsed RF feedback. Moderate"
+title: "Modify a speaker microphone to keep out DMR pulsed RF feedback"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Microphone
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Modify a speaker microphone to keep out DMR pulsed RF feedback. Moderate
+# Modify a speaker microphone to keep out DMR pulsed RF feedback
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Microphone)
+
+*Difficulty: Moderate*
 
 *(Credit to Owen Duffy VK1OD for this)*
 

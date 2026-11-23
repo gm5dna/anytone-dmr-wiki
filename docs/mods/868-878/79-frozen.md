@@ -1,15 +1,17 @@
 ---
-title: "Fix a frozen or stuck during boot up 868 / 878 / 6X2 / DJ-MD5X Moderate"
+title: "Fix a frozen or stuck during boot up 868 / 878 / 6X2 / DJ-MD5X"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Frozen
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Fix a frozen or stuck during boot up 868 / 878 / 6X2 / DJ-MD5X Moderate
+# Fix a frozen or stuck during boot up 868 / 878 / 6X2 / DJ-MD5X
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Frozen)
+
+*Difficulty: Moderate*
 
 Some people have found that their radios have frozen or stuck on boot: the radio displays the startup message "Booting... Please Wait!" or displays the startup picture and does nothing else. Try the following steps, in this order, to clear the problem:
 

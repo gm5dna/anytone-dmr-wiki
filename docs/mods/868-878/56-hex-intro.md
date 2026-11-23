@@ -1,15 +1,17 @@
 ---
-title: "Introduction to hex editing. Moderate"
+title: "Introduction to hex editing"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#HexIntro
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Introduction to hex editing. Moderate
+# Introduction to hex editing
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#HexIntro)
+
+*Difficulty: Moderate*
 
 Hexadecimal - more commonly abbreviated to just 'hex' - is a system of counting with sixteen symbols. We humans are used to counting from one to ten with our ten symbols we call numbers, those being 0-9. If we want to go above 9, we join two numbers together e.g. 1 and 0 to be 10, and so on. Hexadecimal begins with 0 and goes up to 9, but instead of moving on to 10, hexadecimal uses letters A through to F, so A in hex would be 10, B=11, C=12 and so on up to F which is equal to 15, then hex "10" is equal to 16, 11 in hex = 17 and so on. Once 19 in hex is reached, the next number is 1A. Get the picture? Have a play around with a scientific calculator to convert hex numbers to decimal numbers, and you'll soon see how it all works.
 

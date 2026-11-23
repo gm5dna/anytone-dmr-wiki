@@ -1,17 +1,19 @@
 ---
-title: "Resolving received noise / perceived poor VHF sensitivity issues Easy to Advanced"
+title: "Resolving received noise / perceived poor VHF sensitivity issues"
 source_url: https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Noise
 tags: [AT-D868UV, AT-D878UV]
 ---
 
-# Resolving received noise / perceived poor VHF sensitivity issues Easy to Advanced
+# Resolving received noise / perceived poor VHF sensitivity issues
 
 [← All 868-878 mods](index.md)
 
 !!! note "Author: Jason Reilly VK7ZJA (silent key, January 2023)"
     © Jason Reilly 2018–2022. Jason's pages were preserved by Norman Williams on hamradiosouthernrepeaters.co.uk and are reproduced here, with light formatting and spelling edits for readability, so that his work stays available. They will be removed on request from his family. [Original page](https://hamradiosouthernrepeaters.co.uk/images/878Mods/878techmods.html#Noise)
 
-Difficulty: Easy to Advanced. (Credit to Colin G4EML.)
+*Difficulty: Easy to Advanced*
+
+(Credit to Colin G4EML.)
 
 Some people have noticed that, especially on VHF, ticking or other noise can affect weak analogue signals. There are a few things you can do to help this.
 

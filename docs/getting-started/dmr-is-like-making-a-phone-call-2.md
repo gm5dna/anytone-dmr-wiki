@@ -11,7 +11,7 @@ tags: [AT-D578UV]
 !!! info "Source"
     Originally published by Norman Williams on hamradiosouthernrepeaters.co.uk. [Original PDF](../originals/images/PDF/DMR_is_like_making_a_phone_call_2.pdf) · [Source](https://hamradiosouthernrepeaters.co.uk/images/PDF/DMR_is_like_making_a_phone_call_2.pdf) Hub item 39.
 
-[Talk Groups](http://hamradio.joomla.com/dmr-info/2-uncategorised/61-access-talk-groups.html) are just like phone numbers.
+[Talk Groups](../dmr-nxdn/access-talk-groups.md) are just like phone numbers.
 
 Zones are your address book, A to Z.
 

@@ -26,7 +26,7 @@ tags: []
     |---|---|
     | Brand of radio | Motorola = (M-SMS) |
     | Aprs Interval | 150 sec |
-    | [APRS Text](http://hamradio.joomla.com/images/PDF/Sending-Talker-Alias.pdf) | *Your Name* - 9 |
+    | [APRS Text](../networks-hotspots/sending-talker-alias.md) | *Your Name* - 9 |
 
 4. Click **Save**.
 
@@ -34,4 +34,4 @@ Now you can send text messages to all who have joined SelfCare.
 
 ## Links in the original PDF
 
-- [Aprs Inte APRS Text](http://hamradio.joomla.com/images/PDF/Sending-Talker-Alias.pdf)
+- [Aprs Inte APRS Text](../networks-hotspots/sending-talker-alias.md)

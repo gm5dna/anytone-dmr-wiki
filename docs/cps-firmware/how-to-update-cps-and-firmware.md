@@ -28,7 +28,7 @@ Do the following (see \*encryption below):
 
 <!-- -->
 
-8. Do MCU Reset. ([168](at-d168uv-firmware-update-and-mcu-reset.md)) ([868 & 878](http://hamradio.joomla.com/images/Anytone/MCU_Reset__868__878.pdf)) and ([578](http://hamradio.joomla.com/images/Anytone/D578UV_FW_and_MCU_Reset.pdf)) - this step is very important!
+8. Do MCU Reset. ([168](at-d168uv-firmware-update-and-mcu-reset.md)) ([868 & 878](mcu-reset-868-878.md)) and ([578](d578uv-fw-and-mcu-reset.md)) - this step is very important!
 9. **Close CPS and re-open the CPS and CP again.**
 10. Send your NEW Saved Code plug to radio.
 11. If you had a custom start up picture or background pictures, send those to the radio now if required.

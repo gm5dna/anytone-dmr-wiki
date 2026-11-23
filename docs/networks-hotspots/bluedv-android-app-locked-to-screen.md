@@ -12,8 +12,8 @@ tags: []
 
 You can now lock the BlueDV app so it is always open and on top. This stops the app from closing and cutting your connection.
 
-- [Android Phone Setup](https://hamradio.joomla.com/images/PDF/Lock-your-phone-to-a-single-app--BlueDV.pdf)
-- [Android Tablet Setup](https://hamradio.joomla.com/images/PDF/Lock-your-Tablet-to-a-single-app--BlueDV.pdf)
+- [Android Phone Setup](lock-your-phone-to-a-single-app-bluedv.md)
+- [Android Tablet Setup](lock-your-tablet-to-a-single-app-bluedv.md)
 
 Depending on your phone you might wish to read both documents.
 

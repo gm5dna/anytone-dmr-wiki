@@ -63,4 +63,4 @@ On the radio open **Menu → Settings → Device Info** and look for the Bluetoo
 
 12. After the upgrade is done, click on "DISCONNECT" at the top right of the phone display. The Bluetooth firmware upgrade is finished. Power off the radio, and power it on again to check the version in the menu. It should now show the version you loaded via a Bluetooth connection.
 
-[Download B707_Audio_AGHF_ET12_QX-V10033.bin](http://hamradio.joomla.com/images/Anytone/BT_Firmware_All_V10033.zip)
+[Download B707_Audio_AGHF_ET12_QX-V10033.bin](../originals/images/Anytone/BT_Firmware_All_V10033.zip)

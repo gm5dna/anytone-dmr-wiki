@@ -25,7 +25,7 @@ PAGE_NOTES = {  # Norman's HTML pages -> our notes
     "/nxdn.html": "dmr-nxdn/nxdn.md",
 }
 TECHZONE = {"878techmods.htm": "/images/878Mods/878techmods.html", "578techmods.htm": "/images/578Mods/578techmods.html"}
-LINK = re.compile(r"(\]\(|<)(https?://(?:www\.)?(?:hamradiosouthernrepeaters\.co\.uk|anytonetechzone\.byethost7\.com)[^)\s>]*)([)>])")
+LINK = re.compile(r"(\]\(|<)(https?://(?:www\.)?(?:hamradiosouthernrepeaters\.co\.uk|hamradio\.joomla\.com|anytonetechzone\.byethost7\.com)[^)\s>]*)([)>])")
 
 
 def notes():
@@ -56,7 +56,7 @@ def resolve(url, by_url):
         if name not in TECHZONE:
             return None
         path = TECHZONE[name]
-    full = SITE + path
+    full = SITE + path  # hamradio.joomla.com is Norman's old domain for the same site
     if u.fragment and f"{full}#{u.fragment}" in by_url:
         return by_url[f"{full}#{u.fragment}"]
     if full in by_url:
@@ -108,7 +108,7 @@ def restore_pdf_links(by_url):
             leftover = []
             for anchor, uri in json.loads(lj.read_text()):
                 bare = uri.split("://", 1)[-1].rstrip("/")
-                local = resolve(uri, by_url) if "hamradiosouthernrepeaters" in uri or "byethost" in uri else None
+                local = resolve(uri, by_url) if any(h in uri for h in ("hamradiosouthernrepeaters", "hamradio.joomla", "byethost")) else None
                 if local and "(" + os.path.relpath(DOCS / local.split("#")[0], f.parent) in new:
                     continue
                 if bare in new or f"[{anchor}](" in new or "tiny.cc/" in uri or urllib.parse.quote(uri.rsplit("/", 1)[-1]) in new or uri.rsplit("/", 1)[-1] in new:
@@ -189,7 +189,7 @@ def hub_index(by_url):
     for it in items:
         text, extra = re.sub(r"\s*\|\s*", " ", it["text"]).strip(" |"), []
         for l in it["links"]:
-            t = resolve(l["href"], by_url) if "hamradiosouthernrepeaters" in l["href"] or "byethost" in l["href"] else None
+            t = resolve(l["href"], by_url) if any(h in l["href"] for h in ("hamradiosouthernrepeaters", "hamradio.joomla", "byethost")) else None
             md = f"[{l['text'] or 'link'}]({t or l['href']})"
             if l["text"] and l["text"] in text and f"[{l['text']}]" not in text:
                 text = text.replace(l["text"], md, 1)

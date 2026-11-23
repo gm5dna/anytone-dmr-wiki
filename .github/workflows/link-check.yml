@@ -14,7 +14,7 @@ jobs:
           args: >-
             --no-progress --max-concurrency 4 --timeout 30 --max-retries 2
             --accept 200,201,202,203,204,206,301,302,303,307,308,403,429
-            --exclude "web\.archive\.org" --exclude "facebook\.com" --exclude "google\.com/search"
+            --exclude "web\.archive\.org" --exclude "hamradiosouthernrepeaters\.co\.uk" --exclude "geoo-de\.prossl\.de" --exclude "geoo\.de" --exclude "facebook\.com" --exclude "google\.com/search"
             --exclude-path docs/originals
             "docs/**/*.md"
           output: lychee/report.md

@@ -13,4 +13,4 @@ tags: [AT-D868UV, AT-D878UV]
 
 (Thanks to Norman M6NBP and lots of others who contributed)
 
-If you can't find the answer you are looking for here, then this website is a real goldmine of information. It is the accumulation of many user's experiences, hints and tips for all of the AnyTone DMR radio family. Take a look at: <http://hamradio.joomla.com/anytone-dmr.html>
+If you can't find the answer you are looking for here, then this website is a real goldmine of information. It is the accumulation of many user's experiences, hints and tips for all of the AnyTone DMR radio family. Take a look at: [Norman's AnyTone DMR page](../../index.md) (originally hamradio.joomla.com/anytone-dmr.html, now preserved on this site)

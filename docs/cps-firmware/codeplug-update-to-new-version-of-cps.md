@@ -19,7 +19,7 @@ Seems like lots of people are suffering lots of strange or odd things happening 
 
     \*Also write down or photograph all the Optional Settings.
 
-2. MCU reset ([868/878](http://hamradio.joomla.com/images/Anytone/MCU_Reset__868__878.pdf) & [578](http://hamradio.joomla.com/images/Anytone/D578UV_FW_and_MCU_Reset.pdf)) the radio – **this step is very important!**
+2. MCU reset ([868/878](mcu-reset-868-878.md) & [578](d578uv-fw-and-mcu-reset.md)) the radio – **this step is very important!**
 3. Close and re-open the CPS. Now read from the freshly reset radio (yes, you are reading a ‘blank’ radio, that is OK).
 4. Import everything saved from step 1.
 5. \*Finish off your codeplug by filling in the Optional Settings you took down in step 1.

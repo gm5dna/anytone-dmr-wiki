@@ -71,3 +71,10 @@ After updating the firmware, you need to reset the radio Main Control Unit (MCU)
     ![AT-D168UV showing the Calibrate Date screen, with arrows at the PTT and PF1 keys and the green MENU key boxed](../assets/img/at-d168uv-firmware-update-and-mcu-reset/img-17.jpeg)
 
 5. You will now have to reload your saved codeplug as the final step.
+
+## See also
+
+- [How to update CPS and Firmware V8](how-to-update-cps-and-firmware.md)
+- [MCU Reset – 868 & 878](mcu-reset-868-878.md)
+- [D578UV Mobile Radio Firmware Update Instructions](d578uv-fw-and-mcu-reset.md)
+- [Strange or odd things happening v3](../troubleshooting/strange-or-odd-things-happening.md)

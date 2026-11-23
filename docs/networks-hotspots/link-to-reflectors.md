@@ -38,3 +38,7 @@ To link to a reflector:
 To unlink, select 4000 from the contacts list, transmit for about 1 second, and you should hear a voice announcement "Reflector Disconnected".
 
 To enquire about the reflector link status, call 5000, and the repeater will respond with the currently linked reflector.
+
+## See also
+
+- [Access Reflectors on Brandmeister](../dmr-nxdn/access-reflectors.md)

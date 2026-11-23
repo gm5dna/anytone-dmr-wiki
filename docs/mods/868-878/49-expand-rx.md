@@ -60,3 +60,8 @@ If you have a signal generator, you can test that the 878 is actually receiving 
 Also included with the frequency expanded firmware package is an alternate font which can be a bit easier to see than the original. Here is an example of what the new alternate font looks like if you are interested.
 
 ![Example of the new alternate font on the radio display](../../originals/images/878Mods/newfontexample.jpg)
+
+## See also
+
+- [Expanding RX frequencies](../expanding-rx-frequencies.md)
+- [Expanding RX frequencies](../578/31-expand-rx.md)

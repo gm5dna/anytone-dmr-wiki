@@ -55,3 +55,8 @@ Once you have finished setting up the screen pinning:
     ![Android navigation bar with the Back and Overview buttons circled in red](../assets/img/lock-your-tablet-to-a-single-app-bluedv/img-07.jpeg)
 
 By M6NBP - 19<sup>th</sup> January 2017
+
+## See also
+
+- [Lock your phone to a single app – BlueDV](lock-your-phone-to-a-single-app-bluedv.md)
+- [BlueDV Android App locked to Screen](bluedv-android-app-locked-to-screen.md)

@@ -75,3 +75,8 @@ You’ll notice that this mod will permit coverage of some of the VHF air band. 
 
 !!! warning
     Unless you have a 578 Tri Band radio that offers 220, you CAN NOT TX on 220. [Read this post](868-878/51-220mhz.md).
+
+## See also
+
+- [Expanding RX frequencies](868-878/49-expand-rx.md)
+- [Expanding RX frequencies](578/31-expand-rx.md)

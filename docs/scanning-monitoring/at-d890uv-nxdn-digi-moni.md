@@ -26,3 +26,8 @@ In the CPS NX Setting, set to:
 ## Turn Digi Moni on and off from radio
 
 When in NXDN mode, go to **Menu → up to → Digi Moni** and turn it on or off.
+
+## See also
+
+- [Digi Moni](digi-moni.md)
+- [Digi Moni is missing in radio](digi-moni-is-missing-in-radio.md)

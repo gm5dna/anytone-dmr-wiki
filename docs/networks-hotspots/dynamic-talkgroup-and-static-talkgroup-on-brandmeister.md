@@ -94,3 +94,7 @@ Then you can view and manage the talk groups informations in the pi-star Admin p
 ![Pi-Star Digital Voice Dashboard showing Active BrandMeister Connections with Static TGs listed and Dynamic TGs "None"](../assets/img/dynamic-talkgroup-and-static-talkgroup-on-brandmeister/img-09.jpeg)
 
 *Active BrandMeister Connections: BM China 4601, Active Ref REF4601, Static TGs TG91, TG311, TG907, TG3100, TG5054, TG46001, TG46600, TG460755; Dynamic TGs = None.*
+
+## See also
+
+- [Linking to Gateway Dynamic Talk Groups V10](linking-to-gateway-dynamic-talk-groups.md)

@@ -21,3 +21,8 @@ If you still cannot find “Pin Windows” or “Screen Pinning”:
 
 - Google the make of your phone and “Lock your phone to a single app”, or
 - Google the make of your phone and “Pin Windows” or “Screen Pinning”.
+
+## See also
+
+- [Lock your phone to a single app – BlueDV](lock-your-phone-to-a-single-app-bluedv.md)
+- [Lock your Tablet to a single app – BlueDV](lock-your-tablet-to-a-single-app-bluedv.md)

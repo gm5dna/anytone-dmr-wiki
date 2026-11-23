@@ -57,3 +57,7 @@ You can do a [Private Call](../operating/private-call-anytone.md) between you an
 
 !!! note "Side note"
     Private Call is no longer private. The Anytone will decode private calls if Digi Moni is turned on. Even on hotspots, if someone is on the same freq and within range of your hotspot.
+
+## See also
+
+- [DMR is like making a phone call V3](dmr-is-like-making-a-phone-call-2.md)

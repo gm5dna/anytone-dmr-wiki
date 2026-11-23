@@ -16,3 +16,7 @@ Go to **CPS → Tool → Options** and turn on:
 ![Annex Function Setting dialog over the CPS window with GPS, Bluetooth and APRS ticked and 500 Hours Record unticked](../assets/img/missing-gps-bluetooth-aprs/img-01.jpeg)
 
 *GPS, Bluetooth and APRS ticked; 500 Hours Record unticked.*
+
+## See also
+
+- [GPS, APRS and Bluetooth Missing](gps-aprs-and-bluetooth-missing.md)

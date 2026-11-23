@@ -227,3 +227,7 @@ esempio: richiamando in Book la memoria TEST e premendo il PTT invieremo la sequ
 *Analog Address Book: 2 = 12345 TEST, 3 = 30531 Annuncio.*
 
 *IK8JHL*
+
+## See also
+
+- [Decode 5 Toni](5toni-encode-decode-v31-eng.md)

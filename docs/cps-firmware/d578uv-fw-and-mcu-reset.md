@@ -48,3 +48,10 @@ tags: [AT-D578UV]
 2. Save the codeplug.
 3. Now send the codeplug to the radio.
 4. Follow the instructions as above in the second part of this document.
+
+## See also
+
+- [How to update CPS and Firmware V8](how-to-update-cps-and-firmware.md)
+- [MCU Reset – 868 & 878](mcu-reset-868-878.md)
+- [D168UV Firmware Update](at-d168uv-firmware-update-and-mcu-reset.md)
+- [Strange or odd things happening v3](../troubleshooting/strange-or-odd-things-happening.md)

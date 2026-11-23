@@ -63,3 +63,7 @@ In this mode the important thing is to set the same reception frequency on both 
 ![Diagram: 578UV as a single frequency transponder between Team A (TS1) and Team B (TS2), with radio settings for each team](../assets/img/578-sfr-prpeater-en/page-3.png)
 
 *Repeater mode = On; Rep Cc Limit = Match Channel A Color Code. Rep Slot PathA/PathB = Off. Team A radios (1 to 3): RX/TX 144.925 MHz TS1, Color Code 01. Team B radios (4 to 6): RX/TX 144.925 MHz TS2, Color Code 01. Team Radio Settings A: Receive/Transmit Frequency 144.92500, DMR MODE DCDM/Double Slot, Slot Slot1, Color Code 1. Team Radio Settings B: Receive/Transmit Frequency 144.92500, DMR MODE DCDM/Double Slot, Slot Slot2, Color Code 1.*
+
+## See also
+
+- [578 Ripetitore DMR su singola frequenza (Italiano)](578-sfr-repeater-it.md)

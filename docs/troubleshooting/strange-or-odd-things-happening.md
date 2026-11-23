@@ -34,3 +34,10 @@ I found this process helps in many cases:
 8. Finally, save the codeplug and ensure you use this saved file as the basis for any further changes you may make.
 
 Also you might want to read [AES256/ARC4 encryption CSV Export/Import](../encryption/aes256-arc4-encryption-csv-export-import.md)
+
+## See also
+
+- [How to update CPS and Firmware V8](../cps-firmware/how-to-update-cps-and-firmware.md)
+- [MCU Reset – 868 & 878](../cps-firmware/mcu-reset-868-878.md)
+- [D578UV Mobile Radio Firmware Update Instructions](../cps-firmware/d578uv-fw-and-mcu-reset.md)
+- [D168UV Firmware Update](../cps-firmware/at-d168uv-firmware-update-and-mcu-reset.md)

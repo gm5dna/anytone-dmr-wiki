@@ -53,3 +53,10 @@ You need to turn it on in the CPS. See how below.
 ![Line drawing of an AnyTone handheld with the PTT, PF1, PF2 and PF3 keys labelled](../assets/img/mcu-reset-868-878/img-03.jpeg)
 
 *Drawing labelling PTT, PF1, PF2 and PF3.*
+
+## See also
+
+- [How to update CPS and Firmware V8](how-to-update-cps-and-firmware.md)
+- [D578UV Mobile Radio Firmware Update Instructions](d578uv-fw-and-mcu-reset.md)
+- [D168UV Firmware Update](at-d168uv-firmware-update-and-mcu-reset.md)
+- [Strange or odd things happening v3](../troubleshooting/strange-or-odd-things-happening.md)

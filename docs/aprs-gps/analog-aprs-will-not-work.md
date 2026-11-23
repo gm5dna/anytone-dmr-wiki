@@ -28,3 +28,9 @@ You need to do this with your codeplug:
 *(b.) Optional Settings – [Settings I Use](../getting-started/settings-i-use.md)*
 
 Also read this: [Analog APRS Anytone 878/878plus/578](analog-aprs-anytone-878-878plus.md)
+
+## See also
+
+- [Analog APRS Anytone 168/878/878plus/578 v7](analog-aprs-anytone-878-878plus.md)
+- [Analogue APRS RX v8](analogue-aprs-rx.md)
+- [SMS/Messages via Analogue APRS v2](sms-messages-via-analogue-aprs.md)

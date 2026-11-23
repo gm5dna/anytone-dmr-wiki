@@ -105,3 +105,9 @@ You will see I am using 2 for the 433.40000 frequency. In that channel I set it 
 Follow step 4 if required.
 
 The maximum received number is 256; the older ones are removed to make room for the new ones.
+
+## See also
+
+- [Analog APRS Anytone 168/878/878plus/578 v7](analog-aprs-anytone-878-878plus.md)
+- [Analog APRS will not work](analog-aprs-will-not-work.md)
+- [SMS/Messages via Analogue APRS v2](sms-messages-via-analogue-aprs.md)

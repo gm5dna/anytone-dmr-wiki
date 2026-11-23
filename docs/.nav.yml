@@ -20,4 +20,5 @@ nav:
   - UK DMR networks: uk-networks.md
   - External resources: external-resources.md
   - Manuals & downloads: manuals.md
-  - Radio models (tags): tags.md
+  - Radio models: radios
+  - All tags: tags.md

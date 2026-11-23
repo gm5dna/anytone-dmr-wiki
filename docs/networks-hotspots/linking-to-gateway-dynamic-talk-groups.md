@@ -162,3 +162,7 @@ This system is still being developed. You can follow on this link: <https://grou
 If you change anything in **Configuration** or **Expert**, you will have to go back to **Full Edit: DMR GW** and apply the above settings again.
 
 When using **Configuration → DMRGateway**, only edit or make changes in **Full Edit: DMR GW**.
+
+## See also
+
+- [Dynamic and Static Talkgroups on Brandmeister v2](dynamic-talkgroup-and-static-talkgroup-on-brandmeister.md)

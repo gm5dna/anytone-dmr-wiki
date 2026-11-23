@@ -41,6 +41,12 @@ You must be within range of an Igate, or via radio to radio with one of the 7 ex
 - [Analogue APRS](analog-aprs-anytone-878-878plus.md)
 - [Analogue APRS RX](analogue-aprs-rx.md), if your radio offers it.
 
+## See also
+
+- [Analog APRS Anytone 168/878/878plus/578 v7](analog-aprs-anytone-878-878plus.md)
+- [Analogue APRS RX v8](analogue-aprs-rx.md)
+- [Analog APRS will not work](analog-aprs-will-not-work.md)
+
 ## Links in the original PDF
 
 - [Also read Analogue APRS](analog-aprs-anytone-878-878plus.md)

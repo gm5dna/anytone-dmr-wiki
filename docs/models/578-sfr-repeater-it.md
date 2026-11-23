@@ -61,3 +61,7 @@ In questa modalità l'importante è impostare la stessa frequenza di ricezione s
 *Repeater mode = On; Rep Cc Limit = Match Channel A Color Code; Rep Slot PathA/PathB = Off. Impostazioni Radio squadra A: 144.92500 receive and transmit, DMR MODE DCDM/Double Slot, Slot1, Color Code 1. Impostazioni Radio squadra B: same, Slot2, Color Code 1. Squadra A (Radios 1 to 3): RX/TX 144.925 MHz TS1, Color Code 01. Squadra B (Radios 4 to 6): RX/TX 144.925 MHz TS2, Color Code 01.*
 
 IK8JHL
+
+## See also
+
+- [578 Single Frequency DMR Repeater (English)](578-sfr-prpeater-en.md)

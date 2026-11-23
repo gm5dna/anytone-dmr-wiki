@@ -175,3 +175,7 @@ There we can right-click, **new** and then **string**, to create a new entry for
 Finally, close the Registry Editor window and also close the two winetricks windows with **Cancel**. After booting Wine (bootwine), the interface for the Anytone is now correctly assigned under Wine.
 
 With these settings, the Linux-Wine CPS (Wine D878UV_WineHQ_3.05) runs without any problems.
+
+## See also
+
+- [DF5DH CPS unter Wine (German)](df5dh-cps-unter-wine-german.md)

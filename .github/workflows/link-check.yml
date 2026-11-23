@@ -1,0 +1,27 @@
+name: Monthly link check
+on:
+  schedule: [{cron: "0 6 1 * *"}]
+  workflow_dispatch:
+permissions: {contents: read, issues: write}
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - id: lychee
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          args: >-
+            --no-progress --max-concurrency 4 --timeout 30 --max-retries 2
+            --accept 200,201,202,203,204,206,301,302,303,307,308,403,429
+            --exclude "web\.archive\.org" --exclude "facebook\.com" --exclude "google\.com/search"
+            --exclude-path docs/originals
+            "docs/**/*.md"
+          output: lychee/report.md
+          fail: false
+      - if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v6.0.0
+        with:
+          title: Broken external links (monthly check)
+          content-filepath: lychee/report.md
+          labels: links

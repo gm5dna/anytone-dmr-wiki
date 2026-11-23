@@ -110,3 +110,8 @@ This should be set to 30s or lower.
 ![Optional Setting, Digital Func tab](../assets/img/roaming/img-07.jpeg)
 
 *Digital Func: Group Call Hold Time = 30s, Private Call Hold Time = 30s.*
+
+## See also
+
+- [GPS Roaming v2](../aprs-gps/gps-roaming.md)
+- [NXDN Roaming](../models/nxdn-roaming.md)

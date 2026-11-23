@@ -32,3 +32,8 @@ You would not run a RF rig with a high SWR. Hotspots need to be set up for a BER
 If you have 3 DMR radios, all might require a different setting to keep the BER rate low or you will be lucky and find one setting to cover all your DMR radios.
 
 Bad internet can also give you a high BER rate.
+
+## See also
+
+- [Hotspot Offsets](hotspot-offsets.md)
+- [Hotspot Offset Calibration](../dmr-nxdn/hotspot-offset-calibration.md)

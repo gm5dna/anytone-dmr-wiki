@@ -64,3 +64,8 @@ To enter out of band frequencies in the CPS programming software, you will need 
 *Transmit remains standard according to each MODE.* Note that out of band receive frequencies can be very low in sensitivity due to the excellent front end filtering of these radios.
 
 Refer to the sensitivity plots below:
+
+## See also
+
+- [Expanding RX frequencies](../expanding-rx-frequencies.md)
+- [Expanding RX frequencies](../868-878/49-expand-rx.md)

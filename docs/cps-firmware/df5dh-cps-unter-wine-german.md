@@ -169,3 +169,7 @@ Dort können wir mittels Rechtsklick, neu und dann Zeichenfolge einen neuen Eint
 Zum Schluss Fenster des Registry-Editors schließen und die beiden Fenster von winetricks durch Abbrechen ebenfalls schließen. Nach dem booten von Wine (bootwine) ist nun die Schnittstelle für das Anytone unter Wine richtig zugeordnet.
 
 Mit diesen Einstellungen läuft bei mir das Linux-Wine CPS (Wine D878UV_WineHQ_3.05) problemlos.
+
+## See also
+
+- [DF5DH CPS under Wine - English](df5dh-cps-under-wine-english.md)

@@ -72,6 +72,10 @@ Just **PTT** and you're on that Talk Group or Private Call.
 - List of Brandmeister Talk Groups
 - List of Phoenix UK Talk Groups
 
+## See also
+
+- [Access Talk Groups](../dmr-nxdn/access-talk-groups.md)
+
 ## Links in the original PDF
 
 - [Info List of Brandmeister Talk Groups](http://www.pistar.uk/dmr_bm_talkgroups.php)

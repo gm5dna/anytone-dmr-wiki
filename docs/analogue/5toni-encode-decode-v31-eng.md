@@ -231,3 +231,7 @@ Example: recalling the TEST memory in Book and pressing the **PTT**, we will sen
 
 !!! note
     Unfortunately, at the moment it is not possible to enter letters to be able to call a Group.
+
+## See also
+
+- [Decode 5 Tone by Francesco IK8JHL (Italian)](5toni-encode-decode-v31-it.md)

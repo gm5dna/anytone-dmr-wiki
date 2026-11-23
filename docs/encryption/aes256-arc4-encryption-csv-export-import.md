@@ -21,3 +21,8 @@ tags: []
 1. When filling in the keys into the CPS, take the blank CSV exported and fill in the keys to that at the same time.
 2. Now you have built a CSV file of all your keys. Keep this in a safe place.
 3. Next time, all you need to do is import the CSV, rather than adding back to the CPS one by one.
+
+## See also
+
+- [Export and Import All CSV](../cps-firmware/export-and-import-all-csv.md)
+- [Remove Spaces](../contacts-talkgroups/remove-spaces.md)

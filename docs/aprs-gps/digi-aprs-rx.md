@@ -84,3 +84,7 @@ When your GPS is turned on, you will also send out your info when you have ended
     I have asked Anytone to look into this and find a fix.
 
 You might want to look at this document as well – [Ranging](../operating/ranging.md).
+
+## See also
+
+- [Setting Up DMR APRS – D168/868/878/578 Radio V9](digital-aprs-settings-d868-anytone.md)

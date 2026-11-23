@@ -6,6 +6,32 @@ title: AnyTone DMR UK Wiki
 
 **Norman Williams'** guide to the AnyTone AT-D168UV, AT-D868UV, AT-D878UV, AT-D890UV and AT-D578UV radios, preserved from [hamradiosouthernrepeaters.co.uk](external-resources.md) before it closes in June 2027.
 
+## I have an…
+
+<div class="grid cards" markdown>
+
+-   **[AT-D168UV](radios/at-d168uv.md)**
+
+    Handheld, dual band DMR/FM (2024)
+
+-   **[AT-D868UV](radios/at-d868uv.md)**
+
+    Handheld, dual band DMR/FM: the original
+
+-   **[AT-D878UV](radios/at-d878uv.md)**
+
+    Handheld, dual band DMR/FM with GPS/APRS (inc. 878UV II Plus)
+
+-   **[AT-D578UV](radios/at-d578uv.md)**
+
+    Mobile, dual/tri band DMR/FM (inc. Pro and Plus)
+
+-   **[AT-D890UV](radios/at-d890uv.md)**
+
+    Handheld, dual band DMR/NXDN/FM
+
+</div>
+
 ## Browse by topic
 
 <!-- topics:start -->
@@ -77,7 +103,6 @@ title: AnyTone DMR UK Wiki
 ## Other ways in
 
 - **Know an item number from Norman's page?** The [original index](hub-index.md) keeps his 1–190 numbering.
-- **Have a particular radio?** [Radio model tags](tags.md) list every page for each model.
 - **Looking for something specific?** Use the search box at the top.
 - [Videos](videos.md) · [UK DMR networks](uk-networks.md) · [External resources](external-resources.md) · [Manuals & downloads](manuals.md)
 

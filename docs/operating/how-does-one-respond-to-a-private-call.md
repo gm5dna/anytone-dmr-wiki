@@ -35,3 +35,7 @@ Private call can be done on either time slot and the other party will receive yo
     This can also happen over a hotspot if someone is close enough to your hotspot and has your frequency and Colour Code. Your hotspot information is public via Brandmeister dashboards.
 
 All amateur radio rules apply when using Private Call.
+
+## See also
+
+- [Private Call](private-call-anytone.md)

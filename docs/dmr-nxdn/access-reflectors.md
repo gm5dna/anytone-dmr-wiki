@@ -67,3 +67,7 @@ To echo test, use 9990 on TS-1 or TS-2 (Private Call).
 - Add to contacts as a **Group Call** when using a hotspot.
 
 [Link to Current Brandmeister Reflector List](http://www.bm-dmr.uk/dash/refdb.html)
+
+## See also
+
+- [Link to Reflectors](../networks-hotspots/link-to-reflectors.md)

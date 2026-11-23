@@ -32,3 +32,7 @@ tags: []
     *Choose working mode = amateur mode.*
 
 Now the options will show in the radio.
+
+## See also
+
+- [Missing – GPS, Bluetooth, APRS](missing-gps-bluetooth-aprs.md)

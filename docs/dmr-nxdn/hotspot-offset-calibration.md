@@ -53,3 +53,8 @@ You might also want to look at this [link](http://www.k9npx.com/2019/02/hotspot-
 |---|---|
 | 434.000 | [Low Power Non-NoV Personal Hot-Spot](https://rsgb.services/public/bandplans/html/rsgb_band_plan_2019.htm) |
 | 438.800 | [Low Power Non-NoV Personal Hot-Spot](https://rsgb.services/public/bandplans/html/rsgb_band_plan_2019.htm) |
+
+## See also
+
+- [Hotspot Offsets](../networks-hotspots/hotspot-offsets.md)
+- [Hotspot Users BER rate V2](../networks-hotspots/hotspot-users-ber-rate.md)

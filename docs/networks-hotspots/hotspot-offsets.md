@@ -53,3 +53,8 @@ You should adjust the second (3rd, 4th, …) radio to the hotspot by tuning it i
 The „golden“ solution would be to adjust the MMDVM and all of your radios 100% exactly to the target frequency. This is possible too, but you need a reliable and quite exact frequency counter for it.
 
 If you need further help you should ask in the Facebook groups for your hotspot: Pi-Star, OpenSpot, BlueDV etc.
+
+## See also
+
+- [Hotspot Offset Calibration](../dmr-nxdn/hotspot-offset-calibration.md)
+- [Hotspot Users BER rate V2](hotspot-users-ber-rate.md)

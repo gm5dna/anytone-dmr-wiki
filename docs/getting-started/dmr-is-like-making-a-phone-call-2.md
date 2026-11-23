@@ -99,3 +99,7 @@ Radio ID Name is what you want your radio called.
 ![CPS Radio ID Edit window](../assets/img/dmr-is-like-making-a-phone-call-2/img-04.jpeg)
 
 *Radio ID Edit: Radio ID = 1234567, Radio ID Name = M6NBP Norman Brighton. UK.*
+
+## See also
+
+- [DMR is like a Phone Call](dmr-is-like-a-phone-call.md)

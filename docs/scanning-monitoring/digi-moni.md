@@ -54,3 +54,8 @@ For scanning I would make one change: Digital Monitor = Double Slot (will RX all
 
 - **Simplex hotspot** – only required if you have set Static Talk Groups.
 - **Duplex hotspot** – if you have Static Talk Groups; if you want to listen on both slots.
+
+## See also
+
+- [Digi Moni is missing in radio](digi-moni-is-missing-in-radio.md)
+- [Anytone AT-D890UV NXDN Digi Moni](at-d890uv-nxdn-digi-moni.md)

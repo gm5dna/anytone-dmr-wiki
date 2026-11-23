@@ -163,3 +163,7 @@ Works on Repeaters and Hotspots.
 | -13 | Weather stations |
 | -14 | Truckers or generally full time drivers |
 | -15 | Generic additional station, digi, mobile, wx, etc |
+
+## See also
+
+- [Digi APRS RX](digi-aprs-rx.md)

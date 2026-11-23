@@ -54,3 +54,8 @@ When within range, the radio will move to what you have as Default in each Zone.
 
 !!! tip "878 – tip from Markus Große-Schware"
     If you have set “GPS Roaming“ - willingly or not - to ON, you can have only one active channel. Make sure that you do there what you really want/need.
+
+## See also
+
+- [Roaming](../operating/roaming.md)
+- [NXDN Roaming](../models/nxdn-roaming.md)

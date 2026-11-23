@@ -30,3 +30,8 @@ On an Android phone 5.0 or later, go to **Settings → General → Security → 
     ![Android navigation bar with the Back and Overview buttons circled in red](../assets/img/lock-your-phone-to-a-single-app-bluedv/img-04.jpeg)
 
 By M6NBP – 19th January 2017
+
+## See also
+
+- [Lock your Tablet to a single app – BlueDV](lock-your-tablet-to-a-single-app-bluedv.md)
+- [BlueDV Android App locked to Screen](bluedv-android-app-locked-to-screen.md)

@@ -62,6 +62,10 @@ Private call can be done on either time slot and the other party will receive yo
 
 All amateur radio rules apply when using Private Call.
 
+## See also
+
+- [How does one respond to a PRIVATE CALL](how-does-one-respond-to-a-private-call.md)
+
 ## Links in the original PDF
 
 - [You might also wish to read this document How does one respond to a PRIVATE CALL](how-does-one-respond-to-a-private-call.md)

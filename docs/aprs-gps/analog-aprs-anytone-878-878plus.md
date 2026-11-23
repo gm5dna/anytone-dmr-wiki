@@ -128,3 +128,9 @@ From Lynn (D) - KJ4ERJ - Author of APRSISCE for Windows Mobile and Win32:
 > Of course, these recommendations are based on having properly configured digipeaters that respond based on their anticipated coverage areas and a well-designed digipeater network to start with.
 
 For a good animation of the effects of the path, see <http://wa8lmf.net/DigiPaths/NNNN-Digi-Demo.htm>
+
+## See also
+
+- [Analogue APRS RX v8](analogue-aprs-rx.md)
+- [Analog APRS will not work](analog-aprs-will-not-work.md)
+- [SMS/Messages via Analogue APRS v2](sms-messages-via-analogue-aprs.md)

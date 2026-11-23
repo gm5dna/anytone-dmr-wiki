@@ -1,4 +1,4 @@
-# AnyTone DMR UK Wiki
+# AnyTone DMR Guide
 
 A preserved, searchable copy of Norman Williams' AnyTone DMR guide
 (hamradiosouthernrepeaters.co.uk/anytone-dmr.html), built with MkDocs Material and published at

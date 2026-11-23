@@ -1,4 +1,4 @@
-# Note-writing rules (AnyTone DMR wiki, MkDocs Material)
+# Note-writing rules (AnyTone DMR Guide, MkDocs Material)
 
 Project root: /Users/stuart/coding/personal/anytone-dmr. Docs live in `docs/`. Original author: Norman Williams
 (content reproduced with his permission). The goal is a faithful, readable Markdown copy of each source document.

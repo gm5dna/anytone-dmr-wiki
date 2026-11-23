@@ -43,4 +43,4 @@ tags: []
 
 - [DMR Info](../dmr-nxdn/index.md)
 - [PDF Files](https://hamradiosouthernrepeaters.co.uk/pdf-files.html)
-- [Anytone 868/878/578](../external-resources.md)
+- [Anytone 868/878/578](../hub-index.md)

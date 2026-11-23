@@ -37,7 +37,7 @@ Many settings to make the radio work can only be set via the CPS. You will find 
 
 ## Useful links
 
-- Webpage with useful info: [https://hamradiosouthernrepeaters.co.uk/anytone-dmr.html](../external-resources.md)
+- Webpage with useful info: [https://hamradiosouthernrepeaters.co.uk/anytone-dmr.html](../hub-index.md)
 - Facebook: <https://www.facebook.com/groups/1798919343492370>
 - [How to update CPS and Firmware](../cps-firmware/how-to-update-cps-and-firmware.md)
 - [Strange or odd things happening with radio.](../troubleshooting/strange-or-odd-things-happening.md)

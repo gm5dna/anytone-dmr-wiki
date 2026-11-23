@@ -27,7 +27,7 @@ If you have any more information or modifications that you'd like to share here,
 ## Page index
 
 - Refer back to [878](../868-878/index.md) Mods, as the 168 has many things in common.
-- [Home page](../../external-resources.md).
+- [Home page](../../index.md).
 - [Facebook page](https://www.facebook.com/groups/1798919343492370).
 - [Band Error and five ways you can fix it.](../868-878/02-band-error.md)
 - [AT Options version 9](https://mega.nz/folder/SZlhCTKK#l8MPa7CYcU8tsHZvsPHIrA). Changing the band mode of the radio. (V9, now includes the D168UV) (The D168 does not offer 220 MHz.) *[Reference back to the 878](../868-878/51-220mhz.md)*.

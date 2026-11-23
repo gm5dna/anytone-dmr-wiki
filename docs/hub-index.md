@@ -134,7 +134,7 @@ Norman's numbered list from the original page, in his order. Each link goes to t
 - **114.** [APRS via ISS](https://issfanclub.eu/2019/04/29/aprs-via-iss-tips-for-successful-operation/) and [This Link](https://dk3ml.de/2019/07/22/how-to-work-the-aprs-digipeater-on-the-international-space-station-iss/)
 - **115.** [Amateur Radio Stations heard via ISS](https://ariss.net/)
 - **116.** [Work the ISS using APRS](https://amsat-uk.org/beginners/how-to-work-the-iss-on-aprs-packet-radio/)
-- **117.** [Download 7zip](https://www.7-zip.org/download.html). Videos [v25 to v28](external-resources.md) on how to UN-Zip a file
+- **117.** [Download 7zip](https://www.7-zip.org/download.html). Videos [v25 to v28](videos.md) on how to UN-Zip a file
 - **118.** [AnyTone AT-D878UVII-REPLACEMENT ANTENNA](https://hamradio.co.uk/anytone-at-d878uvii-replacement-antenna-pd-14766)
 - **119.** [Anytone power levels on Analogue](analogue/anytone-power-levels-on-analogue.md)
 - **120.** [Remote Moni](scanning-monitoring/remote-moni.md)
@@ -142,7 +142,7 @@ Norman's numbered list from the original page, in his order. Each link goes to t
 - **122.** [KlickFast](https://www.niton999.co.uk/mates-rates-2-pack-of-niton-tactical-lite-dock.html) - [Photo 1](originals/images/Anytone/KlickFast_1.jpg) - [Photo 2](originals/images/Anytone/KlickFast_2.jpg)
 - **123.** [DMR Text Message on BrandMeister](operating/dmr-text-message-on-brandmeister.md) 123a [DMR Text Message FreeDMR Network](https://www.freedmr.uk/index.php/sms-messages/)
 - **124.** [Motorola RAS and CAP+](encryption/motorola-ras-and-cap.md).
-- **125.** [Satellite, refer to videos v42, v43, v44](external-resources.md)
+- **125.** [Satellite, refer to videos v42, v43, v44](videos.md)
 - **126.** [868/878 Resetting your power on password](mods/868-878/66-lost-password.md)
 - **127.** [578 Resetting your power on password](mods/578/41-lost-password.md)
 - **128.** [Anytone encryption to Motorola / Hytera](encryption/anytone-encryption-to-motorola-hytera.md)
@@ -206,4 +206,4 @@ Norman's numbered list from the original page, in his order. Each link goes to t
 - **186.** [WebCPS AT Options](https://cps.aes.app/tools/anytone-options)
 - **187.** [WebCPS Screen Pictures](https://cps.aes.app/tools/screen-pictures)
 - **188.** [WebCPS by RadioID. Add repeater channels and zones](https://radioid.net/) 190. UK DMR
-- **189.** [WebCPS converts CP to another radio model](https://cps.aes.app) [Back to Top](external-resources.md) Networks
+- **189.** [WebCPS converts CP to another radio model](https://cps.aes.app) [Back to Top](hub-index.md) Networks

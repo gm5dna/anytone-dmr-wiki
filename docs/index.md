@@ -1,10 +1,10 @@
 ---
-title: AnyTone DMR UK Wiki
+title: AnyTone DMR Guide
 ---
 
-# AnyTone DMR UK Wiki
+# AnyTone DMR Guide
 
-**Norman Williams'** guide to the AnyTone AT-D168UV, AT-D868UV, AT-D878UV, AT-D890UV and AT-D578UV radios, preserved from [hamradiosouthernrepeaters.co.uk](external-resources.md) before it closes in June 2027.
+**Norman Williams'** guide to the AnyTone AT-D168UV, AT-D868UV, AT-D878UV, AT-D890UV and AT-D578UV radios, preserved from [hamradiosouthernrepeaters.co.uk](https://hamradiosouthernrepeaters.co.uk/anytone-dmr.html) before it closes in June 2027.
 
 ## I have an…
 

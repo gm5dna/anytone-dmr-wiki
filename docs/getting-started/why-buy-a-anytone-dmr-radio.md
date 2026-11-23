@@ -14,7 +14,7 @@ tags: []
 1. Great Warranty. \*Up to 18 months by Anytone.
 2. Free Updates to Firmware and CPS if required to fix issues.
 3. Free CPS software for Windows.
-4. Great support via this [Facebook Group](https://www.facebook.com/groups/1798919343492370) and [Website](../external-resources.md).
+4. Great support via this [Facebook Group](https://www.facebook.com/groups/1798919343492370) and [Website](../hub-index.md).
 
 ## Features that make the Anytone better than others out of the box
 
@@ -32,7 +32,7 @@ tags: []
 12. [Roaming.](../operating/roaming.md)
 13. [Full control of your Digital Hold Times.](https://www.youtube.com/watch?v=kHfKZ9sekyw&feature=youtu.be) *There are downsides to setting too high or infinity. 5sec to 30min depending on your needs.*
 
-Many more features that you can find more information on at this [website](../external-resources.md).
+Many more features that you can find more information on at this [website](../hub-index.md).
 
 ## Notes
 

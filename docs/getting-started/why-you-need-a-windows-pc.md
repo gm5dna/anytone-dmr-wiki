@@ -23,4 +23,4 @@ tags: [AT-D878UV]
 5. When you have done this and sent your code plug to the radio, only then can you do some things via the radio.
 6. If you make changes via the radio, you **must** read the radio back to the CPS, so you have them saved in your Code Plug.
 
-You should look over this [website](../external-resources.md) for more info on how to set up.
+You should look over this [website](../hub-index.md) for more info on how to set up.

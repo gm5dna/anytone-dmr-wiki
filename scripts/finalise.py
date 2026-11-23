@@ -30,7 +30,7 @@ LINK = re.compile(r"(\]\(|<)(https?://(?:www\.)?(?:hamradiosouthernrepeaters\.co
 
 def notes():
     for f in DOCS.rglob("*.md"):
-        if "originals" not in f.parts:
+        if "originals" not in f.parts and f != DOCS / "index.md":  # home page links to Norman's live site on purpose
             yield f
 
 
@@ -40,8 +40,10 @@ def build_map():
         m = re.search(r"^source_url:\s*(\S+)", f.read_text(), re.M)
         if m:
             by_url.setdefault(m.group(1).replace("http://", "https://"), f.relative_to(DOCS).as_posix())
-    for path, note in PAGE_NOTES.items():
-        by_url.setdefault(SITE + path, note)
+    for path, note in PAGE_NOTES.items():  # Norman's pages win over notes that merely cite them
+        by_url[SITE + path] = note
+    for anchor, note in {"Video": "videos.md", "Network": "uk-networks.md", "WebCPS": "external-resources.md"}.items():
+        by_url[f"{SITE}/anytone-dmr.html#{anchor}"] = note
     return by_url
 
 

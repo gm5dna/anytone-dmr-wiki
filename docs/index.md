@@ -1,5 +1,5 @@
 ---
-title: AnyTone DMR Guide
+title: Home
 ---
 
 # AnyTone DMR Guide
